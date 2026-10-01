@@ -1,0 +1,635 @@
+{
+  "chamberName": "european-parliament",
+  "termId": "9",
+  "sessionId": "49",
+  "dateId": "2020-06-18",
+  "statementId": "3-39",
+  "statementIdNew": 39,
+  "data": {
+    "chapter": {
+      "TL-CHAP": [
+        {
+          "#text": "Последиците от пандемията от COVID-19 за външната политика - Закона на КНР за националната сигурност по отношение на Хонконг и необходимостта ЕС да защити високата степен на автономност на Хонконг - Реакцията на ЕС във връзка с възможното анексиране на Западния бряг от страна на Израел (разискване)",
+          "@_VL": "BG",
+          "@_TYPE": "OTHER",
+          "@_VOD-START": "2020-06-18T09:16:20.137",
+          "@_VOD-END": "2020-06-18T10:32:04.000"
+        },
+        {
+          "#text": "Consecuencias para la política exterior de la crisis de la COVID-19 - Ley de seguridad nacional de la República Popular China para Hong Kong y necesidad de que la Unión defienda el elevado grado de autonomía de Hong Kong - Respuesta de la Unión a la posible anexión israelí de parte de Cisjordania (debate)",
+          "@_VL": "ES",
+          "@_TYPE": "OTHER",
+          "@_VOD-START": "2020-06-18T09:16:20.137",
+          "@_VOD-END": "2020-06-18T10:32:04.000"
+        },
+        {
+          "#text": "Zahraničně-politické dopady krize COVID-19 - Zákon o národní bezpečnosti ČLR pro Hongkong a potřeba toho, aby EU hájila vysoký stupeň autonomie Hongkongu - Reakce EU na možné zabírání území na Západním břehu Jordánu Izraelem (rozprava)",
+          "@_VL": "CS",
+          "@_TYPE": "OTHER",
+          "@_VOD-START": "2020-06-18T09:16:20.137",
+          "@_VOD-END": "2020-06-18T10:32:04.000"
+        },
+        {
+          "#text": "Udenrigspolitiske konsekvenser af covid-19-krisen - Kinas nationale sikkerhedslov for Hongkong og nødvendigheden af, at EU forsvarer Hongkongs høje grad af autonomi - EU's reaktion på Israels eventuelle annektering af dele af Vestbredden (forhandling)",
+          "@_VL": "DA",
+          "@_TYPE": "OTHER",
+          "@_VOD-START": "2020-06-18T09:16:20.137",
+          "@_VOD-END": "2020-06-18T10:32:04.000"
+        },
+        {
+          "#text": "Außenpolitische Folgen der COVID-19-Krise - Das nationale Sicherheitsgesetz der Volksrepublik China für Hongkong und die Notwendigkeit aufseiten der EU, Hongkongs hohes Maß an Autonomie zu verteidigen - Die Reaktion der EU auf die etwaige Annexion von Teilen des Westjordanlands durch Israel (Aussprache)",
+          "@_VL": "DE",
+          "@_TYPE": "OTHER",
+          "@_VOD-START": "2020-06-18T09:16:20.137",
+          "@_VOD-END": "2020-06-18T10:32:04.000"
+        },
+        {
+          "#text": "COVID-19 kriisi välispoliitilised tagajärjed - Hiina Rahvavabariigi Hongkongi riikliku julgeoleku seadus ja ELi vajadus kaitsta Hongkongi laialdast autonoomiat - ELi reaktsioon Jordani Läänekalda alade võimalikule annekteerimisele Iisraeli poolt (arutelu)",
+          "@_VL": "ET",
+          "@_TYPE": "OTHER",
+          "@_VOD-START": "2020-06-18T09:16:20.137",
+          "@_VOD-END": "2020-06-18T10:32:04.000"
+        },
+        {
+          "#text": "Οι επιπτώσεις της κρίσης COVID-19 στην εξωτερική πολιτική - Η νομοθεσία της ΛΔΚ περί εθνικής ασφαλείας για το Χονγκ Κονγκ και η ανάγκη να υπερασπιστεί η ΕΕ τον υψηλό βαθμό αυτονομίας του Χονγκ Κονγκ - Η αντίδραση της ΕΕ στο ενδεχόμενο προσάρτησης εδαφών της Δυτικής Όχθης από το Ισραήλ (συζήτηση)",
+          "@_VL": "EL",
+          "@_TYPE": "OTHER",
+          "@_VOD-START": "2020-06-18T09:16:20.137",
+          "@_VOD-END": "2020-06-18T10:32:04.000"
+        },
+        {
+          "#text": "Foreign policy consequences of the COVID-19 crisis - The PRC national security law for Hong Kong and the need for the EU to defend Hong Kong's high degree of autonomy - The EU's response to the possible Israeli annexation in the West Bank (debate)",
+          "@_VL": "EN",
+          "@_TYPE": "OTHER",
+          "@_VOD-START": "2020-06-18T09:16:20.137",
+          "@_VOD-END": "2020-06-18T10:32:04.000"
+        },
+        {
+          "#text": "Les répercussions de la crise de la COVID-19 sur la politique étrangère - La loi de sécurité nationale de la République populaire de Chine pour Hong Kong et la nécessité pour l'Union de défendre le niveau d'autonomie élevé de Hong Kong - La réaction de l'Union européenne face à l'annexion éventuelle de territoires en Cisjordanie par Israël (débat)",
+          "@_VL": "FR",
+          "@_TYPE": "OTHER",
+          "@_VOD-START": "2020-06-18T09:16:20.137",
+          "@_VOD-END": "2020-06-18T10:32:04.000"
+        },
+        {
+          "#text": "Ripercussioni della crisi della Covid-19 sulla politica estera - La legge della RPC sulla sicurezza nazionale per Hong Kong e la necessità che l'Unione europea difenda l'elevato grado di autonomia di Hong Kong - La risposta dell'UE all'eventuale annessione israeliana di territori della Cisgiordania (discussione)",
+          "@_VL": "IT",
+          "@_TYPE": "OTHER",
+          "@_VOD-START": "2020-06-18T09:16:20.137",
+          "@_VOD-END": "2020-06-18T10:32:04.000"
+        },
+        {
+          "#text": "Covid-19 krīzes radītās sekas ārpolitikas jomā - Honkongai piemērojamais ĶTR valsts drošības likums un nepieciešamība ES aizstāvēt augstu Honkongas autonomijas līmeni - ES reakcija uz iespējamo Izraēlas īstenoto Rietumkrasta teritoriju aneksiju (debates)",
+          "@_VL": "LV",
+          "@_TYPE": "OTHER",
+          "@_VOD-START": "2020-06-18T09:16:20.137",
+          "@_VOD-END": "2020-06-18T10:32:04.000"
+        },
+        {
+          "#text": "COVID-19 krizės padariniai užsienio politikai - Honkongui taikomas Kinijos Liaudies Respublikos nacionalinio saugumo įstatymas ir būtinybė ES ginti Honkongo aukšto lygio autonomiją - ES atsakas į Vakarų Kranto aneksiją, kurią gali įvykdyti Izrealis (diskusijos)",
+          "@_VL": "LT",
+          "@_TYPE": "OTHER",
+          "@_VOD-START": "2020-06-18T09:16:20.137",
+          "@_VOD-END": "2020-06-18T10:32:04.000"
+        },
+        {
+          "#text": "A Covid19-válság külpolitikai következményei - A Kínai Népköztársaság Hongkongra vonatkozó nemzetbiztonsági törvénye és annak szükségessége, hogy az EU megvédje Hongkong magas szintű autonómiáját - Az EU válasza az esetleges izraeli annektálásra Ciszjordániában (vita)",
+          "@_VL": "HU",
+          "@_TYPE": "OTHER",
+          "@_VOD-START": "2020-06-18T09:16:20.137",
+          "@_VOD-END": "2020-06-18T10:32:04.000"
+        },
+        {
+          "#text": "Ir-riperkussjonijiet tal-kriżi tal-COVID-19 fuq il-politika barranija - Il-liġi tal-PRC dwar is-sigurtà nazzjonali għal Hong Kong u l-ħtieġa li l-UE tiddefendi l-livell għoli ta' awtonomija ta' Hong Kong - Ir-rispons tal-UE għall-annessjoni Iżraeljana possibbli fix-Xatt tal-Punent (dibattitu)",
+          "@_VL": "MT",
+          "@_TYPE": "OTHER",
+          "@_VOD-START": "2020-06-18T09:16:20.137",
+          "@_VOD-END": "2020-06-18T10:32:04.000"
+        },
+        {
+          "#text": "Gevolgen van de COVID-19-crisis voor het buitenlands beleid - De wet inzake de nationale veiligheid van de Volksrepubliek China voor Hongkong en de noodzaak voor de EU om de hoge mate van autonomie van Hongkong te verdedigen - Reactie van de EU op een mogelijke annexatie door Israël van delen van de Westelijke Jordaanoever (debat)",
+          "@_VL": "NL",
+          "@_TYPE": "OTHER",
+          "@_VOD-START": "2020-06-18T09:16:20.137",
+          "@_VOD-END": "2020-06-18T10:32:04.000"
+        },
+        {
+          "#text": "Skutki kryzysu COVID-19 dla polityki zagranicznej - Ustawa Chińskiej Republiki Ludowej o bezpieczeństwie narodowym dla Hongkongu i konieczność obrony przez UE wysokiego stopnia autonomii Hongkongu - Reakcja UE na ewentualną aneksję przez Izrael części ziem na Zachodnim Brzegu (debata)",
+          "@_VL": "PL",
+          "@_TYPE": "OTHER",
+          "@_VOD-START": "2020-06-18T09:16:20.137",
+          "@_VOD-END": "2020-06-18T10:32:04.000"
+        },
+        {
+          "#text": "Consequências da crise da COVID-19 para a política externa - A lei da segurança nacional da RPC para Hong Kong e a necessidade de a UE defender o elevado grau de autonomia de Hong Kong - A resposta da UE à possível anexação da Cisjordânia por Israel (debate)",
+          "@_VL": "PT",
+          "@_TYPE": "OTHER",
+          "@_VOD-START": "2020-06-18T09:16:20.137",
+          "@_VOD-END": "2020-06-18T10:32:04.000"
+        },
+        {
+          "#text": "Consecințe asupra politicii externe ale crizei COVID-19 - Legea privind securitatea națională a Republicii Populare Chineze pentru Hong Kong și necesitatea ca UE să apere nivelul ridicat de autonomie al Hong Kong-ului - Răspunsul UE la posibila anexare de către Israel de teritoriu în Cisiordania (dezbatere)",
+          "@_VL": "RO",
+          "@_TYPE": "OTHER",
+          "@_VOD-START": "2020-06-18T09:16:20.137",
+          "@_VOD-END": "2020-06-18T10:32:04.000"
+        },
+        {
+          "#text": "Dôsledky krízy spôsobenej ochorením COVID-19 v oblasti zahraničnej politiky - Zákon ČĽR o národnej bezpečnosti pre Hongkong a potreba, aby EÚ obhajovala vysoký stupeň autonómie Hongkongu - Reakcia EÚ na možnú izraelskú anexiu v Predjordánsku (rozprava)",
+          "@_VL": "SK",
+          "@_TYPE": "OTHER",
+          "@_VOD-START": "2020-06-18T09:16:20.137",
+          "@_VOD-END": "2020-06-18T10:32:04.000"
+        },
+        {
+          "#text": "Zunanjepolitične posledice krize zaradi bolezni COVID-19 - Zakon Ljudske republike Kitajske o nacionalni varnosti v Hongkongu in nujnost, da se EU zavzame za visoko stopnjo avtonomije Hongkonga - Odziv EU na možnost izraelske priključitve območij na Zahodnem bregu (razprava)",
+          "@_VL": "SL",
+          "@_TYPE": "OTHER",
+          "@_VOD-START": "2020-06-18T09:16:20.137",
+          "@_VOD-END": "2020-06-18T10:32:04.000"
+        },
+        {
+          "#text": "Covid-19-kriisin ulkopoliittiset seuraukset - Kiinan kansantasavallan hyväksymä Hongkongin kansallisen turvallisuuden laki ja EU:n tarve puolustaa Hongkongin laajaa autonomiaa - EU:n toimet vastauksena Länsirannan mahdolliseen liittämiseen Israeliin (keskustelu)",
+          "@_VL": "FI",
+          "@_TYPE": "OTHER",
+          "@_VOD-START": "2020-06-18T09:16:20.137",
+          "@_VOD-END": "2020-06-18T10:32:04.000"
+        },
+        {
+          "#text": "Covid-19-krisens konsekvenser för utrikespolitiken - Kinas nationella säkerhetslag för Hongkong och nödvändigheten av att EU försvarar Hongkongs höga grad av autonomi - EU:s reaktion på Israels eventuella annektering av delar av Västbanken (debatt)",
+          "@_VL": "SV",
+          "@_TYPE": "OTHER",
+          "@_VOD-START": "2020-06-18T09:16:20.137",
+          "@_VOD-END": "2020-06-18T10:32:04.000"
+        },
+        {
+          "#text": "Posljedice krize uzrokovane izbijanjem bolesti COVID-19 za vanjsku politiku - Zakon Narodne Republike Kine o nacionalnoj sigurnosti za Hong Kong i potrebi za tim da EU brani visok stupanj autonomije Hong Konga - Odgovor EU-a na moguće izraelsko pripajanje Zapadne obale (rasprava)",
+          "@_VL": "HR",
+          "@_TYPE": "OTHER",
+          "@_VOD-START": "2020-06-18T09:16:20.137",
+          "@_VOD-END": "2020-06-18T10:32:04.000"
+        }
+      ],
+      "NUMERO": [
+        {
+          "@_ACT": "2-007-0000",
+          "@_PRE": "2-004-0000",
+          "@_SUIV": "2-008-0000",
+          "@_VL": "PT",
+          "@_VOD-START": "2020-06-18T09:16:20.147",
+          "@_VOD-END": "2020-06-18T09:17:57.000"
+        },
+        {
+          "@_ACT": "2-008-0000",
+          "@_PRE": "2-007-0000",
+          "@_SUIV": "2-010-0000",
+          "@_VL": "ES",
+          "@_VOD-START": "2020-06-18T09:17:56.484",
+          "@_VOD-END": "2020-06-18T09:18:30.000",
+          "@_SPEAKER_TYPE": "VPC/HR"
+        },
+        {
+          "@_ACT": "2-010-0000",
+          "@_PRE": "2-008-0000",
+          "@_SUIV": "2-011-0000",
+          "@_VL": "PT",
+          "@_VOD-START": "2020-06-18T09:29:08.229",
+          "@_VOD-END": "2020-06-18T09:29:59.000"
+        },
+        {
+          "@_ACT": "2-011-0000",
+          "@_PRE": "2-010-0000",
+          "@_SUIV": "2-012-0000",
+          "@_VL": "EN",
+          "@_VOD-START": "2020-06-18T09:29:57.780",
+          "@_VOD-END": "2020-06-18T09:31:35.000",
+          "@_SPEAKER_TYPE": "AU NOM DU GROUPE"
+        },
+        {
+          "@_ACT": "2-012-0000",
+          "@_PRE": "2-011-0000",
+          "@_SUIV": "2-013-0000",
+          "@_VL": "EN",
+          "@_VOD-START": "2020-06-18T09:31:47.365",
+          "@_VOD-END": "2020-06-18T09:32:58.000",
+          "@_SPEAKER_TYPE": "AU NOM DU GROUPE"
+        },
+        {
+          "@_ACT": "2-013-0000",
+          "@_PRE": "2-012-0000",
+          "@_SUIV": "2-014-0000",
+          "@_VL": "EN",
+          "@_VOD-START": "2020-06-18T09:33:08.712",
+          "@_VOD-END": "2020-06-18T09:35:22.000",
+          "@_SPEAKER_TYPE": "AU NOM DU GROUPE"
+        },
+        {
+          "@_ACT": "2-014-0000",
+          "@_PRE": "2-013-0000",
+          "@_SUIV": "2-015-0000",
+          "@_VL": "IT",
+          "@_VOD-START": "2020-06-18T09:35:30.436",
+          "@_VOD-END": "2020-06-18T09:36:47.000",
+          "@_SPEAKER_TYPE": "AU NOM DU GROUPE"
+        },
+        {
+          "@_ACT": "2-015-0000",
+          "@_PRE": "2-014-0000",
+          "@_SUIV": "2-016-0000",
+          "@_VL": "EN",
+          "@_VOD-START": "2020-06-18T09:36:57.512",
+          "@_VOD-END": "2020-06-18T09:39:13.000",
+          "@_SPEAKER_TYPE": "AU NOM DU GROUPE"
+        },
+        {
+          "@_ACT": "2-016-0000",
+          "@_PRE": "2-015-0000",
+          "@_SUIV": "2-017-0000",
+          "@_VL": "PL",
+          "@_VOD-START": "2020-06-18T09:39:28.853",
+          "@_VOD-END": "2020-06-18T09:40:50.000",
+          "@_SPEAKER_TYPE": "AU NOM DU GROUPE"
+        },
+        {
+          "@_ACT": "2-017-0000",
+          "@_PRE": "2-016-0000",
+          "@_SUIV": "2-018-0000",
+          "@_VL": "DE",
+          "@_VOD-START": "2020-06-18T09:41:01.313",
+          "@_VOD-END": "2020-06-18T09:42:28.000",
+          "@_SPEAKER_TYPE": "AU NOM DU GROUPE"
+        },
+        {
+          "@_ACT": "2-018-0000",
+          "@_PRE": "2-017-0000",
+          "@_SUIV": "2-019-0000",
+          "@_VL": "ES",
+          "@_VOD-START": "2020-06-18T09:42:41.312",
+          "@_VOD-END": "2020-06-18T09:43:36.000"
+        },
+        {
+          "@_ACT": "2-019-0000",
+          "@_PRE": "2-018-0000",
+          "@_SUIV": "2-020-0000",
+          "@_VL": "PT",
+          "@_VOD-START": "2020-06-18T09:43:39.614",
+          "@_VOD-END": "2020-06-18T09:44:12.000"
+        },
+        {
+          "@_ACT": "2-020-0000",
+          "@_PRE": "2-019-0000",
+          "@_SUIV": "2-021-0000",
+          "@_VL": "ES",
+          "@_VOD-START": "2020-06-18T09:44:05.646",
+          "@_VOD-END": "2020-06-18T09:44:29.000"
+        },
+        {
+          "@_ACT": "2-021-0000",
+          "@_PRE": "2-020-0000",
+          "@_SUIV": "2-022-0000",
+          "@_VL": "PT",
+          "@_VOD-START": "2020-06-18T09:44:28.784",
+          "@_VOD-END": "2020-06-18T09:45:06.000"
+        },
+        {
+          "@_ACT": "2-022-0000",
+          "@_PRE": "2-021-0000",
+          "@_SUIV": "2-023-0000",
+          "@_VL": "DE",
+          "@_VOD-START": "2020-06-18T09:45:05.545",
+          "@_VOD-END": "2020-06-18T09:46:20.000"
+        },
+        {
+          "@_ACT": "2-023-0000",
+          "@_PRE": "2-022-0000",
+          "@_SUIV": "2-024-0000",
+          "@_VL": "DE",
+          "@_VOD-START": "2020-06-18T09:46:31.217",
+          "@_VOD-END": "2020-06-18T09:47:57.000"
+        },
+        {
+          "@_ACT": "2-024-0000",
+          "@_PRE": "2-023-0000",
+          "@_SUIV": "2-025-0000",
+          "@_VL": "EN",
+          "@_VOD-START": "2020-06-18T09:48:06.544",
+          "@_VOD-END": "2020-06-18T09:49:43.000"
+        },
+        {
+          "@_ACT": "2-025-0000",
+          "@_PRE": "2-024-0000",
+          "@_SUIV": "2-026-0000",
+          "@_VL": "PL",
+          "@_VOD-START": "2020-06-18T09:49:55.554",
+          "@_VOD-END": "2020-06-18T09:51:07.000"
+        },
+        {
+          "@_ACT": "2-026-0000",
+          "@_PRE": "2-025-0000",
+          "@_SUIV": "2-027-0000",
+          "@_VL": "EN",
+          "@_VOD-START": "2020-06-18T09:51:17.514",
+          "@_VOD-END": "2020-06-18T09:52:34.000"
+        },
+        {
+          "@_ACT": "2-027-0000",
+          "@_PRE": "2-026-0000",
+          "@_SUIV": "2-028-0000",
+          "@_VL": "ES",
+          "@_VOD-START": "2020-06-18T09:52:46.197",
+          "@_VOD-END": "2020-06-18T09:54:17.000"
+        },
+        {
+          "@_ACT": "2-028-0000",
+          "@_PRE": "2-027-0000",
+          "@_SUIV": "2-029-0000",
+          "@_VL": "ES",
+          "@_VOD-START": "2020-06-18T09:54:23.247",
+          "@_VOD-END": "2020-06-18T09:55:43.000"
+        },
+        {
+          "@_ACT": "2-029-0000",
+          "@_PRE": "2-028-0000",
+          "@_SUIV": "2-030-0000",
+          "@_VL": "BG",
+          "@_VOD-START": "2020-06-18T09:55:55.473",
+          "@_VOD-END": "2020-06-18T09:57:20.000"
+        },
+        {
+          "@_ACT": "2-030-0000",
+          "@_PRE": "2-029-0000",
+          "@_SUIV": "2-031-0000",
+          "@_VL": "EN",
+          "@_VOD-START": "2020-06-18T09:57:33.421",
+          "@_VOD-END": "2020-06-18T09:58:44.000",
+          "@_SPEAKER_TYPE": "AU NOM DU GROUPE"
+        },
+        {
+          "@_ACT": "2-031-0000",
+          "@_PRE": "2-030-0000",
+          "@_SUIV": "2-032-0000",
+          "@_VL": "PT",
+          "@_VOD-START": "2020-06-18T09:58:56.841",
+          "@_VOD-END": "2020-06-18T10:00:10.000",
+          "@_SPEAKER_TYPE": "AU NOM DU GROUPE"
+        },
+        {
+          "@_ACT": "2-032-0000",
+          "@_PRE": "2-031-0000",
+          "@_SUIV": "2-033-0000",
+          "@_VL": "EN",
+          "@_VOD-START": "2020-06-18T10:00:21.631",
+          "@_VOD-END": "2020-06-18T10:01:58.000",
+          "@_SPEAKER_TYPE": "AU NOM DU GROUPE"
+        },
+        {
+          "@_ACT": "2-033-0000",
+          "@_PRE": "2-032-0000",
+          "@_SUIV": "2-034-0000",
+          "@_VL": "IT",
+          "@_VOD-START": "2020-06-18T10:02:12.719",
+          "@_VOD-END": "2020-06-18T10:03:23.000",
+          "@_SPEAKER_TYPE": "AU NOM DU GROUPE"
+        },
+        {
+          "@_ACT": "2-034-0000",
+          "@_PRE": "2-033-0000",
+          "@_SUIV": "2-035-0000",
+          "@_VL": "EN",
+          "@_VOD-START": "2020-06-18T10:03:32.259",
+          "@_VOD-END": "2020-06-18T10:05:03.000",
+          "@_SPEAKER_TYPE": "AU NOM DU GROUPE"
+        },
+        {
+          "@_ACT": "2-035-0000",
+          "@_PRE": "2-034-0000",
+          "@_SUIV": "2-036-0000",
+          "@_VL": "ES",
+          "@_VOD-START": "2020-06-18T10:05:15.829",
+          "@_VOD-END": "2020-06-18T10:06:30.000",
+          "@_SPEAKER_TYPE": "AU NOM DU GROUPE"
+        },
+        {
+          "@_ACT": "2-036-0000",
+          "@_PRE": "2-035-0000",
+          "@_SUIV": "2-037-0000",
+          "@_VL": "EN",
+          "@_VOD-START": "2020-06-18T10:06:39.843",
+          "@_VOD-END": "2020-06-18T10:08:02.000"
+        },
+        {
+          "@_ACT": "2-037-0000",
+          "@_PRE": "2-036-0000",
+          "@_SUIV": "2-038-0000",
+          "@_VL": "EN",
+          "@_VOD-START": "2020-06-18T10:08:12.337",
+          "@_VOD-END": "2020-06-18T10:09:36.000"
+        },
+        {
+          "@_ACT": "2-038-0000",
+          "@_PRE": "2-037-0000",
+          "@_SUIV": "2-039-0000",
+          "@_VL": "EN",
+          "@_VOD-START": "2020-06-18T10:09:45.764",
+          "@_VOD-END": "2020-06-18T10:10:50.000"
+        },
+        {
+          "@_ACT": "2-039-0000",
+          "@_PRE": "2-038-0000",
+          "@_SUIV": "2-040-0000",
+          "@_VL": "ES",
+          "@_VOD-START": "2020-06-18T10:11:03.535",
+          "@_VOD-END": "2020-06-18T10:12:25.000",
+          "@_SPEAKER_TYPE": "AU NOM DU GROUPE"
+        },
+        {
+          "@_ACT": "2-040-0000",
+          "@_PRE": "2-039-0000",
+          "@_SUIV": "2-041-0000",
+          "@_VL": "FR",
+          "@_VOD-START": "2020-06-18T10:12:40.749",
+          "@_VOD-END": "2020-06-18T10:14:09.000",
+          "@_SPEAKER_TYPE": "AU NOM DU GROUPE"
+        },
+        {
+          "@_ACT": "2-041-0000",
+          "@_PRE": "2-040-0000",
+          "@_SUIV": "2-042-0000",
+          "@_VL": "FR",
+          "@_VOD-START": "2020-06-18T10:14:22.295",
+          "@_VOD-END": "2020-06-18T10:16:10.000",
+          "@_SPEAKER_TYPE": "AU NOM DU GROUPE"
+        },
+        {
+          "@_ACT": "2-042-0000",
+          "@_PRE": "2-041-0000",
+          "@_SUIV": "2-043-0000",
+          "@_VL": "ES",
+          "@_VOD-START": "2020-06-18T10:16:21.860",
+          "@_VOD-END": "2020-06-18T10:18:03.000",
+          "@_SPEAKER_TYPE": "AU NOM DU GROUPE"
+        },
+        {
+          "@_ACT": "2-043-0000",
+          "@_PRE": "2-042-0000",
+          "@_SUIV": "2-044-0000",
+          "@_VL": "IT",
+          "@_VOD-START": "2020-06-18T10:18:16.698",
+          "@_VOD-END": "2020-06-18T10:19:20.000",
+          "@_SPEAKER_TYPE": "AU NOM DU GROUPE"
+        },
+        {
+          "@_ACT": "2-044-0000",
+          "@_PRE": "2-043-0000",
+          "@_SUIV": "2-045-0000",
+          "@_VL": "NL",
+          "@_VOD-START": "2020-06-18T10:19:33.402",
+          "@_VOD-END": "2020-06-18T10:20:48.000",
+          "@_SPEAKER_TYPE": "AU NOM DU GROUPE"
+        },
+        {
+          "@_ACT": "2-045-0000",
+          "@_PRE": "2-044-0000",
+          "@_SUIV": "2-046-0000",
+          "@_VL": "ES",
+          "@_VOD-START": "2020-06-18T10:21:05.303",
+          "@_VOD-END": "2020-06-18T10:22:50.000",
+          "@_SPEAKER_TYPE": "AU NOM DU GROUPE"
+        },
+        {
+          "@_ACT": "2-046-0000",
+          "@_PRE": "2-045-0000",
+          "@_SUIV": "2-047-0000",
+          "@_VL": "SV",
+          "@_VOD-START": "2020-06-18T10:23:00.911",
+          "@_VOD-END": "2020-06-18T10:24:27.000"
+        },
+        {
+          "@_ACT": "2-047-0000",
+          "@_PRE": "2-046-0000",
+          "@_SUIV": "2-048-0000",
+          "@_VL": "ES",
+          "@_VOD-START": "2020-06-18T10:25:02.538",
+          "@_VOD-END": "2020-06-18T10:31:23.000",
+          "@_SPEAKER_TYPE": "VPC/HR"
+        },
+        {
+          "@_ACT": "2-048-0000",
+          "@_PRE": "2-047-0000",
+          "@_SUIV": "2-048-5000",
+          "@_VL": "PT",
+          "@_VOD-START": "2020-06-18T10:31:20.713",
+          "@_VOD-END": "2020-06-18T10:32:03.000"
+        },
+        {
+          "@_ACT": "2-048-5000",
+          "@_PRE": "2-048-0000",
+          "@_SUIV": "2-048-7500",
+          "@_VL": "PL",
+          "@_SPEAKER_TYPE": "ECRIT"
+        },
+        {
+          "@_ACT": "2-048-7500",
+          "@_PRE": "2-048-5000",
+          "@_SUIV": "2-048-8750",
+          "@_VL": "PL",
+          "@_SPEAKER_TYPE": "ECRIT"
+        },
+        {
+          "@_ACT": "2-048-8750",
+          "@_PRE": "2-048-7500",
+          "@_SUIV": "2-049-0000",
+          "@_VL": "HU",
+          "@_SPEAKER_TYPE": "ECRIT"
+        },
+        {
+          "@_ACT": "2-049-0000",
+          "@_PRE": "2-048-8750",
+          "@_SUIV": "2-049-5000",
+          "@_VL": "HU",
+          "@_SPEAKER_TYPE": "ECRIT"
+        },
+        {
+          "@_ACT": "2-049-5000",
+          "@_PRE": "2-049-0000",
+          "@_SUIV": "2-050-0000",
+          "@_VL": "CS",
+          "@_SPEAKER_TYPE": "ECRIT"
+        },
+        {
+          "@_ACT": "2-050-0000",
+          "@_PRE": "2-049-5000",
+          "@_SUIV": "2-051-0000",
+          "@_VL": "CS",
+          "@_SPEAKER_TYPE": "ECRIT"
+        },
+        {
+          "@_ACT": "2-051-0000",
+          "@_PRE": "2-050-0000",
+          "@_SUIV": "2-053-0000",
+          "@_VL": "DE"
+        }
+      ],
+      "PRES": {
+        "EMPHAS": [
+          {
+            "#text": "VORSITZ: NICOLA BEER",
+            "@_NAME": "B"
+          },
+          {
+            "#text": "Vizepräsidentin",
+            "@_NAME": "I"
+          }
+        ],
+        "BRK": ""
+      },
+      "@_NUMBER": "3"
+    },
+    "intervention": {
+      "ORATEUR": {
+        "LG": "ES",
+        "@_PP": "NULL",
+        "@_LG": "ES",
+        "@_MEPID": "0",
+        "@_CODICT": "28267",
+        "@_LIB": "Josep | Borrell Fontelles",
+        "@_SPEAKER_TYPE": "vpc/hr"
+      },
+      "PARA": [
+        {
+          "EMPHAS": [
+            {
+              "#text": "Josep Borrell Fontelles,",
+              "@_NAME": "B"
+            },
+            {
+              "#text": "vicepresidente de la Comisión / alto representante de la Unión para Asuntos Exteriores y Política de Seguridad",
+              "@_NAME": "I"
+            },
+            {
+              "#text": ".",
+              "@_NAME": "B"
+            }
+          ],
+          "#text": "—Cinco minutos es tiempo suficiente para contestar a 33 oradores. Ustedes comprenderán que mi respuesta no podrá ser todo lo suficientemente completa que yo hubiera deseado. Estoy encantado de participar en este debate, y quizá sería bueno que pudiese tener también la oportunidad de interaccionar con ustedes en mis respuestas, voy a intentar hacerlo en la medida de lo posible."
+        },
+        "Sobre Israel, la anexión, se han manifestado distintos puntos de vista. Alguien ha dicho que es discutible, que si es o no acorde con el Derecho internacional. Solo puedo decirles que hay veinticinco países de los veintisiete que creen que es contrario al Derecho internacional. Estarán equivocados todos ellos, pero es lo que creen. Veinticinco países de veintisiete han apoyado claramente una declaración en la que dicen que esto sería contrario al Derecho internacional.",
+        "¿Por qué estamos hablando de esto ahora? Porque estamos intentando evitar que ocurra.",
+        "¿Que no sabemos los planes del Gobierno de Israel? Ustedes perdonen. Sí, sí los sabemos. Claro que los sabemos. Son públicos y notorios, forman parte del acuerdo de coalición. Y a mí mismo me los han explicado en vivo y en directo ministros de ese gobierno. Y al ministro alemán, que ha ido a Israel, se lo han dicho directamente. O sea, que saberlo, lo sabemos. No hagamos la política del avestruz. No, no sabemos. Sí, sabemos.",
+        "¿Y qué estamos haciendo? Estamos haciendo lo posible para que diplomáticamente estas cosas no ocurran y no tengamos que hacer frente a una situación difícil.",
+        "¿Por qué la Unión Europea no reconoce al Estado palestino? Porque la Unión Europea no reconoce a nadie, no tiene capacidad para reconocer. Esto lo hacen los Estados miembros, y cada uno toma la decisión que le parece oportuna.",
+        "¿Qué medidas se van a tomar? Pues, veremos. No anticipemos. Aquí, sí; no anticipemos. Intentemos prever. Pero ciertamente, la posición mayoritaria, que no unánime —desgraciadamente, no puedo asegurar que sea unánime, porque no lo es—, es que esto sería contrario al Derecho internacional y que tendría que tener consecuencias, y estamos intentando evitar que ocurra.",
+        "En cuanto a Hong Kong y a China, no puedo estar más de acuerdo con ustedes sobre la necesidad de hacer todo lo que esté en nuestra mano para que se respeten los acuerdos internacionales que suscribió China y el sistema que pactó con el Reino Unido cuando este abandonó la colonia.",
+        "Lo hacemos por defender principios, pero también porque es en nuestro interés, y hay una intensa actividad al respecto.",
+        "Hay más cuestiones en nuestra relación con China, que vamos a tratar en la próxima cumbre. He intentado referirme a todas ellas, y ustedes también, pero concentrémonos en un aspecto muy importante que muchos de ustedes han señalado, que es que la crisis ha traído consigo —creo que han sido el señor Bütikofer y otros quienes lo han señalado muy acertadamente— una crisis del liderazgo americano —los Estados Unidos se han retirado claramente de cualquier intento de liderar la respuesta mundial a la pandemia—, una batalla hegemónica ente las dos grandes potencias y una debilidad de las instancias multinacionales. Este es el escenario en el que estamos.",
+        "Y creo sinceramente que Europa no puede dejar de ignorar este escenario y que tiene que tener una posición propia. En cuanto a la autonomía estratégica —tiene mucho que ver con lo que han señalado también muchos de ustedes sobre nuestra excesiva dependencia en el suministro de medicinas, y nos damos cuenta ahora de que nuestra dependencia es mucho mayor de lo que pensábamos y puede hacerse crítica en momentos críticos como este—, necesitamos reforzar esta autonomía estratégica y mantener nuestros valores y nuestros intereses de forma autónoma —y me he esforzado en explicar que eso no quiere decir equidistante, pero sí tener muy claro qué es lo que nosotros queremos, qué es lo que defendemos.",
+        "Porque, nos guste o no, desgraciadamente, no podemos estar de acuerdo siempre con los Estados Unidos, porque los Estados Unidos toman decisiones unilaterales que no compartimos. Y como no las compartimos, no podemos estar de su lado. Por ejemplo, no podemos estar de su lado en las decisiones que toman con respecto a la Corte Penal Internacional. Y aquí, espero que el Parlamento esté de acuerdo con esta afirmación. Y, en cambio, tenemos que preservar la unidad trasatlántica en lo que siempre sea posible, porque compartimos el mismo sistema político.",
+        "Por eso, a veces decimos que somos rivales sistémicos de China porque, ciertamente, no compartimos el mismo sistema político, pero esto no quiere decir que tengamos que estar rivalizando con China en todo y en todo momento. Porque hay cuestiones muy importantes en las que necesitamos una acción conjunta, en la medida en que se pueda acordar.",
+        "Creo, señorías, que estas son las respuestas.",
+        "Sí, carrera armamentística. No, nadie está pensando en que empujemos una carrera armamentística pero, desgraciadamente, hay conflictos a los que tenemos que hacer frente y, desgraciadamente, a esos conflictos hay que hacerles frente con armas.",
+        "La próxima vez que un grupo de terroristas asalte un poblado en Mali y mate a todos sus habitantes a punta de ametralladora, les mandaremos el texto de una Resolución para invitarles a que no lo sigan haciendo, pero yo creo que es mucho más eficiente que las fuerzas de esos países y las nuestras —que están desplegadas allí para combatir el terrorismo— tengan los medios necesarios para hacerlo."
+      ]
+    },
+    "idx": 39
+  }
+}

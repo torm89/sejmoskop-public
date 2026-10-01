@@ -1,0 +1,581 @@
+{
+  "chamberName": "european-parliament",
+  "termId": "9",
+  "sessionId": "1",
+  "dateId": "2024-03-12",
+  "statementId": "12-9",
+  "statementIdNew": -1,
+  "data": {
+    "chapter": {
+      "TL-CHAP": [
+        {
+          "#text": "Законодателен акт за изкуствения интелект (разискване)",
+          "@_VL": "BG",
+          "@_TYPE": "OTHER",
+          "@_VOD-START": "2024-03-12T14:52:35.671",
+          "@_VOD-END": "2024-03-12T15:59:21.000"
+        },
+        {
+          "#text": "Ley de Inteligencia Artificial (debate)",
+          "@_VL": "ES",
+          "@_TYPE": "OTHER",
+          "@_VOD-START": "2024-03-12T14:52:35.671",
+          "@_VOD-END": "2024-03-12T15:59:21.000"
+        },
+        {
+          "#text": "Akt o umělé inteligenci (rozprava)",
+          "@_VL": "CS",
+          "@_TYPE": "OTHER",
+          "@_VOD-START": "2024-03-12T14:52:35.671",
+          "@_VOD-END": "2024-03-12T15:59:21.000"
+        },
+        {
+          "#text": "Forordningen om kunstig intelligens (forhandling)",
+          "@_VL": "DA",
+          "@_TYPE": "OTHER",
+          "@_VOD-START": "2024-03-12T14:52:35.671",
+          "@_VOD-END": "2024-03-12T15:59:21.000"
+        },
+        {
+          "#text": "Gesetz über künstliche Intelligenz (Aussprache)",
+          "@_VL": "DE",
+          "@_TYPE": "OTHER",
+          "@_VOD-START": "2024-03-12T14:52:35.671",
+          "@_VOD-END": "2024-03-12T15:59:21.000"
+        },
+        {
+          "#text": "Tehisintellekti käsitlev õigusakt (arutelu)",
+          "@_VL": "ET",
+          "@_TYPE": "OTHER",
+          "@_VOD-START": "2024-03-12T14:52:35.671",
+          "@_VOD-END": "2024-03-12T15:59:21.000"
+        },
+        {
+          "#text": "Πράξη για την τεχνητή νοημοσύνη (συζήτηση)",
+          "@_VL": "EL",
+          "@_TYPE": "OTHER",
+          "@_VOD-START": "2024-03-12T14:52:35.671",
+          "@_VOD-END": "2024-03-12T15:59:21.000"
+        },
+        {
+          "#text": "Artificial Intelligence Act (debate)",
+          "@_VL": "EN",
+          "@_TYPE": "OTHER",
+          "@_VOD-START": "2024-03-12T14:52:35.671",
+          "@_VOD-END": "2024-03-12T15:59:21.000"
+        },
+        {
+          "#text": "Législation sur l’intelligence artificielle (débat)",
+          "@_VL": "FR",
+          "@_TYPE": "OTHER",
+          "@_VOD-START": "2024-03-12T14:52:35.671",
+          "@_VOD-END": "2024-03-12T15:59:21.000"
+        },
+        {
+          "#text": "Regolamento sull'intelligenza artificiale (discussione)",
+          "@_VL": "IT",
+          "@_TYPE": "OTHER",
+          "@_VOD-START": "2024-03-12T14:52:35.671",
+          "@_VOD-END": "2024-03-12T15:59:21.000"
+        },
+        {
+          "#text": "Mākslīgā intelekta akts (debates)",
+          "@_VL": "LV",
+          "@_TYPE": "OTHER",
+          "@_VOD-START": "2024-03-12T14:52:35.671",
+          "@_VOD-END": "2024-03-12T15:59:21.000"
+        },
+        {
+          "#text": "Dirbtinio intelekto aktas (diskusijos)",
+          "@_VL": "LT",
+          "@_TYPE": "OTHER",
+          "@_VOD-START": "2024-03-12T14:52:35.671",
+          "@_VOD-END": "2024-03-12T15:59:21.000"
+        },
+        {
+          "#text": "A mesterséges intelligenciáról szóló jogszabály (vita)",
+          "@_VL": "HU",
+          "@_TYPE": "OTHER",
+          "@_VOD-START": "2024-03-12T14:52:35.671",
+          "@_VOD-END": "2024-03-12T15:59:21.000"
+        },
+        {
+          "#text": "Att dwar l-Intelliġenza Artifiċjali (dibattitu)",
+          "@_VL": "MT",
+          "@_TYPE": "OTHER",
+          "@_VOD-START": "2024-03-12T14:52:35.671",
+          "@_VOD-END": "2024-03-12T15:59:21.000"
+        },
+        {
+          "#text": "De wet op de artificiële intelligentie (debat)",
+          "@_VL": "NL",
+          "@_TYPE": "OTHER",
+          "@_VOD-START": "2024-03-12T14:52:35.671",
+          "@_VOD-END": "2024-03-12T15:59:21.000"
+        },
+        {
+          "#text": "Akt w sprawie sztucznej inteligencji (debata)",
+          "@_VL": "PL",
+          "@_TYPE": "OTHER",
+          "@_VOD-START": "2024-03-12T14:52:35.671",
+          "@_VOD-END": "2024-03-12T15:59:21.000"
+        },
+        {
+          "#text": "Regulamento Inteligência Artificial (debate)",
+          "@_VL": "PT",
+          "@_TYPE": "OTHER",
+          "@_VOD-START": "2024-03-12T14:52:35.671",
+          "@_VOD-END": "2024-03-12T15:59:21.000"
+        },
+        {
+          "#text": "Legea privind inteligența artificială (dezbatere)",
+          "@_VL": "RO",
+          "@_TYPE": "OTHER",
+          "@_VOD-START": "2024-03-12T14:52:35.671",
+          "@_VOD-END": "2024-03-12T15:59:21.000"
+        },
+        {
+          "#text": "Akt o umelej inteligencii (rozprava)",
+          "@_VL": "SK",
+          "@_TYPE": "OTHER",
+          "@_VOD-START": "2024-03-12T14:52:35.671",
+          "@_VOD-END": "2024-03-12T15:59:21.000"
+        },
+        {
+          "#text": "Akt o umetni inteligenci (razprava)",
+          "@_VL": "SL",
+          "@_TYPE": "OTHER",
+          "@_VOD-START": "2024-03-12T14:52:35.671",
+          "@_VOD-END": "2024-03-12T15:59:21.000"
+        },
+        {
+          "#text": "Tekoälysäädös (keskustelu)",
+          "@_VL": "FI",
+          "@_TYPE": "OTHER",
+          "@_VOD-START": "2024-03-12T14:52:35.671",
+          "@_VOD-END": "2024-03-12T15:59:21.000"
+        },
+        {
+          "#text": "Rättsakten om artificiell intelligens (debatt)",
+          "@_VL": "SV",
+          "@_TYPE": "OTHER",
+          "@_VOD-START": "2024-03-12T14:52:35.671",
+          "@_VOD-END": "2024-03-12T15:59:21.000"
+        },
+        {
+          "#text": "Akt o umjetnoj inteligenciji (rasprava)",
+          "@_VL": "HR",
+          "@_TYPE": "OTHER",
+          "@_VOD-START": "2024-03-12T14:52:35.671",
+          "@_VOD-END": "2024-03-12T15:59:21.000"
+        },
+        {
+          "#text": "An Gníomh um an Intleacht Shaorga (díospóireacht)",
+          "@_VL": "GA",
+          "@_TYPE": "OTHER",
+          "@_VOD-START": "2024-03-12T14:52:35.671",
+          "@_VOD-END": "2024-03-12T15:59:21.000"
+        }
+      ],
+      "NUMERO": [
+        {
+          "@_ACT": "2-204-0000",
+          "@_PRE": "2-202-0000",
+          "@_SUIV": "2-205-0000",
+          "@_VL": "EN",
+          "@_VOD-START": "2024-03-12T14:52:35.681",
+          "@_VOD-END": "2024-03-12T14:52:54.000"
+        },
+        {
+          "@_ACT": "2-205-0000",
+          "@_PRE": "2-204-0000",
+          "@_SUIV": "2-206-0000",
+          "@_VL": "IT",
+          "@_VOD-START": "2024-03-12T14:52:53.869",
+          "@_VOD-END": "2024-03-12T14:57:22.000",
+          "@_SPEAKER_TYPE": "RAPPORTEUR"
+        },
+        {
+          "@_ACT": "2-206-0000",
+          "@_PRE": "2-205-0000",
+          "@_SUIV": "2-207-0000",
+          "@_VL": "EN",
+          "@_VOD-START": "2024-03-12T14:57:28.269",
+          "@_VOD-END": "2024-03-12T15:01:23.000",
+          "@_SPEAKER_TYPE": "RAPPORTEUR"
+        },
+        {
+          "@_ACT": "2-207-0000",
+          "@_PRE": "2-206-0000",
+          "@_SUIV": "2-208-0000",
+          "@_VL": "EN",
+          "@_VOD-START": "2024-03-12T15:01:34.624",
+          "@_VOD-END": "2024-03-12T15:03:01.000",
+          "@_SPEAKER_TYPE": "RAP AVIS ITRE"
+        },
+        {
+          "@_ACT": "2-208-0000",
+          "@_PRE": "2-207-0000",
+          "@_SUIV": "2-209-0000",
+          "@_VL": "EN"
+        },
+        {
+          "@_ACT": "2-209-0000",
+          "@_PRE": "2-208-0000",
+          "@_SUIV": "2-210-0000",
+          "@_VL": "DE",
+          "@_VOD-START": "2024-03-12T15:03:09.405",
+          "@_VOD-END": "2024-03-12T15:05:47.000",
+          "@_SPEAKER_TYPE": "RAP AVIS JURI"
+        },
+        {
+          "@_ACT": "2-210-0000",
+          "@_PRE": "2-209-0000",
+          "@_SUIV": "2-211-0000",
+          "@_VL": "FR",
+          "@_VOD-START": "2024-03-12T15:05:57.681",
+          "@_VOD-END": "2024-03-12T15:14:42.000",
+          "@_SPEAKER_TYPE": "MEMBRE DE LA COMMISSION"
+        },
+        {
+          "@_ACT": "2-211-0000",
+          "@_PRE": "2-210-0000",
+          "@_SUIV": "2-212-0000",
+          "@_VL": "ES",
+          "@_VOD-START": "2024-03-12T15:14:56.175",
+          "@_VOD-END": "2024-03-12T15:16:17.000",
+          "@_SPEAKER_TYPE": "RAP AVIS ENVI"
+        },
+        {
+          "@_ACT": "2-212-0000",
+          "@_PRE": "2-211-0000",
+          "@_SUIV": "2-213-0000",
+          "@_VL": "EN",
+          "@_VOD-START": "2024-03-12T15:16:24.967",
+          "@_VOD-END": "2024-03-12T15:17:56.000",
+          "@_SPEAKER_TYPE": "RAP AVIS TRAN"
+        },
+        {
+          "@_ACT": "2-213-0000",
+          "@_PRE": "2-212-0000",
+          "@_SUIV": "2-214-0000",
+          "@_VL": "EN",
+          "@_VOD-START": "2024-03-12T15:18:00.357",
+          "@_VOD-END": "2024-03-12T15:20:02.000",
+          "@_SPEAKER_TYPE": "AU NOM DU GROUPE"
+        },
+        {
+          "@_ACT": "2-214-0000",
+          "@_PRE": "2-213-0000",
+          "@_SUIV": "2-215-0000",
+          "@_VL": "EN",
+          "@_VOD-START": "2024-03-12T15:20:09.760",
+          "@_VOD-END": "2024-03-12T15:22:09.000",
+          "@_SPEAKER_TYPE": "AU NOM DU GROUPE"
+        },
+        {
+          "@_ACT": "2-215-0000",
+          "@_PRE": "2-214-0000",
+          "@_SUIV": "2-216-0000",
+          "@_VL": "DE",
+          "@_VOD-START": "2024-03-12T15:22:14.213",
+          "@_VOD-END": "2024-03-12T15:23:37.000",
+          "@_SPEAKER_TYPE": "AU NOM DU GROUPE"
+        },
+        {
+          "@_ACT": "2-216-0000",
+          "@_PRE": "2-215-0000",
+          "@_SUIV": "2-217-0000",
+          "@_VL": "EN",
+          "@_VOD-START": "2024-03-12T15:23:43.623",
+          "@_VOD-END": "2024-03-12T15:25:32.000",
+          "@_SPEAKER_TYPE": "AU NOM DU GROUPE"
+        },
+        {
+          "@_ACT": "2-217-0000",
+          "@_PRE": "2-216-0000",
+          "@_SUIV": "2-218-0000",
+          "@_VL": "PL",
+          "@_VOD-START": "2024-03-12T15:25:39.164",
+          "@_VOD-END": "2024-03-12T15:27:06.000",
+          "@_SPEAKER_TYPE": "AU NOM DU GROUPE"
+        },
+        {
+          "@_ACT": "2-218-0000",
+          "@_PRE": "2-217-0000",
+          "@_SUIV": "2-219-0000",
+          "@_VL": "FR",
+          "@_VOD-START": "2024-03-12T15:27:12.596",
+          "@_VOD-END": "2024-03-12T15:28:43.000",
+          "@_SPEAKER_TYPE": "AU NOM DU GROUPE"
+        },
+        {
+          "@_ACT": "2-219-0000",
+          "@_PRE": "2-218-0000",
+          "@_SUIV": "2-220-0000",
+          "@_VL": "CS",
+          "@_VOD-START": "2024-03-12T15:28:49.505",
+          "@_VOD-END": "2024-03-12T15:29:58.000",
+          "@_SPEAKER_TYPE": "AU NOM DU GROUPE"
+        },
+        {
+          "@_ACT": "2-220-0000",
+          "@_PRE": "2-219-0000",
+          "@_SUIV": "2-221-0000",
+          "@_VL": "EN",
+          "@_VOD-START": "2024-03-12T15:30:02.961",
+          "@_VOD-END": "2024-03-12T15:31:17.000"
+        },
+        {
+          "@_ACT": "2-221-0000",
+          "@_PRE": "2-220-0000",
+          "@_SUIV": "2-222-0000",
+          "@_VL": "DE",
+          "@_VOD-START": "2024-03-12T15:31:16.778",
+          "@_VOD-END": "2024-03-12T15:31:38.000"
+        },
+        {
+          "@_ACT": "2-222-0000",
+          "@_PRE": "2-221-0000",
+          "@_SUIV": "2-223-0000",
+          "@_VL": "ES",
+          "@_VOD-START": "2024-03-12T15:31:37.694",
+          "@_VOD-END": "2024-03-12T15:33:04.000"
+        },
+        {
+          "@_ACT": "2-223-0000",
+          "@_PRE": "2-222-0000",
+          "@_SUIV": "2-224-0000",
+          "@_VL": "DA",
+          "@_VOD-START": "2024-03-12T15:33:08.597",
+          "@_VOD-END": "2024-03-12T15:34:13.000"
+        },
+        {
+          "@_ACT": "2-224-0000",
+          "@_PRE": "2-223-0000",
+          "@_SUIV": "2-225-0000",
+          "@_VL": "DA",
+          "@_VOD-START": "2024-03-12T15:34:18.997",
+          "@_VOD-END": "2024-03-12T15:35:47.000"
+        },
+        {
+          "@_ACT": "2-225-0000",
+          "@_PRE": "2-224-0000",
+          "@_SUIV": "2-226-0000",
+          "@_VL": "EN",
+          "@_VOD-START": "2024-03-12T15:36:00.149",
+          "@_VOD-END": "2024-03-12T15:37:43.000"
+        },
+        {
+          "@_ACT": "2-226-0000",
+          "@_PRE": "2-225-0000",
+          "@_SUIV": "2-227-0000",
+          "@_VL": "IT",
+          "@_VOD-START": "2024-03-12T15:37:49.027",
+          "@_VOD-END": "2024-03-12T15:39:10.000"
+        },
+        {
+          "@_ACT": "2-227-0000",
+          "@_PRE": "2-226-0000",
+          "@_SUIV": "2-228-0000",
+          "@_VL": "DE",
+          "@_VOD-START": "2024-03-12T15:39:16.242",
+          "@_VOD-END": "2024-03-12T15:40:21.000"
+        },
+        {
+          "@_ACT": "2-228-0000",
+          "@_PRE": "2-227-0000",
+          "@_SUIV": "2-229-0000",
+          "@_VL": "NL",
+          "@_VOD-START": "2024-03-12T15:40:25.893",
+          "@_VOD-END": "2024-03-12T15:41:32.000"
+        },
+        {
+          "@_ACT": "2-229-0000",
+          "@_PRE": "2-228-0000",
+          "@_SUIV": "2-230-0000",
+          "@_VL": "ES",
+          "@_VOD-START": "2024-03-12T15:41:38.530",
+          "@_VOD-END": "2024-03-12T15:43:00.000"
+        },
+        {
+          "@_ACT": "2-230-0000",
+          "@_PRE": "2-229-0000",
+          "@_SUIV": "2-231-0000",
+          "@_VL": "EN",
+          "@_VOD-START": "2024-03-12T15:42:56.008",
+          "@_VOD-END": "2024-03-12T15:44:09.000"
+        },
+        {
+          "@_ACT": "2-231-0000",
+          "@_PRE": "2-230-0000",
+          "@_SUIV": "2-232-0000",
+          "@_VL": "EN",
+          "@_VOD-START": "2024-03-12T15:44:09.030",
+          "@_VOD-END": "2024-03-12T15:44:35.000"
+        },
+        {
+          "@_ACT": "2-232-0000",
+          "@_PRE": "2-231-0000",
+          "@_SUIV": "2-233-0000",
+          "@_VL": "PT",
+          "@_VOD-START": "2024-03-12T15:44:35.848",
+          "@_VOD-END": "2024-03-12T15:45:33.000"
+        },
+        {
+          "@_ACT": "2-233-0000",
+          "@_PRE": "2-232-0000",
+          "@_SUIV": "2-234-0000",
+          "@_VL": "ES",
+          "@_VOD-START": "2024-03-12T15:45:40.717",
+          "@_VOD-END": "2024-03-12T15:46:52.000"
+        },
+        {
+          "@_ACT": "2-234-0000",
+          "@_PRE": "2-233-0000",
+          "@_SUIV": "2-235-0000",
+          "@_VL": "IT",
+          "@_VOD-START": "2024-03-12T15:46:59.446",
+          "@_VOD-END": "2024-03-12T15:48:22.000"
+        },
+        {
+          "@_ACT": "2-235-0000",
+          "@_PRE": "2-234-0000",
+          "@_SUIV": "2-236-0000",
+          "@_VL": "DE",
+          "@_VOD-START": "2024-03-12T15:48:28.920",
+          "@_VOD-END": "2024-03-12T15:49:53.000"
+        },
+        {
+          "@_ACT": "2-236-0000",
+          "@_PRE": "2-235-0000",
+          "@_SUIV": "2-237-0000",
+          "@_VL": "PT",
+          "@_VOD-START": "2024-03-12T15:50:03.809",
+          "@_VOD-END": "2024-03-12T15:51:05.000"
+        },
+        {
+          "@_ACT": "2-237-0000",
+          "@_PRE": "2-236-0000",
+          "@_SUIV": "2-238-0000",
+          "@_VL": "EN",
+          "@_VOD-START": "2024-03-12T15:51:05.264",
+          "@_VOD-END": "2024-03-12T15:51:32.000"
+        },
+        {
+          "@_ACT": "2-238-0000",
+          "@_PRE": "2-237-0000",
+          "@_SUIV": "2-239-0000",
+          "@_VL": "EN",
+          "@_VOD-START": "2024-03-12T15:51:32.387",
+          "@_VOD-END": "2024-03-12T15:52:37.000"
+        },
+        {
+          "@_ACT": "2-239-0000",
+          "@_PRE": "2-238-0000",
+          "@_SUIV": "2-240-0000",
+          "@_VL": "DE",
+          "@_VOD-START": "2024-03-12T15:52:37.325",
+          "@_VOD-END": "2024-03-12T15:53:27.000"
+        },
+        {
+          "@_ACT": "2-240-0000",
+          "@_PRE": "2-239-0000",
+          "@_SUIV": "2-241-0000",
+          "@_VL": "FR",
+          "@_VOD-START": "2024-03-12T15:53:27.495",
+          "@_VOD-END": "2024-03-12T15:55:46.000",
+          "@_SPEAKER_TYPE": "MEMBRE DE LA COMMISSION"
+        },
+        {
+          "@_ACT": "2-241-0000",
+          "@_PRE": "2-240-0000",
+          "@_SUIV": "2-242-0000",
+          "@_VL": "IT",
+          "@_VOD-START": "2024-03-12T15:55:51.984",
+          "@_VOD-END": "2024-03-12T15:57:58.000",
+          "@_SPEAKER_TYPE": "RAPPORTEUR"
+        },
+        {
+          "@_ACT": "2-242-0000",
+          "@_PRE": "2-241-0000",
+          "@_SUIV": "2-243-0000",
+          "@_VL": "EN",
+          "@_VOD-START": "2024-03-12T15:58:03.785",
+          "@_VOD-END": "2024-03-12T15:59:13.000",
+          "@_SPEAKER_TYPE": "RAPPORTEUR"
+        },
+        {
+          "@_ACT": "2-243-0000",
+          "@_PRE": "2-242-0000",
+          "@_SUIV": "2-244-0000",
+          "@_VL": "DE",
+          "@_VOD-START": "2024-03-12T15:59:12.737",
+          "@_VOD-END": "2024-03-12T15:59:21.000"
+        },
+        {
+          "@_ACT": "2-244-0000",
+          "@_PRE": "2-243-0000",
+          "@_SUIV": "2-246-0000",
+          "@_VL": "PT",
+          "@_SPEAKER_TYPE": "ECRIT"
+        }
+      ],
+      "PRES": {
+        "EMPHAS": [
+          {
+            "#text": "IN THE CHAIR: JAN-CHRISTOPH OETJEN",
+            "@_NAME": "B"
+          },
+          {
+            "#text": "Vice-President",
+            "@_NAME": "I"
+          }
+        ],
+        "BRK": ""
+      },
+      "PARA": {
+        "EMPHAS": {
+          "#text": "Catch-the-eye procedure",
+          "@_NAME": "I"
+        }
+      },
+      "@_NUMBER": "12"
+    },
+    "intervention": {
+      "ORATEUR": {
+        "LG": "EN",
+        "EMPHAS": {
+          "#text": "Petar Vitanov,",
+          "@_NAME": "B"
+        },
+        "@_PP": "S-D",
+        "@_LG": "EN",
+        "@_MEPID": "197844",
+        "@_CODICT": "197844",
+        "@_LIB": "Petar | Vitanov",
+        "@_SPEAKER_TYPE": "au nom du groupe"
+      },
+      "PARA": [
+        {
+          "EMPHAS": [
+            {
+              "#text": "on behalf of the S&D Group",
+              "@_NAME": "I"
+            },
+            {
+              "#text": ".",
+              "@_NAME": "B"
+            }
+          ],
+          "#text": "– Mr&#xa0;President, Commissioner, 87&#xa0;% of the respondents to the Eurobarometer Survey on Digital Rights and Principles say that Europeans should be protected against risky or unethical application of digital technologies including artificial intelligence. We are answering the demand of the people by introducing this legislation – the first comprehensive set of rules about AI systems."
+        },
+        "We have already said many things about the aspects of this agreement. The co-rapporteurs and the shadows, we all have briefed this room, our groups, our committees many times.",
+        "This was one of the most publicly documented pieces of EU legislation – the amount of articles and posts on social media was extraordinary, and everyone seems to have a strong opinion of the outcome – and also one of the most lobbied legislation as well. The corporate interests were huge, and I’m proud to say that faced with this enormous pressure, the European Parliament held its ground and fought for its citizens. The EU legislative procedures are too opaque, too confusing, but we are the ones who speak directly, openly to citizens, industry, NGOs. Our meetings are public and well documented. Our positions are clear regardless of which group I’m talking about. It’s the Council who is in debt with its citizens.",
+        "If there are any shortcomings of this legislation, and there probably are, it’s not because the European Parliament didn’t fight. We secured the ban of certain malicious AI&#xa0;systems. We introduced stricter safeguards on the use of RBI systems. We included foundation models in the scope of the regulation. We fought for more power to individuals when interacting with AI systems.",
+        "So, thank you to all of you, colleagues, all the usual suspects here, and thank you to your teams. It’s been an incredible journey. And I would like to give the remainder of my time to Svenja."
+      ]
+    },
+    "idx": 9
+  }
+}

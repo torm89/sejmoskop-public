@@ -1,0 +1,1461 @@
+[
+  {
+    "tag": {
+      "chamberName": "sejm",
+      "termId": "10",
+      "sessionId": "1",
+      "dateId": "3",
+      "statementId": "0",
+      "statementIdNew": 0
+    },
+    "speaker": {
+      "name": "Marsza\u0142ek"
+    },
+    "chairman": {
+      "name": "Marsza\u0142ek"
+    },
+    "timeline": [
+      {
+        "text": "",
+        "comments": [
+          "Wznowienie posiedzenia o godz. 12 min 04"
+        ],
+        "text_type": "NORMAL",
+        "timeline_id": 0
+      },
+      {
+        "text": "",
+        "comments": [
+          "Na posiedzeniu przewodniczy marsza\u0142ek Sejmu Szymon Ho\u0142ownia"
+        ],
+        "text_type": "NORMAL",
+        "timeline_id": 1
+      },
+      {
+        "text": "Wznawiam posiedzenie.",
+        "comments": [],
+        "text_type": "NORMAL",
+        "timeline_id": 2
+      },
+      {
+        "text": "Szanowni Pa\u0144stwo! Chc\u0119 poinformowa\u0107...",
+        "comments": [],
+        "text_type": "NORMAL",
+        "timeline_id": 3
+      },
+      {
+        "text": "",
+        "comments": [
+          "Wypowied\u017a poza mikrofonem"
+        ],
+        "text_type": "NORMAL",
+        "timeline_id": 4
+      },
+      {
+        "text": "Prosz\u0119 si\u0119 zg\u0142osi\u0107, wnioski formalne s\u0105 ju\u017c zarejestrowane, wi\u0119c rozumiem, \u017ce pan pose\u0142 b\u0119dzie mia\u0142 kolejny wniosek. Przed wej\u015bciem w punkt, po odczytaniu wszystkich formalno\u015bci udziel\u0119 pa\u0144stwu g\u0142osu.",
+        "comments": [],
+        "text_type": "NORMAL",
+        "timeline_id": 5
+      },
+      {
+        "text": "",
+        "comments": [
+          "Wypowied\u017a poza mikrofonem"
+        ],
+        "text_type": "NORMAL",
+        "timeline_id": 6
+      },
+      {
+        "text": "Tak, wiem, tylko odczytam najpierw informacje zwi\u0105zane z sekretarzami i przed rozpocz\u0119ciem punktu b\u0119dziecie pa\u0144stwo mogli z\u0142o\u017cy\u0107 wniosek formalny.",
+        "comments": [],
+        "text_type": "NORMAL",
+        "timeline_id": 7
+      },
+      {
+        "text": "Szanowni Pa\u0144stwo! Chc\u0119 pa\u0144stwa poinformowa\u0107, cho\u0107 pewnie ju\u017c to wiecie ze swoich klub\u00f3w, \u017ce nada\u0142em numery druk\u00f3w wszystkim projektom obywatelskim, kt\u00f3re przesz\u0142y przez proces dyskontynuacji, a wszystkie projekty ustaw i uchwa\u0142 wniesione do tej pory przez pa\u0144stwa kluby rozpoczn\u0105 sw\u00f3j bieg od analiz, a nast\u0119pnie b\u0119d\u0105 procedowane zgodnie ze sztuk\u0105 przyj\u0119t\u0105 w tym Sejmie.",
+        "comments": [],
+        "text_type": "NORMAL",
+        "timeline_id": 8
+      },
+      {
+        "text": "Na sekretarzy dzisiejszych obrad powo\u0142uj\u0119 pos\u0142\u00f3w Aleksandr\u0119 Karolin\u0119 Wi\u015bniewsk\u0105 oraz Adama Micha\u0142a Gomo\u0142\u0119.",
+        "comments": [],
+        "text_type": "NORMAL",
+        "timeline_id": 9
+      },
+      {
+        "text": "Protok\u00f3\u0142 i list\u0119 m\u00f3wc\u00f3w prowadzi\u0107 b\u0119dzie pani pose\u0142 Aleksandra Karolina Wi\u015bniewska.",
+        "comments": [],
+        "text_type": "NORMAL",
+        "timeline_id": 10
+      },
+      {
+        "text": "Prezydium Sejmu przed\u0142o\u017cy\u0142o wnioski w sprawie:",
+        "comments": [],
+        "text_type": "NORMAL",
+        "timeline_id": 11
+      },
+      {
+        "text": "- wyboru sk\u0142ad\u00f3w osobowych komisji sejmowych, druk nr 20,",
+        "comments": [],
+        "text_type": "NORMAL",
+        "timeline_id": 12
+      },
+      {
+        "text": "- wyboru sk\u0142adu osobowego Komisji do Spraw Unii Europejskiej, druk nr 21,",
+        "comments": [],
+        "text_type": "NORMAL",
+        "timeline_id": 13
+      },
+      {
+        "text": "- wyboru sk\u0142adu osobowego Komisji Etyki Poselskiej, druk nr 22,",
+        "comments": [],
+        "text_type": "NORMAL",
+        "timeline_id": 14
+      },
+      {
+        "text": "- wyboru sk\u0142adu osobowego Komisji do Spraw S\u0142u\u017cb Specjalnych, druk nr 23.",
+        "comments": [],
+        "text_type": "NORMAL",
+        "timeline_id": 15
+      },
+      {
+        "text": "W zwi\u0105zku z tym, po uzyskaniu jednolitej opinii Konwentu Senior\u00f3w, podj\u0105\u0142em decyzj\u0119 o uzupe\u0142nieniu porz\u0105dku dziennego o punkty obejmuj\u0105ce rozpatrzenie tych wniosk\u00f3w.",
+        "comments": [],
+        "text_type": "NORMAL",
+        "timeline_id": 16
+      },
+      {
+        "text": "Grupy pos\u0142\u00f3w przed\u0142o\u017cy\u0142y wnioski w sprawie wyboru cz\u0142onk\u00f3w Trybuna\u0142u Stanu, druki nr 34-51.",
+        "comments": [],
+        "text_type": "NORMAL",
+        "timeline_id": 17
+      },
+      {
+        "text": "W zwi\u0105zku z tym, po uzyskaniu jednolitej opinii Konwentu Senior\u00f3w, podj\u0105\u0142em decyzj\u0119 o uzupe\u0142nieniu porz\u0105dku dziennego o punkt obejmuj\u0105cy rozpatrzenie tych wniosk\u00f3w.",
+        "comments": [],
+        "text_type": "NORMAL",
+        "timeline_id": 18
+      },
+      {
+        "text": "Proponuj\u0119, aby w tych przypadkach Sejm wyrazi\u0142 zgod\u0119 na skr\u00f3cenie terminu, o kt\u00f3rym mowa w art. 30 ust. 4 regulaminu Sejmu, oraz rozpatrzy\u0142 wnioski bez przesy\u0142ania ich do w\u0142a\u015bciwej komisji.",
+        "comments": [],
+        "text_type": "NORMAL",
+        "timeline_id": 19
+      },
+      {
+        "text": "Je\u015bli nie us\u0142ysz\u0119 sprzeciwu, b\u0119d\u0119 uwa\u017ca\u0142, \u017ce Sejm propozycje przyj\u0105\u0142.",
+        "comments": [],
+        "text_type": "NORMAL",
+        "timeline_id": 20
+      },
+      {
+        "text": "Sprzeciwu nie s\u0142ysz\u0119.",
+        "comments": [],
+        "text_type": "NORMAL",
+        "timeline_id": 21
+      },
+      {
+        "speaking": {
+          "name": "Pose\u0142 Barbara Bartu\u015b"
+        },
+        "text": "Sprzeciw.",
+        "text_type": "INTERJECTION",
+        "text_subtype": "NORMAL",
+        "timeline_id": 22
+      },
+      {
+        "text": "Grupa obywateli...",
+        "comments": [],
+        "text_type": "NORMAL",
+        "timeline_id": 23
+      },
+      {
+        "speaking": {
+          "name": "Pose\u0142 Barbara Bartu\u015b"
+        },
+        "text": "Sprzeciw.",
+        "text_type": "INTERJECTION",
+        "text_subtype": "NORMAL",
+        "timeline_id": 24
+      },
+      {
+        "text": "Sprzeciw? Nie s\u0142ysza\u0142em pani pose\u0142, bardzo przepraszam.",
+        "comments": [],
+        "text_type": "NORMAL",
+        "timeline_id": 25
+      },
+      {
+        "speaking": {
+          "name": "Pose\u0142 Barbara Bartu\u015b"
+        },
+        "text": "\u017beby skr\u00f3ci\u0107 czas.",
+        "text_type": "INTERJECTION",
+        "text_subtype": "NORMAL",
+        "timeline_id": 26
+      },
+      {
+        "text": "Czyli sprzeciwia si\u0119 pani temu, \u017ceby Sejm odst\u0105pi\u0142 od terminu, o kt\u00f3rym mowa w art. 30 ust. 4 regulaminu Sejmu.",
+        "comments": [],
+        "text_type": "NORMAL",
+        "timeline_id": 27
+      },
+      {
+        "speaking": {
+          "name": "Pose\u0142 Barbara Bartu\u015b"
+        },
+        "text": "Dok\u0142adnie.",
+        "text_type": "INTERJECTION",
+        "text_subtype": "NORMAL",
+        "timeline_id": 28
+      },
+      {
+        "text": "W zwi\u0105zku ze zg\u0142oszonym sprzeciwem spraw\u0119 t\u0119 rozstrzygniemy w g\u0142osowaniu.",
+        "comments": [],
+        "text_type": "NORMAL",
+        "timeline_id": 29
+      },
+      {
+        "text": "Przyst\u0119pujemy do g\u0142osowania.",
+        "comments": [],
+        "text_type": "NORMAL",
+        "timeline_id": 30
+      },
+      {
+        "text": "Kto z pa\u0144 i pan\u00f3w pos\u0142\u00f3w jest za wyra\u017ceniem zgody na skr\u00f3cenie terminu, o kt\u00f3rym mowa w art. 30 ust. 4 regulaminu Sejmu, oraz na rozpatrzenie wniosk\u00f3w bez przesy\u0142ania ich do w\u0142a\u015bciwej komisji, zechce podnie\u015b\u0107 r\u0119k\u0119 i nacisn\u0105\u0107 przycisk.",
+        "comments": [],
+        "text_type": "NORMAL",
+        "timeline_id": 31
+      },
+      {
+        "speaking": {
+          "name": "G\u0142os z sali"
+        },
+        "text": "Nie dzia\u0142a.",
+        "text_type": "INTERJECTION",
+        "text_subtype": "NORMAL",
+        "timeline_id": 32
+      },
+      {
+        "text": "Nam te\u017c nie dzia\u0142a. Zaraz, mam nadziej\u0119, zadzia\u0142a.",
+        "comments": [],
+        "text_type": "NORMAL",
+        "timeline_id": 33
+      },
+      {
+        "text": "Dzia\u0142a, a wi\u0119c g\u0142osujemy.",
+        "comments": [],
+        "text_type": "NORMAL",
+        "timeline_id": 34
+      },
+      {
+        "text": "Kto jest za?",
+        "comments": [],
+        "text_type": "NORMAL",
+        "timeline_id": 35
+      },
+      {
+        "text": "Kto jest przeciw?",
+        "comments": [],
+        "text_type": "NORMAL",
+        "timeline_id": 36
+      },
+      {
+        "text": "Kto si\u0119 wstrzyma\u0142?",
+        "comments": [],
+        "text_type": "NORMAL",
+        "timeline_id": 37
+      },
+      {
+        "text": "G\u0142osowa\u0142o 448 pos\u0142\u00f3w. 243 - za, 188 - przeciw, 17 si\u0119 wstrzyma\u0142o.",
+        "comments": [],
+        "text_type": "NORMAL",
+        "timeline_id": 38
+      },
+      {
+        "text": "Indywidualne wyniki g\u0142osowania",
+        "comments": [],
+        "text_type": "NORMAL",
+        "timeline_id": 39
+      },
+      {
+        "text": "Stwierdzam, \u017ce Sejm przyj\u0105\u0142 propozycj\u0119 skr\u00f3cenia terminu, o kt\u00f3rym mowa w art. 30 ust. 4 regulaminu Sejmu, i zgodzi\u0142 si\u0119 na rozpatrzenie wniosk\u00f3w bez przesy\u0142ania ich do w\u0142a\u015bciwej komisji.",
+        "comments": [],
+        "text_type": "NORMAL",
+        "timeline_id": 40
+      },
+      {
+        "text": "Grupa obywateli przed\u0142o\u017cy\u0142a projekt ustawy o zmianie ustawy o \u015bwiadczeniach opieki zdrowotnej finansowanych ze \u015brodk\u00f3w publicznych, druk nr 31, chodzi o ustaw\u0119 w sprawie procedury in vitro.",
+        "comments": [],
+        "text_type": "NORMAL",
+        "timeline_id": 41
+      },
+      {
+        "text": "W zwi\u0105zku z tym, po uzyskaniu jednolitej opinii Konwentu Senior\u00f3w, podj\u0105\u0142em decyzj\u0119 o uzupe\u0142nieniu porz\u0105dku dziennego o punkt obejmuj\u0105cy pierwsze czytanie tego projektu.",
+        "comments": [],
+        "text_type": "NORMAL",
+        "timeline_id": 42
+      },
+      {
+        "text": "Proponuj\u0119, aby w tym przypadku Sejm wyrazi\u0142 zgod\u0119 na skr\u00f3cenie terminu, o kt\u00f3rym mowa w art. 37 ust. 4 regulaminu Sejmu, oraz w dyskusji nad tym punktem porz\u0105dku dziennego wys\u0142ucha\u0142 10-minutowych o\u015bwiadcze\u0144 w imieniu klub\u00f3w i 5-minutowych o\u015bwiadcze\u0144 w imieniu ko\u0142a.",
+        "comments": [],
+        "text_type": "NORMAL",
+        "timeline_id": 43
+      },
+      {
+        "text": "Je\u017celi nie us\u0142ysz\u0119 sprzeciwu, b\u0119d\u0119 uwa\u017ca\u0142, \u017ce Sejm propozycje przyj\u0105\u0142.",
+        "comments": [],
+        "text_type": "NORMAL",
+        "timeline_id": 44
+      },
+      {
+        "speaking": {
+          "name": "Pose\u0142 Grzegorz Braun"
+        },
+        "text": "Sprzeciw.",
+        "text_type": "INTERJECTION",
+        "text_subtype": "NORMAL",
+        "timeline_id": 45
+      },
+      {
+        "text": "S\u0142ysz\u0119 sprzeciw, a wi\u0119c przyst\u0119pujemy do g\u0142osowania.",
+        "comments": [],
+        "text_type": "NORMAL",
+        "timeline_id": 46
+      },
+      {
+        "speaking": {
+          "name": "G\u0142os z sali"
+        },
+        "text": "Ooo...",
+        "text_type": "INTERJECTION",
+        "text_subtype": "NORMAL",
+        "timeline_id": 47
+      },
+      {
+        "text": "Kto z pa\u0144 i pan\u00f3w pos\u0142\u00f3w jest za wyra\u017ceniem zgody na skr\u00f3cenie terminu, o kt\u00f3rym mowa w art. 37 ust. 4 regulaminu Sejmu, oraz na wys\u0142uchanie 10-minutowych o\u015bwiadcze\u0144 w imieniu klub\u00f3w i 5-minutowych o\u015bwiadcze\u0144 w imieniu ko\u0142a w dyskusji nad tym punktem porz\u0105dku dziennego, zechce podnie\u015b\u0107 r\u0119k\u0119 i nacisn\u0105\u0107 przycisk.",
+        "comments": [],
+        "text_type": "NORMAL",
+        "timeline_id": 48
+      },
+      {
+        "text": "Kto jest przeciw?",
+        "comments": [],
+        "text_type": "NORMAL",
+        "timeline_id": 49
+      },
+      {
+        "speaking": {
+          "name": "G\u0142os z sali"
+        },
+        "text": "Nie dzia\u0142a.",
+        "text_type": "INTERJECTION",
+        "text_subtype": "NORMAL",
+        "timeline_id": 50
+      },
+      {
+        "text": "Dzia\u0142a?",
+        "comments": [],
+        "text_type": "NORMAL",
+        "timeline_id": 51
+      },
+      {
+        "text": "Kto si\u0119 wstrzyma\u0142?",
+        "comments": [],
+        "text_type": "NORMAL",
+        "timeline_id": 52
+      },
+      {
+        "text": "G\u0142osowa\u0142o 453 pos\u0142\u00f3w. 247 - za, 206 - przeciw, nikt si\u0119 nie wstrzyma\u0142.",
+        "comments": [],
+        "text_type": "NORMAL",
+        "timeline_id": 53
+      },
+      {
+        "text": "Indywidualne wyniki g\u0142osowania",
+        "comments": [],
+        "text_type": "NORMAL",
+        "timeline_id": 54
+      },
+      {
+        "text": "Stwierdzam, \u017ce Sejm zgodzi\u0142 si\u0119 na skr\u00f3cenie terminu, o kt\u00f3rym mowa w art. 37 ust. 4 regulaminu Sejmu, oraz na wys\u0142uchanie 10-minutowych o\u015bwiadcze\u0144 w imieniu klub\u00f3w i 5-minutowych o\u015bwiadcze\u0144 w imieniu ko\u0142a w dyskusji nad tym punktem porz\u0105dku dziennego.",
+        "comments": [],
+        "text_type": "NORMAL",
+        "timeline_id": 55
+      },
+      {
+        "text": "Przed wej\u015bciem w punkt 8. porz\u0105dku dziennego - wnioski formalne.",
+        "comments": [],
+        "text_type": "NORMAL",
+        "timeline_id": 56
+      },
+      {
+        "speaking": {
+          "name": "Pose\u0142 Joanna Lichocka"
+        },
+        "text": "Prosz\u0119 m\u00f3wi\u0107 po polsku: zajmujemy si\u0119 punktem.",
+        "text_type": "INTERJECTION",
+        "text_subtype": "NORMAL",
+        "timeline_id": 57
+      },
+      {
+        "text": "Zg\u0142osi\u0142y si\u0119 trzy osoby do wniosk\u00f3w formalnych.",
+        "comments": [],
+        "text_type": "NORMAL",
+        "timeline_id": 58
+      },
+      {
+        "text": "Jako pierwszy pan pose\u0142 Stefan Krajewski z Klubu Parlamentarnego Polskie Stronnictwo Ludowe - Trzecia Droga.",
+        "comments": [],
+        "text_type": "NORMAL",
+        "timeline_id": 59
+      },
+      {
+        "text": "Bardzo prosz\u0119, panie po\u015ble.",
+        "comments": [],
+        "text_type": "NORMAL",
+        "timeline_id": 60
+      }
+    ],
+    "is_written": false
+  },
+  {
+    "tag": {
+      "chamberName": "sejm",
+      "termId": "10",
+      "sessionId": "1",
+      "dateId": "3",
+      "statementId": "1",
+      "statementIdNew": 1
+    },
+    "speaker": {
+      "name": "Pose\u0142 Stefan Krajewski"
+    },
+    "chairman": {
+      "name": "Marsza\u0142ek"
+    },
+    "timeline": [
+      {
+        "text": "",
+        "comments": [
+          "tekst niewyg\u0142oszony"
+        ],
+        "text_type": "NORMAL",
+        "timeline_id": -1
+      },
+      {
+        "text": "Szanowny Panie Marsza\u0142ku! Wysoka Izbo! Narasta kryzys na granicy polsko-ukrai\u0144skiej, gdzie protestuj\u0105 polscy przewo\u017anicy. Polski rz\u0105d zgodzi\u0142 si\u0119 w Brukseli na to, \u017ceby nie rozwi\u0105za\u0107 problem\u00f3w polskich rolnik\u00f3w ze zbo\u017cem, kt\u00f3re nap\u0142ywa\u0142o, i zgodzi\u0142 si\u0119 na to, \u017ceby poprze\u0107 umow\u0119 z Ukrain\u0105, kt\u00f3ra znosi\u0142a zezwolenia dla ukrai\u0144skich przewo\u017anik\u00f3w, co jest dzisiaj \u017ar\u00f3d\u0142em tego problemu. Wnosz\u0119 o przerw\u0119 i przekazanie informacji w\u0142a\u015bciwego ministra, kt\u00f3ry popar\u0142 rozwi\u0105zania uderzaj\u0105ce w polsk\u0105 gospodark\u0119. S\u0142yszymy, \u017ce rz\u0105d dzia\u0142a, ministrowie dzia\u0142aj\u0105, chyba to nie polega na ogl\u0105daniu Netfliksa i pakowaniu kuwet. Trzeba dzia\u0142a\u0107, rozwi\u0105za\u0107 problem. Nie bronili\u015bcie polskich rolnik\u00f3w, nie bronicie polskich przewo\u017anik\u00f3w. Zr\u00f3bcie co\u015b jeszcze z tym. (Dzwonek) My\u015bl\u0119, \u017ce pan premier Morawiecki dzia\u0142a. Dzi\u0119kuj\u0119. (Oklaski)",
+        "comments": [
+          "Dzwonek",
+          "Oklaski"
+        ],
+        "text_type": "NORMAL",
+        "timeline_id": 0
+      }
+    ],
+    "is_written": true
+  },
+  {
+    "tag": {
+      "chamberName": "sejm",
+      "termId": "10",
+      "sessionId": "1",
+      "dateId": "3",
+      "statementId": "0",
+      "statementIdNew": 2
+    },
+    "speaker": {
+      "name": "Marsza\u0142ek"
+    },
+    "chairman": {
+      "name": "Marsza\u0142ek"
+    },
+    "timeline": [
+      {
+        "text": "Rozumiem, \u017ce pan pose\u0142 zg\u0142osi\u0142 wniosek formalny o przerw\u0119.",
+        "comments": [],
+        "text_type": "NORMAL",
+        "timeline_id": 61
+      },
+      {
+        "speaking": {
+          "name": "Pose\u0142 Stefan Krajewski"
+        },
+        "text": "Tak.",
+        "text_type": "INTERJECTION",
+        "text_subtype": "NORMAL",
+        "timeline_id": 62
+      },
+      {
+        "text": "W takim razie musimy ten wniosek...",
+        "comments": [],
+        "text_type": "NORMAL",
+        "timeline_id": 63
+      },
+      {
+        "speaking": {
+          "name": "Pose\u0142 \u0141ukasz Schreiber"
+        },
+        "text": "Jest g\u0142os przeciw.",
+        "text_type": "INTERJECTION",
+        "text_subtype": "NORMAL",
+        "timeline_id": 64
+      },
+      {
+        "speaking": {
+          "name": "Pose\u0142 Andrzej Adamczyk"
+        },
+        "text": "Chcia\u0142bym odpowiedzie\u0107...",
+        "text_type": "INTERJECTION",
+        "text_subtype": "NORMAL",
+        "timeline_id": 65
+      },
+      {
+        "text": "Przepraszam?",
+        "comments": [],
+        "text_type": "NORMAL",
+        "timeline_id": 66
+      },
+      {
+        "speaking": {
+          "name": "Pose\u0142 Andrzej Adamczyk"
+        },
+        "text": "Chcia\u0142bym odpowiedzie\u0107, odnie\u015b\u0107 si\u0119 do...",
+        "text_type": "INTERJECTION",
+        "text_subtype": "NORMAL",
+        "timeline_id": 67
+      },
+      {
+        "text": "Rozumiem, \u017ce pan si\u0119...",
+        "comments": [],
+        "text_type": "NORMAL",
+        "timeline_id": 68
+      },
+      {
+        "text": "",
+        "comments": [
+          "Wypowied\u017a poza mikrofonem"
+        ],
+        "text_type": "NORMAL",
+        "timeline_id": 69
+      },
+      {
+        "text": "Ja to wiem, oczywi\u015bcie, przecie\u017c zdaj\u0119 sobie z tego spraw\u0119. Natomiast chcia\u0142bym, \u017ceby\u015bmy przeg\u0142osowali wniosek pana pos\u0142a.",
+        "comments": [],
+        "text_type": "NORMAL",
+        "timeline_id": 70
+      },
+      {
+        "speaking": {
+          "name": "Pose\u0142 Andrzej Adamczyk"
+        },
+        "text": "Przed g\u0142osowaniem...",
+        "text_type": "INTERJECTION",
+        "text_subtype": "NORMAL",
+        "timeline_id": 71
+      },
+      {
+        "speaking": {
+          "name": "G\u0142os z sali"
+        },
+        "text": "Sprzeciw.",
+        "text_type": "INTERJECTION",
+        "text_subtype": "NORMAL",
+        "timeline_id": 72
+      },
+      {
+        "text": "Zach\u0119cam do tego, \u017ceby powa\u017cnie potraktowa\u0107 wniosek formalny pana pos\u0142a, przeg\u0142osowa\u0107 go, a nast\u0119pnie udziel\u0119 panu g\u0142osu, dobrze?",
+        "comments": [],
+        "text_type": "NORMAL",
+        "timeline_id": 73
+      },
+      {
+        "speaking": {
+          "name": "Pose\u0142 Andrzej Adamczyk"
+        },
+        "text": "Ale to jest g\u0142os przeciw.",
+        "text_type": "INTERJECTION",
+        "text_subtype": "NORMAL",
+        "timeline_id": 74
+      },
+      {
+        "speaking": {
+          "name": "Pose\u0142 Bo\u017cena Borys-Szopa"
+        },
+        "text": "Ale jest g\u0142os przeciw.",
+        "text_type": "INTERJECTION",
+        "text_subtype": "NORMAL",
+        "timeline_id": 75
+      },
+      {
+        "speaking": {
+          "name": "Pose\u0142 \u0141ukasz Schreiber"
+        },
+        "text": "G\u0142os przeciw.",
+        "text_type": "INTERJECTION",
+        "text_subtype": "NORMAL",
+        "timeline_id": 76
+      },
+      {
+        "text": "G\u0142os przeciw wnioskowi formalnemu?",
+        "comments": [],
+        "text_type": "NORMAL",
+        "timeline_id": 77
+      },
+      {
+        "text": "Prosz\u0119 bardzo, prosz\u0119 bardzo.",
+        "comments": [],
+        "text_type": "NORMAL",
+        "timeline_id": 78
+      }
+    ],
+    "is_written": false
+  },
+  {
+    "tag": {
+      "chamberName": "sejm",
+      "termId": "10",
+      "sessionId": "1",
+      "dateId": "3",
+      "statementId": "2",
+      "statementIdNew": 3
+    },
+    "speaker": {
+      "name": "Pose\u0142 Andrzej Adamczyk"
+    },
+    "chairman": {
+      "name": "Marsza\u0142ek"
+    },
+    "timeline": [
+      {
+        "text": "Dzi\u0119kuj\u0119 bardzo.",
+        "comments": [],
+        "text_type": "NORMAL",
+        "timeline_id": 0
+      },
+      {
+        "text": "Panie i Panowie! Wysoki Sejmie! Panie Marsza\u0142ku! Pragn\u0119 odpowiedzie\u0107 nie tylko panu pos\u0142owi, ale te\u017c grupie parlamentarzyst\u00f3w, szczeg\u00f3lnie z Koalicji Obywatelskiej, b\u0119d\u0105cej w koalicji: ot\u00f3\u017c decyzja Komisji Europejskiej, aby to Unia Europejska podpisa\u0142a umow\u0119 z Ukrain\u0105, zapad\u0142a niezale\u017cnie od naszych opinii, bo takich nie zasi\u0119gano. Unia Europejska niezale\u017cnie podpisa\u0142a z Ukrain\u0105 umow\u0119, na podstawie kt\u00f3rej czasowo zawieszono obowi\u0105zek... Unia Europejska podpisa\u0142a t\u0119 umow\u0119 z Ukrain\u0105. Jeszcze raz powtarzam, Unia Europejska podpisa\u0142a t\u0119 umow\u0119 z Ukrain\u0105...",
+        "comments": [],
+        "text_type": "NORMAL",
+        "timeline_id": 1
+      },
+      {
+        "speaking": {
+          "name": "G\u0142os z sali"
+        },
+        "text": "A co pan robi\u0142?",
+        "text_type": "INTERJECTION",
+        "text_subtype": "NORMAL",
+        "timeline_id": 2
+      },
+      {
+        "text": "...bo tak dzia\u0142a ten system, w kt\u00f3rym oddajemy powoli nasz\u0105 suwerenno\u015b\u0107, a teraz b\u0119dziemy oddawali j\u0105 bardzo szybko. (Dzwonek)",
+        "comments": [
+          "Dzwonek"
+        ],
+        "text_type": "NORMAL",
+        "timeline_id": 3
+      },
+      {
+        "speaking": {
+          "name": "G\u0142os z sali"
+        },
+        "text": "Nie.",
+        "text_type": "INTERJECTION",
+        "text_subtype": "NORMAL",
+        "timeline_id": 4
+      },
+      {
+        "speaking": {
+          "name": "G\u0142os z sali"
+        },
+        "text": "Popierali\u015bcie to.",
+        "text_type": "INTERJECTION",
+        "text_subtype": "NORMAL",
+        "timeline_id": 5
+      },
+      {
+        "speaking": {
+          "name": "G\u0142os z sali"
+        },
+        "text": "Nieprawda.",
+        "text_type": "INTERJECTION",
+        "text_subtype": "NORMAL",
+        "timeline_id": 6
+      },
+      {
+        "speaking": {
+          "name": "Pose\u0142 Witold Tumanowicz"
+        },
+        "text": "Sprzeciw, by\u0142 z waszej strony sprzeciw?",
+        "text_type": "INTERJECTION",
+        "text_subtype": "NORMAL",
+        "timeline_id": 7
+      },
+      {
+        "text": "Ot\u00f3\u017c zosta\u0142a podpisana umowa, na skutek kt\u00f3rej zosta\u0142 zawieszony obowi\u0105zek posiadania zezwole\u0144 przez transportowc\u00f3w z Ukrainy, kt\u00f3rzy wje\u017cd\u017caj\u0105 do Polski. Do momentu podpisania tej umowy obowi\u0105zywa\u0142y zezwolenia, kt\u00f3re symetrycznie pozwala\u0142y realizowa\u0107 kontrakty przewozowe przez polskich przedsi\u0119biorc\u00f3w na Ukrainie i ukrai\u0144skich przedsi\u0119biorc\u00f3w w Polsce.",
+        "comments": [],
+        "text_type": "NORMAL",
+        "timeline_id": 8
+      },
+      {
+        "speaking": {
+          "name": "Marsza\u0142ek"
+        },
+        "text": "Panie po\u015ble, przekroczy\u0142 pan czas wypowiedzi o p\u00f3\u0142 minuty.",
+        "text_type": "INTERJECTION",
+        "text_subtype": "CHAIRMAN",
+        "timeline_id": 9
+      },
+      {
+        "speaking": {
+          "name": "G\u0142os z sali"
+        },
+        "text": "Jako minister.",
+        "text_type": "INTERJECTION",
+        "text_subtype": "NORMAL",
+        "timeline_id": 10
+      },
+      {
+        "speaking": {
+          "name": "Marsza\u0142ek"
+        },
+        "text": "Nie, pan pose\u0142, wchodz\u0105c na m\u00f3wnic\u0119, wyra\u017anie powiedzia\u0142, \u017ce wyst\u0119puje jako pose\u0142 w odpowiedzi na wniosek formalny.",
+        "text_type": "INTERJECTION",
+        "text_subtype": "CHAIRMAN",
+        "timeline_id": 11
+      },
+      {
+        "speaking": {
+          "name": "G\u0142os z sali"
+        },
+        "text": "Prosz\u0119 nie przerywa\u0107.",
+        "text_type": "INTERJECTION",
+        "text_subtype": "NORMAL",
+        "timeline_id": 12
+      },
+      {
+        "text": "To zosta\u0142o z\u0142amane i to jest podstaw\u0105 protestu polskich przewo\u017anik\u00f3w, kt\u00f3rzy blokuj\u0105 dzisiaj granic\u0119.",
+        "comments": [],
+        "text_type": "NORMAL",
+        "timeline_id": 13
+      },
+      {
+        "speaking": {
+          "name": "Marsza\u0142ek"
+        },
+        "text": "Czas odpowiedzi na wniosek formalny wynosi 1 minut\u0119.",
+        "text_type": "INTERJECTION",
+        "text_subtype": "CHAIRMAN",
+        "timeline_id": 14
+      },
+      {
+        "speaking": {
+          "name": "Marsza\u0142ek"
+        },
+        "text": "Pan pose\u0142 przemawia niespe\u0142na 2 minuty.",
+        "text_type": "INTERJECTION",
+        "text_subtype": "CHAIRMAN",
+        "timeline_id": 15
+      },
+      {
+        "text": "Drugim z element\u00f3w jest decyzja w\u0142adz Ukrainy.",
+        "comments": [],
+        "text_type": "NORMAL",
+        "timeline_id": 16
+      },
+      {
+        "speaking": {
+          "name": "Marsza\u0142ek"
+        },
+        "text": "Ma pan jeszcze 30 sekund, panie po\u015ble, zanim wy\u0142\u0105cz\u0119 panu mikrofon.",
+        "text_type": "INTERJECTION",
+        "text_subtype": "CHAIRMAN",
+        "timeline_id": 17
+      },
+      {
+        "text": "Ukrai\u0144cy jednostronnie wprowadzili zmiany na drogach dojazdowych do granicy i na samej granicy po stronie ukrai\u0144skiej, co powoduje, \u017ce polscy przedsi\u0119biorcy stoj\u0105 w kolejkach kilka, kilkana\u015bcie dni.",
+        "comments": [],
+        "text_type": "NORMAL",
+        "timeline_id": 18
+      },
+      {
+        "speaking": {
+          "name": "G\u0142os z sali"
+        },
+        "text": "Siadaj ju\u017c.",
+        "text_type": "INTERJECTION",
+        "text_subtype": "NORMAL",
+        "timeline_id": 19
+      },
+      {
+        "speaking": {
+          "name": "Pose\u0142 Witold Tumanowicz"
+        },
+        "text": "Hipokryta. Siadaj.",
+        "text_type": "INTERJECTION",
+        "text_subtype": "NORMAL",
+        "timeline_id": 20
+      },
+      {
+        "text": "I to jest powodem protestu, a nie decyzje polskiego rz\u0105du, a nie decyzje ministra infrastruktury i pana premiera Mateusza Morawieckiego. Trzeba spowodowa\u0107, aby Komisja Europejska, wbrew temu, co jeszcze jej wysoki przedstawiciel powiedzia\u0142 w ubieg\u0142ym tygodniu w Dorohusku na spotkaniu z przedstawicielami rz\u0105du...",
+        "comments": [],
+        "text_type": "NORMAL",
+        "timeline_id": 21
+      },
+      {
+        "text": "",
+        "comments": [
+          "Marsza\u0142ek wy\u0142\u0105cza mikrofon, pose\u0142 przemawia przy wy\u0142\u0105czonym mikrofonie, oklaski"
+        ],
+        "text_type": "NORMAL",
+        "timeline_id": 22
+      },
+      {
+        "speaking": {
+          "name": "Pose\u0142 Barbara Bartu\u015b"
+        },
+        "text": "Ale minister na temat si\u0119 wypowiada.",
+        "text_type": "INTERJECTION",
+        "text_subtype": "NORMAL",
+        "timeline_id": 23
+      }
+    ],
+    "is_written": false
+  },
+  {
+    "tag": {
+      "chamberName": "sejm",
+      "termId": "10",
+      "sessionId": "1",
+      "dateId": "3",
+      "statementId": "0",
+      "statementIdNew": 4
+    },
+    "speaker": {
+      "name": "Marsza\u0142ek"
+    },
+    "chairman": {
+      "name": "Marsza\u0142ek"
+    },
+    "timeline": [
+      {
+        "text": "Dzi\u0119kuj\u0119 bardzo, panie po\u015ble.",
+        "comments": [],
+        "text_type": "NORMAL",
+        "timeline_id": 79
+      },
+      {
+        "text": "Przypomn\u0119 pa\u0144stwu odno\u015bny punkt regulaminu. Art. 184 regulaminu Sejmu, jego pkt 5: Sejm rozstrzyga o wniosku formalnym po wys\u0142uchaniu wnioskodawcy i ewentualnie jednego przeciwnika wniosku.",
+        "comments": [],
+        "text_type": "NORMAL",
+        "timeline_id": 80
+      },
+      {
+        "text": "Pkt 8 tego...",
+        "comments": [],
+        "text_type": "NORMAL",
+        "timeline_id": 81
+      },
+      {
+        "speaking": {
+          "name": "Pose\u0142 Barbara Bartu\u015b"
+        },
+        "text": "Ale to pan minister si\u0119 wypowiada\u0142 na temat.",
+        "text_type": "INTERJECTION",
+        "text_subtype": "NORMAL",
+        "timeline_id": 82
+      },
+      {
+        "text": "Nie, pan wyra\u017anie stwierdzi\u0142, \u017ce jest pos\u0142em, wypowiada si\u0119 jako pose\u0142.",
+        "comments": [],
+        "text_type": "NORMAL",
+        "timeline_id": 83
+      },
+      {
+        "text": "Wyst\u0105pienia poza porz\u0105dkiem dziennym, w tym zg\u0142oszenie wniosku formalnego, nie mog\u0105 trwa\u0107 d\u0142u\u017cej ni\u017c 2 minuty, z wyj\u0105tkiem sprostowa\u0144, kt\u00f3re nie mog\u0105 trwa\u0107 d\u0142u\u017cej ni\u017c 1 minut\u0119.",
+        "comments": [],
+        "text_type": "NORMAL",
+        "timeline_id": 84
+      },
+      {
+        "text": "Panie po\u015ble Suski, w jakim trybie znalaz\u0142 si\u0119 pan przed obliczem Wysokiej Izby? (Oklaski)",
+        "comments": [
+          "Oklaski"
+        ],
+        "text_type": "NORMAL",
+        "timeline_id": 85
+      },
+      {
+        "speaking": {
+          "name": "G\u0142os z sali"
+        },
+        "text": "Bez trybu.",
+        "text_type": "INTERJECTION",
+        "text_subtype": "NORMAL",
+        "timeline_id": 86
+      },
+      {
+        "text": "Ta obecno\u015b\u0107 mnie cieszy, natomiast zosta\u0142 zg\u0142oszony wniosek formalny.",
+        "comments": [],
+        "text_type": "NORMAL",
+        "timeline_id": 87
+      },
+      {
+        "text": "Jak pan si\u0119 pewnie orientuje, wyst\u0105pi\u0142 ju\u017c jeden z pos\u0142\u00f3w jako przeciwnik tego wniosku formalnego.",
+        "comments": [],
+        "text_type": "NORMAL",
+        "timeline_id": 88
+      },
+      {
+        "speaking": {
+          "name": "Pose\u0142 Stanis\u0142aw Tyszka"
+        },
+        "text": "G\u0142osujemy.",
+        "text_type": "INTERJECTION",
+        "text_subtype": "NORMAL",
+        "timeline_id": 89
+      },
+      {
+        "text": "W jakim trybie chce pan wyst\u0105pi\u0107, panie po\u015ble Marku Suski?",
+        "comments": [],
+        "text_type": "NORMAL",
+        "timeline_id": 90
+      },
+      {
+        "speaking": {
+          "name": "Pose\u0142 Marek Suski"
+        },
+        "text": "Wyst\u0105pi\u0142 pan minister...",
+        "text_type": "INTERJECTION",
+        "text_subtype": "NORMAL",
+        "timeline_id": 91
+      },
+      {
+        "speaking": {
+          "name": "G\u0142os z sali"
+        },
+        "text": "Z przyzwyczajenia.",
+        "text_type": "INTERJECTION",
+        "text_subtype": "NORMAL",
+        "timeline_id": 92
+      },
+      {
+        "speaking": {
+          "name": "G\u0142os z sali"
+        },
+        "text": "Ha, ha, ha!",
+        "text_type": "INTERJECTION",
+        "text_subtype": "NORMAL",
+        "timeline_id": 93
+      },
+      {
+        "text": "Przyzwyczajenie drug\u0105 natur\u0105 cz\u0142owieka. Wszystko to jasne. Bardzo dobrze.",
+        "comments": [],
+        "text_type": "NORMAL",
+        "timeline_id": 94
+      },
+      {
+        "speaking": {
+          "name": "G\u0142os z sali"
+        },
+        "text": "G\u0142osujemy.",
+        "text_type": "INTERJECTION",
+        "text_subtype": "NORMAL",
+        "timeline_id": 95
+      },
+      {
+        "speaking": {
+          "name": "G\u0142os z sali"
+        },
+        "text": "G\u0142osowanie. G\u0142osowanie.",
+        "text_type": "INTERJECTION",
+        "text_subtype": "NORMAL",
+        "timeline_id": 96
+      },
+      {
+        "text": "Pan pose\u0142 w jasny spos\u00f3b zawiadomi\u0142 mnie, i\u017c wyst\u0119puje tutaj, na m\u00f3wnicy, jako pose\u0142 i zg\u0142osi\u0142 sprzeciw wobec wniosku formalnego.",
+        "comments": [],
+        "text_type": "NORMAL",
+        "timeline_id": 97
+      },
+      {
+        "text": "Poddaj\u0119 pod g\u0142osowanie wniosek formalny o przerw\u0119 w obradach.",
+        "comments": [],
+        "text_type": "NORMAL",
+        "timeline_id": 98
+      },
+      {
+        "speaking": {
+          "name": "Pose\u0142 Barbara Bartu\u015b"
+        },
+        "text": "\u0141amie pan regulamin.",
+        "text_type": "INTERJECTION",
+        "text_subtype": "NORMAL",
+        "timeline_id": 99
+      },
+      {
+        "speaking": {
+          "name": "Pose\u0142 Marek Suski"
+        },
+        "text": "To skandal! Marsza\u0142ek \u0142amie regulamin!) (Oklaski",
+        "text_type": "INTERJECTION",
+        "text_subtype": "NORMAL",
+        "timeline_id": 100
+      },
+      {
+        "text": "Przyst\u0119pujemy do g\u0142osowania.",
+        "comments": [],
+        "text_type": "NORMAL",
+        "timeline_id": 101
+      },
+      {
+        "text": "Kto z pa\u0144 i pan\u00f3w pos\u0142\u00f3w jest za zarz\u0105dzeniem przerwy w obradach, zechce podnie\u015b\u0107 r\u0119k\u0119 i nacisn\u0105\u0107 przycisk.",
+        "comments": [],
+        "text_type": "NORMAL",
+        "timeline_id": 102
+      },
+      {
+        "text": "Przypomn\u0119 pa\u0144stwu, je\u017celi kto\u015b z pa\u0144stwa si\u0119 zagubi\u0142: ot\u00f3\u017c g\u0142osujemy nad wnioskiem o przerw\u0119 w obradach, o zarz\u0105dzenie przerwy w obradach.",
+        "comments": [],
+        "text_type": "NORMAL",
+        "timeline_id": 103
+      },
+      {
+        "text": "Kto jest przeciw?",
+        "comments": [],
+        "text_type": "NORMAL",
+        "timeline_id": 104
+      },
+      {
+        "text": "Kto si\u0119 wstrzyma\u0142?",
+        "comments": [],
+        "text_type": "NORMAL",
+        "timeline_id": 105
+      },
+      {
+        "text": "G\u0142osowa\u0142o 456 pos\u0142\u00f3w. 237 - za, 10 - przeciw, 209 si\u0119 wstrzyma\u0142o. (Oklaski)",
+        "comments": [
+          "Oklaski"
+        ],
+        "text_type": "NORMAL",
+        "timeline_id": 106
+      },
+      {
+        "text": "Indywidualne wyniki g\u0142osowania",
+        "comments": [],
+        "text_type": "NORMAL",
+        "timeline_id": 107
+      },
+      {
+        "speaking": {
+          "name": "G\u0142os z sali"
+        },
+        "text": "Ha, ha, ha!",
+        "text_type": "INTERJECTION",
+        "text_subtype": "NORMAL",
+        "timeline_id": 108
+      },
+      {
+        "text": "W tej sytuacji og\u0142aszam przerw\u0119 w obradach zgodnie z wnioskiem pana pos\u0142a Stefana Krajewskiego i rozumiem, \u017ce po tej przerwie...",
+        "comments": [],
+        "text_type": "NORMAL",
+        "timeline_id": 109
+      },
+      {
+        "speaking": {
+          "name": "G\u0142os z sali"
+        },
+        "text": "Do jutra.",
+        "text_type": "INTERJECTION",
+        "text_subtype": "NORMAL",
+        "timeline_id": 110
+      },
+      {
+        "speaking": {
+          "name": "Pose\u0142 Piotr Kaleta"
+        },
+        "text": "Jak d\u0142ugo?",
+        "text_type": "INTERJECTION",
+        "text_subtype": "NORMAL",
+        "timeline_id": 111
+      },
+      {
+        "speaking": {
+          "name": "G\u0142os z sali"
+        },
+        "text": "Do kt\u00f3rej?",
+        "text_type": "INTERJECTION",
+        "text_subtype": "NORMAL",
+        "timeline_id": 112
+      },
+      {
+        "text": "Minuta przerwy. (Oklaski)",
+        "comments": [
+          "Oklaski"
+        ],
+        "text_type": "NORMAL",
+        "timeline_id": 113
+      },
+      {
+        "speaking": {
+          "name": "G\u0142os z sali"
+        },
+        "text": "Ha, ha, ha!",
+        "text_type": "INTERJECTION",
+        "text_subtype": "NORMAL",
+        "timeline_id": 114
+      },
+      {
+        "text": "A po tej przerwie...",
+        "comments": [],
+        "text_type": "NORMAL",
+        "timeline_id": 115
+      },
+      {
+        "text": "Panie ministrze, panie po\u015ble, czym mog\u0119 panu s\u0142u\u017cy\u0107?",
+        "comments": [],
+        "text_type": "NORMAL",
+        "timeline_id": 116
+      },
+      {
+        "speaking": {
+          "name": "G\u0142os z sali"
+        },
+        "text": "Ha, ha, ha!",
+        "text_type": "INTERJECTION",
+        "text_subtype": "NORMAL",
+        "timeline_id": 117
+      },
+      {
+        "speaking": {
+          "name": "Pose\u0142 Andrzej Adamczyk"
+        },
+        "text": "Prosz\u0119 o sprostowanie... Jako minister konstytucyjny, ale r\u00f3wnie\u017c jako pose\u0142, ale przede wszystkim jako minister konstytucyjny mam prawo do tego, \u017ceby w ka\u017cdym czasie zabra\u0107 g\u0142os, a szczeg\u00f3lnie w sprawach, kt\u00f3re tu zosta\u0142y poruszone. I prosz\u0119 pana marsza\u0142ka, \u017ceby pan tej zasady przestrzega\u0142.",
+        "text_type": "INTERJECTION",
+        "text_subtype": "NORMAL",
+        "timeline_id": 118
+      },
+      {
+        "text": "Tak. Bardzo serdecznie dzi\u0119kuj\u0119, panie po\u015ble, panie ministrze.",
+        "comments": [],
+        "text_type": "NORMAL",
+        "timeline_id": 119
+      },
+      {
+        "speaking": {
+          "name": "G\u0142os z sali"
+        },
+        "text": "Przerwa.",
+        "text_type": "INTERJECTION",
+        "text_subtype": "NORMAL",
+        "timeline_id": 120
+      },
+      {
+        "text": "Widz\u0119 w bardzo jasny spos\u00f3b, \u017ce zamierzaj\u0105 pa\u0144stwo kontynuowa\u0107 procedur\u0119, kt\u00f3r\u0105 rozpocz\u0119li\u015bcie na poprzednim posiedzeniu tej Izby, czyli nadu\u017cywania art. 186 regulaminu Sejmu...",
+        "comments": [],
+        "text_type": "NORMAL",
+        "timeline_id": 121
+      },
+      {
+        "speaking": {
+          "name": "Pose\u0142 Barbara Bartu\u015b"
+        },
+        "text": "Co to znaczy: nadu\u017cywania?",
+        "text_type": "INTERJECTION",
+        "text_subtype": "NORMAL",
+        "timeline_id": 122
+      },
+      {
+        "speaking": {
+          "name": "G\u0142os z sali"
+        },
+        "text": "Regulamin, regulamin.",
+        "text_type": "INTERJECTION",
+        "text_subtype": "NORMAL",
+        "timeline_id": 123
+      },
+      {
+        "text": "...w sprawie kt\u00f3rej jest ju\u017c uchwa\u0142a Prezydium Sejmu.",
+        "comments": [],
+        "text_type": "NORMAL",
+        "timeline_id": 124
+      },
+      {
+        "text": "Zasi\u0119gn\u0105\u0142em opinii nie pi\u0119ciu, ale trzech prawnik\u00f3w, kt\u00f3rzy w jasny spos\u00f3b daj\u0105 do zrozumienia, jak przepis ten powinien by\u0107 interpretowany. (Oklaski)",
+        "comments": [
+          "Oklaski"
+        ],
+        "text_type": "NORMAL",
+        "timeline_id": 125
+      },
+      {
+        "speaking": {
+          "name": "Pose\u0142 Marek Suski"
+        },
+        "text": "Pan nie zna tej uchwa\u0142y, je\u017celi pan twierdzi, \u017ce mo\u017ce pan nie udzieli\u0107 ministrowi g\u0142osu...",
+        "text_type": "INTERJECTION",
+        "text_subtype": "NORMAL",
+        "timeline_id": 126
+      },
+      {
+        "speaking": {
+          "name": "G\u0142os z sali"
+        },
+        "text": "Przerwa jest.",
+        "text_type": "INTERJECTION",
+        "text_subtype": "NORMAL",
+        "timeline_id": 127
+      },
+      {
+        "text": "Panie po\u015ble Suski, teraz jest przerwa.",
+        "comments": [],
+        "text_type": "NORMAL",
+        "timeline_id": 128
+      },
+      {
+        "speaking": {
+          "name": "G\u0142os z sali"
+        },
+        "text": "Ha, ha, ha!",
+        "text_type": "INTERJECTION",
+        "text_subtype": "NORMAL",
+        "timeline_id": 129
+      },
+      {
+        "text": "Rozmawiamy, to mi\u0142e...",
+        "comments": [],
+        "text_type": "NORMAL",
+        "timeline_id": 130
+      },
+      {
+        "speaking": {
+          "name": "Pose\u0142 Marek Suski"
+        },
+        "text": "Na posiedzeniu komisji regulaminowej...",
+        "text_type": "INTERJECTION",
+        "text_subtype": "NORMAL",
+        "timeline_id": 131
+      },
+      {
+        "text": "",
+        "comments": [
+          "Przerwa w posiedzeniu od godz. 12 min 20 do godz. 12 min 21"
+        ],
+        "text_type": "NORMAL",
+        "timeline_id": 132
+      },
+      {
+        "text": "Wznawiam obrady. (Weso\u0142o\u015b\u0107 na sali)",
+        "comments": [
+          "Weso\u0142o\u015b\u0107 na sali"
+        ],
+        "text_type": "NORMAL",
+        "timeline_id": 133
+      },
+      {
+        "speaking": {
+          "name": "G\u0142os z sali"
+        },
+        "text": "Ha, ha, ha!",
+        "text_type": "INTERJECTION",
+        "text_subtype": "NORMAL",
+        "timeline_id": 134
+      },
+      {
+        "text": "Drodzy Pa\u0144stwo! To nie ja, ale to wy przed obliczem milion\u00f3w Polek i Polak\u00f3w dzisiaj pokazujecie, jak wygl\u0105da parlamentaryzm.",
+        "comments": [],
+        "text_type": "NORMAL",
+        "timeline_id": 135
+      },
+      {
+        "text": "Nast\u0119pny do zg\u0142oszenia wniosku formalnego zapisa\u0142 si\u0119 pan pose\u0142 Micha\u0142 Wawer z Konfederacji.",
+        "comments": [],
+        "text_type": "NORMAL",
+        "timeline_id": 136
+      },
+      {
+        "text": "Bardzo prosz\u0119, panie po\u015ble.",
+        "comments": [],
+        "text_type": "NORMAL",
+        "timeline_id": 137
+      },
+      {
+        "speaking": {
+          "name": "Pose\u0142 Bo\u017cena Borys-Szopa"
+        },
+        "text": "Po przerwie mia\u0142o by\u0107 wyja\u015bnienie ministra.",
+        "text_type": "INTERJECTION",
+        "text_subtype": "NORMAL",
+        "timeline_id": 138
+      },
+      {
+        "text": "",
+        "comments": [
+          "Wypowied\u017a poza mikrofonem"
+        ],
+        "text_type": "NORMAL",
+        "timeline_id": 139
+      },
+      {
+        "text": "Ale czy ja mam z tym jaki\u015b k\u0142opot? Absolutnie nie, panie po\u015ble.",
+        "comments": [],
+        "text_type": "NORMAL",
+        "timeline_id": 140
+      },
+      {
+        "text": "Bardzo prosz\u0119, panie po\u015ble.",
+        "comments": [],
+        "text_type": "NORMAL",
+        "timeline_id": 141
+      }
+    ],
+    "is_written": false
+  },
+  {
+    "tag": {
+      "chamberName": "sejm",
+      "termId": "10",
+      "sessionId": "1",
+      "dateId": "3",
+      "statementId": "3",
+      "statementIdNew": 5
+    },
+    "speaker": {
+      "name": "Pose\u0142 Micha\u0142 Wawer"
+    },
+    "chairman": {
+      "name": "Marsza\u0142ek"
+    },
+    "timeline": [
+      {
+        "text": "Szanowny Panie Marsza\u0142ku! Wysoka Izbo! Pi\u0119kne jest to obserwowanie, jak PiS z PSL-em przerzucaj\u0105 si\u0119 odpowiedzialno\u015bci\u0105 za to, co si\u0119 dzieje na granicy i co si\u0119 dzieje w polskiej gospodarce.",
+        "comments": [],
+        "text_type": "NORMAL",
+        "timeline_id": 0
+      },
+      {
+        "text": "Ja przypominam, \u017ce 19 maja 2022 r. w Parlamencie Europejskim wszystkie obecne tu partie poza Konfederacj\u0105 zag\u0142osowa\u0142y za otwarciem granic Unii na ukrai\u0144sk\u0105 gospodark\u0119, na ukrai\u0144ski transport. (Oklaski)",
+        "comments": [
+          "Oklaski"
+        ],
+        "text_type": "NORMAL",
+        "timeline_id": 1
+      },
+      {
+        "speaking": {
+          "name": "Pose\u0142 Stanis\u0142aw Tyszka"
+        },
+        "text": "Tak jest! Brawo!",
+        "text_type": "INTERJECTION",
+        "text_subtype": "NORMAL",
+        "timeline_id": 2
+      },
+      {
+        "text": "Lewica, Platforma, PSL i PiS.",
+        "comments": [],
+        "text_type": "NORMAL",
+        "timeline_id": 3
+      },
+      {
+        "speaking": {
+          "name": "G\u0142os z sali"
+        },
+        "text": "Ha\u0144ba!",
+        "text_type": "INTERJECTION",
+        "text_subtype": "NORMAL",
+        "timeline_id": 4
+      },
+      {
+        "text": "Szanowni Pa\u0144stwo! My mamy nadal rz\u0105d Mateusza Morawieckiego. Przypominam siedz\u0105cym tutaj, na tej sali, ministrom, wiceministrom, panu premierowi, \u017ce nadal pe\u0142nicie funkcje, i w tym czasie, kiedy my tu siedzimy i dzielimy sobie funkcje w komisjach, polscy transportowcy na granicy kolejny tydzie\u0144 marzn\u0105, g\u0142oduj\u0105, zmagaj\u0105 si\u0119 z gro\u017abami przemocy fizycznej ze strony Ukrai\u0144c\u00f3w.",
+        "comments": [],
+        "text_type": "NORMAL",
+        "timeline_id": 5
+      },
+      {
+        "speaking": {
+          "name": "G\u0142os z sali"
+        },
+        "text": "Ha\u0144ba!",
+        "text_type": "INTERJECTION",
+        "text_subtype": "NORMAL",
+        "timeline_id": 6
+      },
+      {
+        "text": "Sk\u0142adam wi\u0119c wniosek formalny, \u017ceby ministrowie, wiceministrowie przestali si\u0119 bawi\u0107 w okupowanie m\u00f3wnicy i wzi\u0119li si\u0119 do roboty, \u017ceby wesprze\u0107 polsk\u0105 bran\u017c\u0119 transportow\u0105. Dzi\u0119kuj\u0119. (Oklaski)",
+        "comments": [
+          "Oklaski"
+        ],
+        "text_type": "NORMAL",
+        "timeline_id": 7
+      },
+      {
+        "speaking": {
+          "name": "G\u0142os z sali"
+        },
+        "text": "Brawo!",
+        "text_type": "INTERJECTION",
+        "text_subtype": "NORMAL",
+        "timeline_id": 8
+      }
+    ],
+    "is_written": false
+  },
+  {
+    "tag": {
+      "chamberName": "sejm",
+      "termId": "10",
+      "sessionId": "1",
+      "dateId": "3",
+      "statementId": "0",
+      "statementIdNew": 6
+    },
+    "speaker": {
+      "name": "Wicemarsza\u0142ek Ewa Zonk"
+    },
+    "chairman": {
+      "name": "Wicemarsza\u0142ek Ewa Zonk"
+    },
+    "timeline": [
+      {
+        "text": "Dzi\u0119kuj\u0119, panie po\u015ble.",
+        "comments": [],
+        "text_type": "NORMAL",
+        "timeline_id": 142
+      },
+      {
+        "text": "Kolejny wniosek formalny zg\u0142osi\u0142 pan pose\u0142 Pawe\u0142 Jab\u0142o\u0144ski.",
+        "comments": [],
+        "text_type": "NORMAL",
+        "timeline_id": 143
+      },
+      {
+        "text": "Je\u015bli tylko mo\u017cna, panie po\u015ble, gwoli informacji, bo jej przep\u0142yw czasami ze wzgl\u0119du na intensywno\u015b\u0107 obrad bywa utrudniony, pa\u0144ski wniosek dotyczy poselskiego projektu uchwa\u0142y w sprawie zatrzymania niebezpiecznych dla Rzeczypospolitej Polskiej zmian Traktatu o Unii Europejskiej oraz Traktatu o funkcjonowaniu Unii Europejskiej.",
+        "comments": [],
+        "text_type": "NORMAL",
+        "timeline_id": 144
+      },
+      {
+        "text": "Chc\u0119 poinformowa\u0107 pana pos\u0142a, \u017ce ten projekt zostanie skierowany czy zosta\u0142 ju\u017c przeze mnie skierowany do rozpatrzenia w Komisji do Spraw Europejskich w ramach pierwszego czytania tej uchwa\u0142y. Oczywiste jest to, \u017ce musimy poczeka\u0107, a\u017c ukonstytuuje si\u0119 dzisiaj komisja do spraw europejskich, kt\u00f3ra nad tym projektem b\u0119dzie procedowa\u0107. Oczywi\u015bcie mo\u017ce pan z\u0142o\u017cy\u0107 wniosek formalny, natomiast chcia\u0142em, \u017ceby mia\u0142 pan pe\u0142ny stan wiedzy w sprawie.",
+        "comments": [],
+        "text_type": "NORMAL",
+        "timeline_id": 145
+      },
+      {
+        "text": "Zarz\u0105dzam przerw\u0119 w posiedzeniu do dnia jutrzejszego, tj. 22 listopada br., do godz. 11.",
+        "comments": [],
+        "text_type": "NORMAL",
+        "timeline_id": 146
+      },
+      {
+        "text": "",
+        "comments": [
+          "Przerwa w posiedzeniu o godz. 14 min 26"
+        ],
+        "text_type": "NORMAL",
+        "timeline_id": 147
+      }
+    ],
+    "is_written": false
+  }
+]

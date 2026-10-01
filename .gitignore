@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+.pytest_cache/
+.coverage
+
+# IDE and local files
+.idea/
+*.iml
+.env
+.env.*
+secret*.json
+poetry.toml

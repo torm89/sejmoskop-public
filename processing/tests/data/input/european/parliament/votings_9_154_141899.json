@@ -1,0 +1,5307 @@
+{
+  "chamberName": "european-parliament",
+  "termId": "9",
+  "sessionId": "154",
+  "votingId": "141899",
+  "votingType": null,
+  "date": "2022-04-07",
+  "data": {
+    "RollCallVote.Description.Text": "Badane produkty lecznicze udostępniane w Zjednoczonym Królestwie w odniesieniu do Irlandii Północnej, jak również na Cyprze, w Irlandii i na Malcie - C9-0476/2021 - Wniosek Komisji",
+    "Result.For": {
+      "Result.PoliticalGroup.List": [
+        {
+          "PoliticalGroup.Member.Name": [
+            {
+              "#text": "Aguilar",
+              "@_MepId": "7244",
+              "@_PersId": "198096"
+            },
+            {
+              "#text": "Berg",
+              "@_MepId": "6875",
+              "@_PersId": "197478"
+            },
+            {
+              "#text": "Berlato",
+              "@_MepId": "4978",
+              "@_PersId": "4746"
+            },
+            {
+              "#text": "Bielan",
+              "@_MepId": "5112",
+              "@_PersId": "23788"
+            },
+            {
+              "#text": "Bourgeois",
+              "@_MepId": "6864",
+              "@_PersId": "197467"
+            },
+            {
+              "#text": "de la Pisa Carrión",
+              "@_MepId": "7270",
+              "@_PersId": "204414"
+            },
+            {
+              "#text": "Dzhambazki",
+              "@_MepId": "6511",
+              "@_PersId": "124873"
+            },
+            {
+              "#text": "Fidanza",
+              "@_MepId": "5982",
+              "@_PersId": "96810"
+            },
+            {
+              "#text": "Fiocchi",
+              "@_MepId": "6998",
+              "@_PersId": "197607"
+            },
+            {
+              "#text": "Fitto",
+              "@_MepId": "4880",
+              "@_PersId": "4465"
+            },
+            {
+              "#text": "Fotyga",
+              "@_MepId": "5472",
+              "@_PersId": "28353"
+            },
+            {
+              "#text": "Hoogeveen",
+              "@_MepId": "7289",
+              "@_PersId": "218349"
+            },
+            {
+              "#text": "Ilčić",
+              "@_MepId": "7290",
+              "@_PersId": "221463"
+            },
+            {
+              "#text": "Jaki",
+              "@_MepId": "6909",
+              "@_PersId": "197516"
+            },
+            {
+              "#text": "Jurgiel",
+              "@_MepId": "6911",
+              "@_PersId": "197518"
+            },
+            {
+              "#text": "Jurzyca",
+              "@_MepId": "7151",
+              "@_PersId": "197767"
+            },
+            {
+              "#text": "Kanko",
+              "@_MepId": "6866",
+              "@_PersId": "197469"
+            },
+            {
+              "#text": "Kempa",
+              "@_MepId": "6912",
+              "@_PersId": "197519"
+            },
+            {
+              "#text": "Kopcińska",
+              "@_MepId": "6923",
+              "@_PersId": "197530"
+            },
+            {
+              "#text": "Krasnodębski",
+              "@_MepId": "6530",
+              "@_PersId": "124891"
+            },
+            {
+              "#text": "Kruk",
+              "@_MepId": "6925",
+              "@_PersId": "197532"
+            },
+            {
+              "#text": "Kuźmiuk",
+              "@_MepId": "5507",
+              "@_PersId": "28389"
+            },
+            {
+              "#text": "Lundgren",
+              "@_MepId": "6608",
+              "@_PersId": "124996"
+            },
+            {
+              "#text": "Mazurek",
+              "@_MepId": "6931",
+              "@_PersId": "197538"
+            },
+            {
+              "#text": "Melbārde",
+              "@_MepId": "7173",
+              "@_PersId": "130256"
+            },
+            {
+              "#text": "Możdżanowska",
+              "@_MepId": "6934",
+              "@_PersId": "197541"
+            },
+            {
+              "#text": "Procaccini",
+              "@_MepId": "7205",
+              "@_PersId": "197820"
+            },
+            {
+              "#text": "Rafalska",
+              "@_MepId": "6937",
+              "@_PersId": "197544"
+            },
+            {
+              "#text": "Rookmaker",
+              "@_MepId": "7278",
+              "@_PersId": "204733"
+            },
+            {
+              "#text": "Roos",
+              "@_MepId": "7097",
+              "@_PersId": "197709"
+            },
+            {
+              "#text": "Ruissen",
+              "@_MepId": "7157",
+              "@_PersId": "197773"
+            },
+            {
+              "#text": "Rzońca",
+              "@_MepId": "6938",
+              "@_PersId": "197545"
+            },
+            {
+              "#text": "Stancanelli",
+              "@_MepId": "7210",
+              "@_PersId": "197825"
+            },
+            {
+              "#text": "Stegrud",
+              "@_MepId": "6798",
+              "@_PersId": "197399"
+            },
+            {
+              "#text": "Szydło",
+              "@_MepId": "6946",
+              "@_PersId": "197553"
+            },
+            {
+              "#text": "Tarczyński",
+              "@_MepId": "7265",
+              "@_PersId": "204346"
+            },
+            {
+              "#text": "Terheş",
+              "@_MepId": "7044",
+              "@_PersId": "197655"
+            },
+            {
+              "#text": "Tertsch",
+              "@_MepId": "7216",
+              "@_PersId": "197831"
+            },
+            {
+              "#text": "Tobiszowski",
+              "@_MepId": "6952",
+              "@_PersId": "197559"
+            },
+            {
+              "#text": "Tomaševski",
+              "@_MepId": "5878",
+              "@_PersId": "96697"
+            },
+            {
+              "#text": "Tošenovský",
+              "@_MepId": "5892",
+              "@_PersId": "96713"
+            },
+            {
+              "#text": "Vondra",
+              "@_MepId": "6930",
+              "@_PersId": "197537"
+            },
+            {
+              "#text": "Vrecionová",
+              "@_MepId": "6945",
+              "@_PersId": "197552"
+            },
+            {
+              "#text": "Waszczykowski",
+              "@_MepId": "6956",
+              "@_PersId": "197566"
+            },
+            {
+              "#text": "Weimers",
+              "@_MepId": "6808",
+              "@_PersId": "123562"
+            },
+            {
+              "#text": "Wiśniewska",
+              "@_MepId": "6515",
+              "@_PersId": "124877"
+            },
+            {
+              "#text": "Zahradil",
+              "@_MepId": "5052",
+              "@_PersId": "23712"
+            },
+            {
+              "#text": "Zalewska",
+              "@_MepId": "6962",
+              "@_PersId": "197572"
+            }
+          ],
+          "@_Identifier": "ECR"
+        },
+        {
+          "PoliticalGroup.Member.Name": [
+            {
+              "#text": "Adinolfi Matteo",
+              "@_MepId": "7211",
+              "@_PersId": "197826"
+            },
+            {
+              "#text": "Anderson",
+              "@_MepId": "6872",
+              "@_PersId": "197475"
+            },
+            {
+              "#text": "Annemans",
+              "@_MepId": "6593",
+              "@_PersId": "124973"
+            },
+            {
+              "#text": "Baldassarre",
+              "@_MepId": "7174",
+              "@_PersId": "197789"
+            },
+            {
+              "#text": "Basso",
+              "@_MepId": "7001",
+              "@_PersId": "197610"
+            },
+            {
+              "#text": "Beck",
+              "@_MepId": "6874",
+              "@_PersId": "132191"
+            },
+            {
+              "#text": "Bizzotto",
+              "@_MepId": "6179",
+              "@_PersId": "97198"
+            },
+            {
+              "#text": "Blaško",
+              "@_MepId": "6954",
+              "@_PersId": "197564"
+            },
+            {
+              "#text": "Bonfrisco",
+              "@_MepId": "7172",
+              "@_PersId": "197788"
+            },
+            {
+              "#text": "Borchia",
+              "@_MepId": "7000",
+              "@_PersId": "101039"
+            },
+            {
+              "#text": "Buchheit",
+              "@_MepId": "6876",
+              "@_PersId": "128483"
+            },
+            {
+              "#text": "Campomenosi",
+              "@_MepId": "6981",
+              "@_PersId": "35016"
+            },
+            {
+              "#text": "Ceccardi",
+              "@_MepId": "7170",
+              "@_PersId": "197786"
+            },
+            {
+              "#text": "Ciocca",
+              "@_MepId": "6731",
+              "@_PersId": "183793"
+            },
+            {
+              "#text": "Conte",
+              "@_MepId": "7007",
+              "@_PersId": "197616"
+            },
+            {
+              "#text": "Da Re",
+              "@_MepId": "6999",
+              "@_PersId": "197608"
+            },
+            {
+              "#text": "David",
+              "@_MepId": "6949",
+              "@_PersId": "197556"
+            },
+            {
+              "#text": "De Man",
+              "@_MepId": "6869",
+              "@_PersId": "197472"
+            },
+            {
+              "#text": "Dreosto",
+              "@_MepId": "7005",
+              "@_PersId": "197614"
+            },
+            {
+              "#text": "Fest",
+              "@_MepId": "6877",
+              "@_PersId": "197480"
+            },
+            {
+              "#text": "Gancia",
+              "@_MepId": "6972",
+              "@_PersId": "197582"
+            },
+            {
+              "#text": "Grant",
+              "@_MepId": "7184",
+              "@_PersId": "197799"
+            },
+            {
+              "#text": "Haider",
+              "@_MepId": "7246",
+              "@_PersId": "198176"
+            },
+            {
+              "#text": "Hakkarainen",
+              "@_MepId": "6989",
+              "@_PersId": "197596"
+            },
+            {
+              "#text": "Huhtasaari",
+              "@_MepId": "6986",
+              "@_PersId": "197594"
+            },
+            {
+              "#text": "Kofod",
+              "@_MepId": "6960",
+              "@_PersId": "197570"
+            },
+            {
+              "#text": "Krah",
+              "@_MepId": "6878",
+              "@_PersId": "197481"
+            },
+            {
+              "#text": "Kuhs",
+              "@_MepId": "6879",
+              "@_PersId": "197482"
+            },
+            {
+              "#text": "Lancini",
+              "@_MepId": "6771",
+              "@_PersId": "192635"
+            },
+            {
+              "#text": "Madison",
+              "@_MepId": "6886",
+              "@_PersId": "197493"
+            },
+            {
+              "#text": "Mayer",
+              "@_MepId": "6627",
+              "@_PersId": "38511"
+            },
+            {
+              "#text": "Panza",
+              "@_MepId": "6979",
+              "@_PersId": "99283"
+            },
+            {
+              "#text": "Reil",
+              "@_MepId": "6881",
+              "@_PersId": "197488"
+            },
+            {
+              "#text": "Rinaldi",
+              "@_MepId": "7171",
+              "@_PersId": "197787"
+            },
+            {
+              "#text": "Sardone",
+              "@_MepId": "6968",
+              "@_PersId": "197578"
+            },
+            {
+              "#text": "Tardino",
+              "@_MepId": "7191",
+              "@_PersId": "197806"
+            },
+            {
+              "#text": "Vandendriessche",
+              "@_MepId": "7234",
+              "@_PersId": "185771"
+            },
+            {
+              "#text": "Vilimsky",
+              "@_MepId": "6610",
+              "@_PersId": "125001"
+            },
+            {
+              "#text": "Zambelli",
+              "@_MepId": "6976",
+              "@_PersId": "197586"
+            },
+            {
+              "#text": "Zanni",
+              "@_MepId": "6414",
+              "@_PersId": "124780"
+            },
+            {
+              "#text": "Zimniok",
+              "@_MepId": "6882",
+              "@_PersId": "197489"
+            }
+          ],
+          "@_Identifier": "ID"
+        },
+        {
+          "PoliticalGroup.Member.Name": [
+            {
+              "#text": "Bay",
+              "@_MepId": "6394",
+              "@_PersId": "124760"
+            },
+            {
+              "#text": "Beghin",
+              "@_MepId": "6411",
+              "@_PersId": "124777"
+            },
+            {
+              "#text": "Bocskor",
+              "@_MepId": "6343",
+              "@_PersId": "124712"
+            },
+            {
+              "#text": "Buschmann",
+              "@_MepId": "6832",
+              "@_PersId": "197434"
+            },
+            {
+              "#text": "Comín i Oliveres",
+              "@_MepId": "7258",
+              "@_PersId": "202352"
+            },
+            {
+              "#text": "Deli",
+              "@_MepId": "6345",
+              "@_PersId": "124714"
+            },
+            {
+              "#text": "Ferrara",
+              "@_MepId": "6470",
+              "@_PersId": "124833"
+            },
+            {
+              "#text": "Furore",
+              "@_MepId": "7180",
+              "@_PersId": "197795"
+            },
+            {
+              "#text": "Gál",
+              "@_MepId": "5280",
+              "@_PersId": "28150"
+            },
+            {
+              "#text": "Gemma",
+              "@_MepId": "7179",
+              "@_PersId": "197794"
+            },
+            {
+              "#text": "Giarrusso",
+              "@_MepId": "7189",
+              "@_PersId": "197804"
+            },
+            {
+              "#text": "Gyöngyösi",
+              "@_MepId": "7243",
+              "@_PersId": "198063"
+            },
+            {
+              "#text": "Konstantinou",
+              "@_MepId": "7123",
+              "@_PersId": "197740"
+            },
+            {
+              "#text": "Kósa",
+              "@_MepId": "6001",
+              "@_PersId": "96829"
+            },
+            {
+              "#text": "Meuthen",
+              "@_MepId": "6759",
+              "@_PersId": "190518"
+            },
+            {
+              "#text": "Pignedoli",
+              "@_MepId": "7010",
+              "@_PersId": "197619"
+            },
+            {
+              "#text": "Ponsatí Obiols",
+              "@_MepId": "7276",
+              "@_PersId": "204443"
+            },
+            {
+              "#text": "Puigdemont i Casamajó",
+              "@_MepId": "7257",
+              "@_PersId": "202351"
+            },
+            {
+              "#text": "Rivière",
+              "@_MepId": "7006",
+              "@_PersId": "197615"
+            },
+            {
+              "#text": "Rondinelli",
+              "@_MepId": "7177",
+              "@_PersId": "197792"
+            },
+            {
+              "#text": "Schaller-Baross",
+              "@_MepId": "7286",
+              "@_PersId": "213330"
+            },
+            {
+              "#text": "Sinčić",
+              "@_MepId": "7242",
+              "@_PersId": "197935"
+            },
+            {
+              "#text": "Sonneborn",
+              "@_MepId": "6471",
+              "@_PersId": "124834"
+            },
+            {
+              "#text": "Tóth",
+              "@_MepId": "6965",
+              "@_PersId": "27714"
+            },
+            {
+              "#text": "Uspaskich",
+              "@_MepId": "5879",
+              "@_PersId": "96698"
+            },
+            {
+              "#text": "Ždanoka",
+              "@_MepId": "5602",
+              "@_PersId": "28619"
+            }
+          ],
+          "@_Identifier": "NI"
+        },
+        {
+          "PoliticalGroup.Member.Name": [
+            {
+              "#text": "Adamowicz",
+              "@_MepId": "6883",
+              "@_PersId": "197490"
+            },
+            {
+              "#text": "Ademov",
+              "@_MepId": "6755",
+              "@_PersId": "189525"
+            },
+            {
+              "#text": "Adinolfi Isabella",
+              "@_MepId": "6468",
+              "@_PersId": "124831"
+            },
+            {
+              "#text": "Alexandrov Yordanov",
+              "@_MepId": "7219",
+              "@_PersId": "197836"
+            },
+            {
+              "#text": "Amaro",
+              "@_MepId": "7129",
+              "@_PersId": "197746"
+            },
+            {
+              "#text": "Arias Echeverría",
+              "@_MepId": "5980",
+              "@_PersId": "96808"
+            },
+            {
+              "#text": "Arimont",
+              "@_MepId": "6594",
+              "@_PersId": "24922"
+            },
+            {
+              "#text": "Arłukowicz",
+              "@_MepId": "6885",
+              "@_PersId": "197492"
+            },
+            {
+              "#text": "Bellamy",
+              "@_MepId": "6927",
+              "@_PersId": "197534"
+            },
+            {
+              "#text": "Bentele",
+              "@_MepId": "6807",
+              "@_PersId": "197408"
+            },
+            {
+              "#text": "Berendsen",
+              "@_MepId": "7162",
+              "@_PersId": "197778"
+            },
+            {
+              "#text": "Berger",
+              "@_MepId": "6809",
+              "@_PersId": "197410"
+            },
+            {
+              "#text": "Bernhuber",
+              "@_MepId": "7037",
+              "@_PersId": "197648"
+            },
+            {
+              "#text": "Bilčík",
+              "@_MepId": "7155",
+              "@_PersId": "197771"
+            },
+            {
+              "#text": "Blaga",
+              "@_MepId": "7026",
+              "@_PersId": "197637"
+            },
+            {
+              "#text": "Bogdan",
+              "@_MepId": "7025",
+              "@_PersId": "197636"
+            },
+            {
+              "#text": "Bogovič",
+              "@_MepId": "6613",
+              "@_PersId": "125004"
+            },
+            {
+              "#text": "Braunsberger-Reinhold",
+              "@_MepId": "7291",
+              "@_PersId": "226260"
+            },
+            {
+              "#text": "Buda",
+              "@_MepId": "6617",
+              "@_PersId": "125012"
+            },
+            {
+              "#text": "Buzek",
+              "@_MepId": "5388",
+              "@_PersId": "28269"
+            },
+            {
+              "#text": "Caroppo",
+              "@_MepId": "7182",
+              "@_PersId": "197797"
+            },
+            {
+              "#text": "Carvalho",
+              "@_MepId": "6039",
+              "@_PersId": "96867"
+            },
+            {
+              "#text": "Casa",
+              "@_MepId": "5252",
+              "@_PersId": "28122"
+            },
+            {
+              "#text": "Caspary",
+              "@_MepId": "5341",
+              "@_PersId": "28219"
+            },
+            {
+              "#text": "del Castillo Vera",
+              "@_MepId": "5508",
+              "@_PersId": "28390"
+            },
+            {
+              "#text": "Christoforou",
+              "@_MepId": "5236",
+              "@_PersId": "26837"
+            },
+            {
+              "#text": "Clune",
+              "@_MepId": "6600",
+              "@_PersId": "124988"
+            },
+            {
+              "#text": "Colin-Oesterlé",
+              "@_MepId": "6929",
+              "@_PersId": "197536"
+            },
+            {
+              "#text": "Danjean",
+              "@_MepId": "5921",
+              "@_PersId": "96747"
+            },
+            {
+              "#text": "De Meo",
+              "@_MepId": "7261",
+              "@_PersId": "204333"
+            },
+            {
+              "#text": "Doleschal",
+              "@_MepId": "6870",
+              "@_PersId": "197473"
+            },
+            {
+              "#text": "Dorfmann",
+              "@_MepId": "5960",
+              "@_PersId": "96787"
+            },
+            {
+              "#text": "Duda",
+              "@_MepId": "6903",
+              "@_PersId": "197510"
+            },
+            {
+              "#text": "Düpont",
+              "@_MepId": "6810",
+              "@_PersId": "99945"
+            },
+            {
+              "#text": "Ehler",
+              "@_MepId": "5348",
+              "@_PersId": "28226"
+            },
+            {
+              "#text": "Estaràs Ferragut",
+              "@_MepId": "5983",
+              "@_PersId": "96811"
+            },
+            {
+              "#text": "Evren",
+              "@_MepId": "6928",
+              "@_PersId": "197535"
+            },
+            {
+              "#text": "Falcă",
+              "@_MepId": "7038",
+              "@_PersId": "197649"
+            },
+            {
+              "#text": "Ferber",
+              "@_MepId": "3833",
+              "@_PersId": "1917"
+            },
+            {
+              "#text": "Fernandes",
+              "@_MepId": "6068",
+              "@_PersId": "96899"
+            },
+            {
+              "#text": "Fitzgerald",
+              "@_MepId": "7108",
+              "@_PersId": "197720"
+            },
+            {
+              "#text": "Frankowski",
+              "@_MepId": "6906",
+              "@_PersId": "197513"
+            },
+            {
+              "#text": "Franssen",
+              "@_MepId": "6852",
+              "@_PersId": "197455"
+            },
+            {
+              "#text": "Gahler",
+              "@_MepId": "4659",
+              "@_PersId": "2341"
+            },
+            {
+              "#text": "García-Margallo y Marfil",
+              "@_MepId": "3980",
+              "@_PersId": "1992"
+            },
+            {
+              "#text": "Gieseke",
+              "@_MepId": "6441",
+              "@_PersId": "124807"
+            },
+            {
+              "#text": "Glavak",
+              "@_MepId": "7253",
+              "@_PersId": "202036"
+            },
+            {
+              "#text": "Halicki",
+              "@_MepId": "6907",
+              "@_PersId": "197514"
+            },
+            {
+              "#text": "Hava",
+              "@_MepId": "7035",
+              "@_PersId": "197646"
+            },
+            {
+              "#text": "Herbst",
+              "@_MepId": "6811",
+              "@_PersId": "197412"
+            },
+            {
+              "#text": "Hetman",
+              "@_MepId": "6534",
+              "@_PersId": "124895"
+            },
+            {
+              "#text": "Hortefeux",
+              "@_MepId": "4987",
+              "@_PersId": "5565"
+            },
+            {
+              "#text": "Hübner",
+              "@_MepId": "5952",
+              "@_PersId": "96779"
+            },
+            {
+              "#text": "Jahr",
+              "@_MepId": "5945",
+              "@_PersId": "96772"
+            },
+            {
+              "#text": "Jarubas",
+              "@_MepId": "6910",
+              "@_PersId": "197517"
+            },
+            {
+              "#text": "Kalinowski",
+              "@_MepId": "5944",
+              "@_PersId": "96771"
+            },
+            {
+              "#text": "Kanev",
+              "@_MepId": "7222",
+              "@_PersId": "197839"
+            },
+            {
+              "#text": "Karas",
+              "@_MepId": "4669",
+              "@_PersId": "4246"
+            },
+            {
+              "#text": "Kefalogiannis",
+              "@_MepId": "6666",
+              "@_PersId": "125068"
+            },
+            {
+              "#text": "Kelly",
+              "@_MepId": "5855",
+              "@_PersId": "96668"
+            },
+            {
+              "#text": "Kokalari",
+              "@_MepId": "6805",
+              "@_PersId": "197406"
+            },
+            {
+              "#text": "Kopacz",
+              "@_MepId": "6918",
+              "@_PersId": "197525"
+            },
+            {
+              "#text": "Kovatchev",
+              "@_MepId": "6196",
+              "@_PersId": "97968"
+            },
+            {
+              "#text": "Kyrtsos",
+              "@_MepId": "6662",
+              "@_PersId": "125063"
+            },
+            {
+              "#text": "de Lange",
+              "@_MepId": "5727",
+              "@_PersId": "38398"
+            },
+            {
+              "#text": "Lega",
+              "@_MepId": "6793",
+              "@_PersId": "197393"
+            },
+            {
+              "#text": "Lenaers",
+              "@_MepId": "6592",
+              "@_PersId": "95074"
+            },
+            {
+              "#text": "Lewandowski",
+              "@_MepId": "5105",
+              "@_PersId": "23781"
+            },
+            {
+              "#text": "Lexmann",
+              "@_MepId": "7264",
+              "@_PersId": "204336"
+            },
+            {
+              "#text": "Liese",
+              "@_MepId": "3855",
+              "@_PersId": "1927"
+            },
+            {
+              "#text": "Lins",
+              "@_MepId": "6442",
+              "@_PersId": "124808"
+            },
+            {
+              "#text": "López Gil",
+              "@_MepId": "7161",
+              "@_PersId": "197777"
+            },
+            {
+              "#text": "Łukacijewska",
+              "@_MepId": "5964",
+              "@_PersId": "96791"
+            },
+            {
+              "#text": "Maldeikienė",
+              "@_MepId": "7218",
+              "@_PersId": "197835"
+            },
+            {
+              "#text": "Manders",
+              "@_MepId": "4964",
+              "@_PersId": "4560"
+            },
+            {
+              "#text": "Mandl",
+              "@_MepId": "6761",
+              "@_PersId": "190713"
+            },
+            {
+              "#text": "Marinescu",
+              "@_MepId": "5646",
+              "@_PersId": "33982"
+            },
+            {
+              "#text": "Markey",
+              "@_MepId": "7284",
+              "@_PersId": "209896"
+            },
+            {
+              "#text": "Martusciello",
+              "@_MepId": "6465",
+              "@_PersId": "124828"
+            },
+            {
+              "#text": "Mato",
+              "@_MepId": "6096",
+              "@_PersId": "96936"
+            },
+            {
+              "#text": "Maydell",
+              "@_MepId": "6483",
+              "@_PersId": "98341"
+            },
+            {
+              "#text": "Mažylis",
+              "@_MepId": "7224",
+              "@_PersId": "197841"
+            },
+            {
+              "#text": "Meimarakis",
+              "@_MepId": "7051",
+              "@_PersId": "197662"
+            },
+            {
+              "#text": "Millán Mon",
+              "@_MepId": "5518",
+              "@_PersId": "28400"
+            },
+            {
+              "#text": "Monteiro de Aguiar",
+              "@_MepId": "6366",
+              "@_PersId": "124734"
+            },
+            {
+              "#text": "Montserrat",
+              "@_MepId": "7099",
+              "@_PersId": "197711"
+            },
+            {
+              "#text": "Morano",
+              "@_MepId": "6368",
+              "@_PersId": "72779"
+            },
+            {
+              "#text": "Mortler",
+              "@_MepId": "6825",
+              "@_PersId": "197427"
+            },
+            {
+              "#text": "Motreanu",
+              "@_MepId": "7036",
+              "@_PersId": "197647"
+            },
+            {
+              "#text": "Mureşan",
+              "@_MepId": "6436",
+              "@_PersId": "124802"
+            },
+            {
+              "#text": "Niebler",
+              "@_MepId": "4712",
+              "@_PersId": "4289"
+            },
+            {
+              "#text": "Niedermayer",
+              "@_MepId": "6332",
+              "@_PersId": "124701"
+            },
+            {
+              "#text": "Nistor",
+              "@_MepId": "7255",
+              "@_PersId": "202112"
+            },
+            {
+              "#text": "Novak",
+              "@_MepId": "5413",
+              "@_PersId": "28294"
+            },
+            {
+              "#text": "Novakov",
+              "@_MepId": "6709",
+              "@_PersId": "107212"
+            },
+            {
+              "#text": "Ochojska",
+              "@_MepId": "6935",
+              "@_PersId": "197542"
+            },
+            {
+              "#text": "Olbrycht",
+              "@_MepId": "5407",
+              "@_PersId": "28288"
+            },
+            {
+              "#text": "Pereira Lídia",
+              "@_MepId": "7120",
+              "@_PersId": "197738"
+            },
+            {
+              "#text": "Pieper",
+              "@_MepId": "5346",
+              "@_PersId": "28224"
+            },
+            {
+              "#text": "Polčák",
+              "@_MepId": "6335",
+              "@_PersId": "124704"
+            },
+            {
+              "#text": "Polfjärd",
+              "@_MepId": "6803",
+              "@_PersId": "197404"
+            },
+            {
+              "#text": "Pollák",
+              "@_MepId": "7149",
+              "@_PersId": "197765"
+            },
+            {
+              "#text": "Pospíšil",
+              "@_MepId": "6700",
+              "@_PersId": "125706"
+            },
+            {
+              "#text": "Radev",
+              "@_MepId": "6488",
+              "@_PersId": "124850"
+            },
+            {
+              "#text": "Radtke",
+              "@_MepId": "6750",
+              "@_PersId": "188945"
+            },
+            {
+              "#text": "Rangel",
+              "@_MepId": "6072",
+              "@_PersId": "96903"
+            },
+            {
+              "#text": "Regimenti",
+              "@_MepId": "7175",
+              "@_PersId": "197790"
+            },
+            {
+              "#text": "Ressler",
+              "@_MepId": "6812",
+              "@_PersId": "197413"
+            },
+            {
+              "#text": "Sagartz",
+              "@_MepId": "7266",
+              "@_PersId": "204368"
+            },
+            {
+              "#text": "Salini",
+              "@_MepId": "6698",
+              "@_PersId": "125670"
+            },
+            {
+              "#text": "Sander",
+              "@_MepId": "6370",
+              "@_PersId": "24594"
+            },
+            {
+              "#text": "Sarvamaa",
+              "@_MepId": "6259",
+              "@_PersId": "112611"
+            },
+            {
+              "#text": "Schmiedtbauer",
+              "@_MepId": "7045",
+              "@_PersId": "197656"
+            },
+            {
+              "#text": "Schneider",
+              "@_MepId": "6821",
+              "@_PersId": "197422"
+            },
+            {
+              "#text": "Schwab",
+              "@_MepId": "5345",
+              "@_PersId": "28223"
+            },
+            {
+              "#text": "Seekatz",
+              "@_MepId": "6823",
+              "@_PersId": "197425"
+            },
+            {
+              "#text": "Sikorski",
+              "@_MepId": "6941",
+              "@_PersId": "197548"
+            },
+            {
+              "#text": "Simon",
+              "@_MepId": "6824",
+              "@_PersId": "197426"
+            },
+            {
+              "#text": "Skyttedal",
+              "@_MepId": "6790",
+              "@_PersId": "197390"
+            },
+            {
+              "#text": "Šojdrová",
+              "@_MepId": "6341",
+              "@_PersId": "124710"
+            },
+            {
+              "#text": "Sokol",
+              "@_MepId": "6816",
+              "@_PersId": "197417"
+            },
+            {
+              "#text": "Terras",
+              "@_MepId": "7277",
+              "@_PersId": "204449"
+            },
+            {
+              "#text": "Thaler",
+              "@_MepId": "7056",
+              "@_PersId": "197667"
+            },
+            {
+              "#text": "Tobé",
+              "@_MepId": "6801",
+              "@_PersId": "197402"
+            },
+            {
+              "#text": "Tomac",
+              "@_MepId": "7061",
+              "@_PersId": "197672"
+            },
+            {
+              "#text": "Tomc",
+              "@_MepId": "6681",
+              "@_PersId": "125104"
+            },
+            {
+              "#text": "Vaidere",
+              "@_MepId": "5600",
+              "@_PersId": "28617"
+            },
+            {
+              "#text": "Vandenkendelaere",
+              "@_MepId": "6706",
+              "@_PersId": "129164"
+            },
+            {
+              "#text": "Verheyen",
+              "@_MepId": "5930",
+              "@_PersId": "96756"
+            },
+            {
+              "#text": "Vincze",
+              "@_MepId": "7062",
+              "@_PersId": "98582"
+            },
+            {
+              "#text": "Voss",
+              "@_MepId": "5934",
+              "@_PersId": "96761"
+            },
+            {
+              "#text": "Vuolo",
+              "@_MepId": "7183",
+              "@_PersId": "197798"
+            },
+            {
+              "#text": "Walsh",
+              "@_MepId": "7233",
+              "@_PersId": "197863"
+            },
+            {
+              "#text": "Walsmann",
+              "@_MepId": "6827",
+              "@_PersId": "197429"
+            },
+            {
+              "#text": "Warborn",
+              "@_MepId": "6804",
+              "@_PersId": "197405"
+            },
+            {
+              "#text": "Weber",
+              "@_MepId": "5351",
+              "@_PersId": "28229"
+            },
+            {
+              "#text": "Weiss",
+              "@_MepId": "6908",
+              "@_PersId": "197515"
+            },
+            {
+              "#text": "Wieland",
+              "@_MepId": "4643",
+              "@_PersId": "2323"
+            },
+            {
+              "#text": "Winkler",
+              "@_MepId": "5782",
+              "@_PersId": "39725"
+            },
+            {
+              "#text": "Winzig",
+              "@_MepId": "7041",
+              "@_PersId": "197652"
+            },
+            {
+              "#text": "Wiseler-Lima",
+              "@_MepId": "6820",
+              "@_PersId": "197421"
+            },
+            {
+              "#text": "Zarzalejos",
+              "@_MepId": "6997",
+              "@_PersId": "197606"
+            },
+            {
+              "#text": "Zdechovský",
+              "@_MepId": "6344",
+              "@_PersId": "124713"
+            },
+            {
+              "#text": "Zoido Álvarez",
+              "@_MepId": "7012",
+              "@_PersId": "197621"
+            },
+            {
+              "#text": "Zovko",
+              "@_MepId": "6734",
+              "@_PersId": "185341"
+            },
+            {
+              "#text": "Zver",
+              "@_MepId": "6094",
+              "@_PersId": "96933"
+            }
+          ],
+          "@_Identifier": "PPE"
+        },
+        {
+          "PoliticalGroup.Member.Name": [
+            {
+              "#text": "Alieva-Veli",
+              "@_MepId": "7230",
+              "@_PersId": "197848"
+            },
+            {
+              "#text": "Al-Sahlani",
+              "@_MepId": "6799",
+              "@_PersId": "197400"
+            },
+            {
+              "#text": "Andrews",
+              "@_MepId": "7260",
+              "@_PersId": "204332"
+            },
+            {
+              "#text": "Ansip",
+              "@_MepId": "6327",
+              "@_PersId": "124696"
+            },
+            {
+              "#text": "Auštrevičius",
+              "@_MepId": "6400",
+              "@_PersId": "124766"
+            },
+            {
+              "#text": "Azmani",
+              "@_MepId": "7165",
+              "@_PersId": "197781"
+            },
+            {
+              "#text": "Bauzá Díaz",
+              "@_MepId": "7163",
+              "@_PersId": "197779"
+            },
+            {
+              "#text": "Beer",
+              "@_MepId": "6835",
+              "@_PersId": "197437"
+            },
+            {
+              "#text": "Bijoux",
+              "@_MepId": "6944",
+              "@_PersId": "197551"
+            },
+            {
+              "#text": "Bilbao Barandica",
+              "@_MepId": "6089",
+              "@_PersId": "96922"
+            },
+            {
+              "#text": "Botoş",
+              "@_MepId": "7057",
+              "@_PersId": "197668"
+            },
+            {
+              "#text": "Boyer",
+              "@_MepId": "6967",
+              "@_PersId": "197577"
+            },
+            {
+              "#text": "Calenda",
+              "@_MepId": "7008",
+              "@_PersId": "197617"
+            },
+            {
+              "#text": "Cañas",
+              "@_MepId": "6973",
+              "@_PersId": "126644"
+            },
+            {
+              "#text": "Canfin",
+              "@_MepId": "5891",
+              "@_PersId": "96711"
+            },
+            {
+              "#text": "Chabaud",
+              "@_MepId": "6899",
+              "@_PersId": "197505"
+            },
+            {
+              "#text": "Charanzová",
+              "@_MepId": "6339",
+              "@_PersId": "124708"
+            },
+            {
+              "#text": "Chastel",
+              "@_MepId": "6860",
+              "@_PersId": "197463"
+            },
+            {
+              "#text": "Christensen",
+              "@_MepId": "6951",
+              "@_PersId": "197558"
+            },
+            {
+              "#text": "Cicurel",
+              "@_MepId": "7271",
+              "@_PersId": "204416"
+            },
+            {
+              "#text": "Cioloş",
+              "@_MepId": "7021",
+              "@_PersId": "197631"
+            },
+            {
+              "#text": "Cseh",
+              "@_MepId": "6978",
+              "@_PersId": "197588"
+            },
+            {
+              "#text": "Danti",
+              "@_MepId": "6458",
+              "@_PersId": "124821"
+            },
+            {
+              "#text": "Decerle",
+              "@_MepId": "6898",
+              "@_PersId": "197504"
+            },
+            {
+              "#text": "Dlabajová",
+              "@_MepId": "6340",
+              "@_PersId": "124709"
+            },
+            {
+              "#text": "Durand",
+              "@_MepId": "6324",
+              "@_PersId": "124693"
+            },
+            {
+              "#text": "Ďuriš Nicholsonová",
+              "@_MepId": "7150",
+              "@_PersId": "197766"
+            },
+            {
+              "#text": "Eroglu",
+              "@_MepId": "6828",
+              "@_PersId": "197430"
+            },
+            {
+              "#text": "Farreng",
+              "@_MepId": "6980",
+              "@_PersId": "197589"
+            },
+            {
+              "#text": "Flego",
+              "@_MepId": "6818",
+              "@_PersId": "197419"
+            },
+            {
+              "#text": "Gade",
+              "@_MepId": "6948",
+              "@_PersId": "197555"
+            },
+            {
+              "#text": "Gamon",
+              "@_MepId": "7022",
+              "@_PersId": "197632"
+            },
+            {
+              "#text": "Garicano",
+              "@_MepId": "6947",
+              "@_PersId": "197554"
+            },
+            {
+              "#text": "Glück",
+              "@_MepId": "6840",
+              "@_PersId": "197443"
+            },
+            {
+              "#text": "Goerens",
+              "@_MepId": "1793",
+              "@_PersId": "840"
+            },
+            {
+              "#text": "Gozi",
+              "@_MepId": "7273",
+              "@_PersId": "204419"
+            },
+            {
+              "#text": "Groothuis",
+              "@_MepId": "7164",
+              "@_PersId": "197780"
+            },
+            {
+              "#text": "Grošelj",
+              "@_MepId": "6849",
+              "@_PersId": "197452"
+            },
+            {
+              "#text": "Grudler",
+              "@_MepId": "6950",
+              "@_PersId": "197557"
+            },
+            {
+              "#text": "Guetta",
+              "@_MepId": "6936",
+              "@_PersId": "197543"
+            },
+            {
+              "#text": "Hahn Svenja",
+              "@_MepId": "6841",
+              "@_PersId": "197444"
+            },
+            {
+              "#text": "Hayer",
+              "@_MepId": "6959",
+              "@_PersId": "135511"
+            },
+            {
+              "#text": "Hlaváček",
+              "@_MepId": "6919",
+              "@_PersId": "197526"
+            },
+            {
+              "#text": "Hojsík",
+              "@_MepId": "7154",
+              "@_PersId": "197770"
+            },
+            {
+              "#text": "Huitema",
+              "@_MepId": "6622",
+              "@_PersId": "58789"
+            },
+            {
+              "#text": "Ijabs",
+              "@_MepId": "7014",
+              "@_PersId": "197624"
+            },
+            {
+              "#text": "in 't Veld",
+              "@_MepId": "5385",
+              "@_PersId": "28266"
+            },
+            {
+              "#text": "Joveva",
+              "@_MepId": "6844",
+              "@_PersId": "197447"
+            },
+            {
+              "#text": "Karleskind",
+              "@_MepId": "6975",
+              "@_PersId": "197585"
+            },
+            {
+              "#text": "Katainen",
+              "@_MepId": "6766",
+              "@_PersId": "191693"
+            },
+            {
+              "#text": "Kelleher",
+              "@_MepId": "7203",
+              "@_PersId": "197818"
+            },
+            {
+              "#text": "Keller Fabienne",
+              "@_MepId": "5021",
+              "@_PersId": "22858"
+            },
+            {
+              "#text": "Knotek",
+              "@_MepId": "6921",
+              "@_PersId": "197528"
+            },
+            {
+              "#text": "Körner",
+              "@_MepId": "6842",
+              "@_PersId": "197445"
+            },
+            {
+              "#text": "Kovařík",
+              "@_MepId": "6917",
+              "@_PersId": "118949"
+            },
+            {
+              "#text": "Kyuchyuk",
+              "@_MepId": "6504",
+              "@_PersId": "124866"
+            },
+            {
+              "#text": "Løkkegaard",
+              "@_MepId": "5889",
+              "@_PersId": "96709"
+            },
+            {
+              "#text": "Mihaylova",
+              "@_MepId": "6690",
+              "@_PersId": "125128"
+            },
+            {
+              "#text": "Mituța",
+              "@_MepId": "7285",
+              "@_PersId": "212855"
+            },
+            {
+              "#text": "Müller",
+              "@_MepId": "6500",
+              "@_PersId": "124862"
+            },
+            {
+              "#text": "Nagtegaal",
+              "@_MepId": "6760",
+              "@_PersId": "190519"
+            },
+            {
+              "#text": "Oetjen",
+              "@_MepId": "6830",
+              "@_PersId": "197432"
+            },
+            {
+              "#text": "Paet",
+              "@_MepId": "6705",
+              "@_PersId": "129073"
+            },
+            {
+              "#text": "Pagazaurtundúa",
+              "@_MepId": "6644",
+              "@_PersId": "125038"
+            },
+            {
+              "#text": "Pekkarinen",
+              "@_MepId": "6953",
+              "@_PersId": "197563"
+            },
+            {
+              "#text": "Petersen",
+              "@_MepId": "6510",
+              "@_PersId": "124872"
+            },
+            {
+              "#text": "Pîslaru",
+              "@_MepId": "7052",
+              "@_PersId": "197663"
+            },
+            {
+              "#text": "Riquet",
+              "@_MepId": "6056",
+              "@_PersId": "96885"
+            },
+            {
+              "#text": "Rodríguez Ramos",
+              "@_MepId": "4767",
+              "@_PersId": "4344"
+            },
+            {
+              "#text": "Séjourné",
+              "@_MepId": "6902",
+              "@_PersId": "197508"
+            },
+            {
+              "#text": "Semedo",
+              "@_MepId": "6817",
+              "@_PersId": "197418"
+            },
+            {
+              "#text": "Šimečka",
+              "@_MepId": "7152",
+              "@_PersId": "103746"
+            },
+            {
+              "#text": "Solís Pérez",
+              "@_MepId": "7168",
+              "@_PersId": "197784"
+            },
+            {
+              "#text": "Ştefănuță",
+              "@_MepId": "7055",
+              "@_PersId": "58766"
+            },
+            {
+              "#text": "Strugariu",
+              "@_MepId": "7058",
+              "@_PersId": "134605"
+            },
+            {
+              "#text": "Søgaard-Lidell",
+              "@_MepId": "7259",
+              "@_PersId": "204331"
+            },
+            {
+              "#text": "Thun und Hohenstein",
+              "@_MepId": "5949",
+              "@_PersId": "96776"
+            },
+            {
+              "#text": "Toom",
+              "@_MepId": "6331",
+              "@_PersId": "124700"
+            },
+            {
+              "#text": "Torvalds",
+              "@_MepId": "6281",
+              "@_PersId": "114268"
+            },
+            {
+              "#text": "Trillet-Lenoir",
+              "@_MepId": "6985",
+              "@_PersId": "197593"
+            },
+            {
+              "#text": "Tudorache",
+              "@_MepId": "7054",
+              "@_PersId": "197665"
+            },
+            {
+              "#text": "Vautmans",
+              "@_MepId": "6710",
+              "@_PersId": "130100"
+            },
+            {
+              "#text": "Verhofstadt",
+              "@_MepId": "6159",
+              "@_PersId": "97058"
+            },
+            {
+              "#text": "Vázquez Lázara",
+              "@_MepId": "7268",
+              "@_PersId": "204400"
+            },
+            {
+              "#text": "Wiezik",
+              "@_MepId": "7153",
+              "@_PersId": "197769"
+            },
+            {
+              "#text": "Yenbou",
+              "@_MepId": "6904",
+              "@_PersId": "197511"
+            },
+            {
+              "#text": "Yon-Courtin",
+              "@_MepId": "6971",
+              "@_PersId": "197581"
+            },
+            {
+              "#text": "Zacharopoulou",
+              "@_MepId": "6892",
+              "@_PersId": "197499"
+            }
+          ],
+          "@_Identifier": "Renew"
+        },
+        {
+          "PoliticalGroup.Member.Name": [
+            {
+              "#text": "Agius Saliba",
+              "@_MepId": "6802",
+              "@_PersId": "197403"
+            },
+            {
+              "#text": "Aguilera",
+              "@_MepId": "6651",
+              "@_PersId": "125045"
+            },
+            {
+              "#text": "Andrieu",
+              "@_MepId": "6279",
+              "@_PersId": "113892"
+            },
+            {
+              "#text": "Angel",
+              "@_MepId": "7254",
+              "@_PersId": "202073"
+            },
+            {
+              "#text": "Ara-Kovács",
+              "@_MepId": "6977",
+              "@_PersId": "197587"
+            },
+            {
+              "#text": "Arena",
+              "@_MepId": "6553",
+              "@_PersId": "124936"
+            },
+            {
+              "#text": "Avram",
+              "@_MepId": "7040",
+              "@_PersId": "197651"
+            },
+            {
+              "#text": "Balt",
+              "@_MepId": "6888",
+              "@_PersId": "197495"
+            },
+            {
+              "#text": "Barley",
+              "@_MepId": "6831",
+              "@_PersId": "197433"
+            },
+            {
+              "#text": "Bartolo",
+              "@_MepId": "7193",
+              "@_PersId": "197808"
+            },
+            {
+              "#text": "Belka",
+              "@_MepId": "6889",
+              "@_PersId": "197496"
+            },
+            {
+              "#text": "Benifei",
+              "@_MepId": "6505",
+              "@_PersId": "124867"
+            },
+            {
+              "#text": "Bergkvist",
+              "@_MepId": "6796",
+              "@_PersId": "197396"
+            },
+            {
+              "#text": "Biedroń",
+              "@_MepId": "6891",
+              "@_PersId": "197498"
+            },
+            {
+              "#text": "Bischoff",
+              "@_MepId": "6833",
+              "@_PersId": "197435"
+            },
+            {
+              "#text": "Blinkevičiūtė",
+              "@_MepId": "5867",
+              "@_PersId": "96681"
+            },
+            {
+              "#text": "Bonafè",
+              "@_MepId": "6449",
+              "@_PersId": "124814"
+            },
+            {
+              "#text": "Borzan",
+              "@_MepId": "6264",
+              "@_PersId": "112748"
+            },
+            {
+              "#text": "Burkhardt",
+              "@_MepId": "6838",
+              "@_PersId": "197440"
+            },
+            {
+              "#text": "Carvalhais",
+              "@_MepId": "7252",
+              "@_PersId": "199996"
+            },
+            {
+              "#text": "Cerdas",
+              "@_MepId": "7030",
+              "@_PersId": "197641"
+            },
+            {
+              "#text": "Chahim",
+              "@_MepId": "7166",
+              "@_PersId": "197782"
+            },
+            {
+              "#text": "Chinnici",
+              "@_MepId": "6499",
+              "@_PersId": "124861"
+            },
+            {
+              "#text": "Cimoszewicz",
+              "@_MepId": "6901",
+              "@_PersId": "197507"
+            },
+            {
+              "#text": "Ciuhodaru",
+              "@_MepId": "7046",
+              "@_PersId": "197657"
+            },
+            {
+              "#text": "Cozzolino",
+              "@_MepId": "6051",
+              "@_PersId": "96880"
+            },
+            {
+              "#text": "Crețu",
+              "@_MepId": "5661",
+              "@_PersId": "33997"
+            },
+            {
+              "#text": "Cutajar",
+              "@_MepId": "6794",
+              "@_PersId": "197394"
+            },
+            {
+              "#text": "De Basso",
+              "@_MepId": "7293",
+              "@_PersId": "228604"
+            },
+            {
+              "#text": "De Castro",
+              "@_MepId": "6062",
+              "@_PersId": "96891"
+            },
+            {
+              "#text": "Durá Ferrandis",
+              "@_MepId": "7248",
+              "@_PersId": "198329"
+            },
+            {
+              "#text": "Engerer",
+              "@_MepId": "7282",
+              "@_PersId": "209091"
+            },
+            {
+              "#text": "Ertug",
+              "@_MepId": "6014",
+              "@_PersId": "96842"
+            },
+            {
+              "#text": "Ferrandino",
+              "@_MepId": "6770",
+              "@_PersId": "192634"
+            },
+            {
+              "#text": "Fritzon",
+              "@_MepId": "6791",
+              "@_PersId": "197391"
+            },
+            {
+              "#text": "Fuglsang",
+              "@_MepId": "6955",
+              "@_PersId": "101585"
+            },
+            {
+              "#text": "Gálvez Muñoz",
+              "@_MepId": "7090",
+              "@_PersId": "197702"
+            },
+            {
+              "#text": "García Del Blanco",
+              "@_MepId": "7105",
+              "@_PersId": "197717"
+            },
+            {
+              "#text": "García Muñoz",
+              "@_MepId": "7125",
+              "@_PersId": "197742"
+            },
+            {
+              "#text": "García Pérez",
+              "@_MepId": "5417",
+              "@_PersId": "28298"
+            },
+            {
+              "#text": "Gardiazabal Rubial",
+              "@_MepId": "6130",
+              "@_PersId": "96991"
+            },
+            {
+              "#text": "Geier",
+              "@_MepId": "6005",
+              "@_PersId": "96833"
+            },
+            {
+              "#text": "González Casares",
+              "@_MepId": "7106",
+              "@_PersId": "197718"
+            },
+            {
+              "#text": "Grapini",
+              "@_MepId": "6419",
+              "@_PersId": "124785"
+            },
+            {
+              "#text": "Gualmini",
+              "@_MepId": "7009",
+              "@_PersId": "197618"
+            },
+            {
+              "#text": "Guillaume",
+              "@_MepId": "6107",
+              "@_PersId": "96952"
+            },
+            {
+              "#text": "Guteland",
+              "@_MepId": "6603",
+              "@_PersId": "124991"
+            },
+            {
+              "#text": "Hajšel",
+              "@_MepId": "7146",
+              "@_PersId": "34578"
+            },
+            {
+              "#text": "Heide",
+              "@_MepId": "7070",
+              "@_PersId": "197682"
+            },
+            {
+              "#text": "Heinäluoma",
+              "@_MepId": "7185",
+              "@_PersId": "197800"
+            },
+            {
+              "#text": "Incir",
+              "@_MepId": "6792",
+              "@_PersId": "197392"
+            },
+            {
+              "#text": "Jerković",
+              "@_MepId": "6263",
+              "@_PersId": "112747"
+            },
+            {
+              "#text": "Jongerius",
+              "@_MepId": "6624",
+              "@_PersId": "125021"
+            },
+            {
+              "#text": "Kammerevert",
+              "@_MepId": "6009",
+              "@_PersId": "96837"
+            },
+            {
+              "#text": "Kohut",
+              "@_MepId": "6916",
+              "@_PersId": "197523"
+            },
+            {
+              "#text": "Krehl",
+              "@_MepId": "3761",
+              "@_PersId": "1854"
+            },
+            {
+              "#text": "Kumpula-Natri",
+              "@_MepId": "6367",
+              "@_PersId": "124735"
+            },
+            {
+              "#text": "Lalucq",
+              "@_MepId": "7085",
+              "@_PersId": "197697"
+            },
+            {
+              "#text": "Lange",
+              "@_MepId": "3823",
+              "@_PersId": "1909"
+            },
+            {
+              "#text": "Larrouturou",
+              "@_MepId": "7086",
+              "@_PersId": "197698"
+            },
+            {
+              "#text": "Laureti",
+              "@_MepId": "7297",
+              "@_PersId": "230085"
+            },
+            {
+              "#text": "Leitão-Marques",
+              "@_MepId": "7024",
+              "@_PersId": "197635"
+            },
+            {
+              "#text": "Liberadzki",
+              "@_MepId": "5094",
+              "@_PersId": "23768"
+            },
+            {
+              "#text": "López",
+              "@_MepId": "6648",
+              "@_PersId": "125042"
+            },
+            {
+              "#text": "López Aguilar",
+              "@_MepId": "5984",
+              "@_PersId": "96812"
+            },
+            {
+              "#text": "Lucke",
+              "@_MepId": "7292",
+              "@_PersId": "228286"
+            },
+            {
+              "#text": "Luena",
+              "@_MepId": "7109",
+              "@_PersId": "197721"
+            },
+            {
+              "#text": "Maestre Martín De Almagro",
+              "@_MepId": "7107",
+              "@_PersId": "197719"
+            },
+            {
+              "#text": "Majorino",
+              "@_MepId": "6984",
+              "@_PersId": "197592"
+            },
+            {
+              "#text": "Maldonado López",
+              "@_MepId": "7117",
+              "@_PersId": "197735"
+            },
+            {
+              "#text": "Marques Margarida",
+              "@_MepId": "7027",
+              "@_PersId": "197638"
+            },
+            {
+              "#text": "Matić",
+              "@_MepId": "6839",
+              "@_PersId": "197441"
+            },
+            {
+              "#text": "Maxová",
+              "@_MepId": "6915",
+              "@_PersId": "197522"
+            },
+            {
+              "#text": "Mebarek",
+              "@_MepId": "7272",
+              "@_PersId": "204418"
+            },
+            {
+              "#text": "Mikser",
+              "@_MepId": "6890",
+              "@_PersId": "197497"
+            },
+            {
+              "#text": "Miller",
+              "@_MepId": "6933",
+              "@_PersId": "197540"
+            },
+            {
+              "#text": "Molnár",
+              "@_MepId": "6351",
+              "@_PersId": "124722"
+            },
+            {
+              "#text": "Moreno Sánchez",
+              "@_MepId": "5466",
+              "@_PersId": "28347"
+            },
+            {
+              "#text": "Negrescu",
+              "@_MepId": "6691",
+              "@_PersId": "88882"
+            },
+            {
+              "#text": "Noichl",
+              "@_MepId": "6473",
+              "@_PersId": "124836"
+            },
+            {
+              "#text": "Penkova",
+              "@_MepId": "7228",
+              "@_PersId": "197845"
+            },
+            {
+              "#text": "Picierno",
+              "@_MepId": "6484",
+              "@_PersId": "124846"
+            },
+            {
+              "#text": "Picula",
+              "@_MepId": "6261",
+              "@_PersId": "112744"
+            },
+            {
+              "#text": "Pisapia",
+              "@_MepId": "6982",
+              "@_PersId": "197590"
+            },
+            {
+              "#text": "Pizarro",
+              "@_MepId": "7114",
+              "@_PersId": "197732"
+            },
+            {
+              "#text": "Regner",
+              "@_MepId": "6136",
+              "@_PersId": "96998"
+            },
+            {
+              "#text": "Reuten",
+              "@_MepId": "7288",
+              "@_PersId": "218347"
+            },
+            {
+              "#text": "Roberti",
+              "@_MepId": "7186",
+              "@_PersId": "197801"
+            },
+            {
+              "#text": "Rodríguez-Piñero",
+              "@_MepId": "6649",
+              "@_PersId": "125043"
+            },
+            {
+              "#text": "Ros Sempere",
+              "@_MepId": "7269",
+              "@_PersId": "204413"
+            },
+            {
+              "#text": "Ruiz Devesa",
+              "@_MepId": "7128",
+              "@_PersId": "127096"
+            },
+            {
+              "#text": "Sánchez Amor",
+              "@_MepId": "7110",
+              "@_PersId": "197722"
+            },
+            {
+              "#text": "Sant",
+              "@_MepId": "6415",
+              "@_PersId": "124781"
+            },
+            {
+              "#text": "Santos",
+              "@_MepId": "7039",
+              "@_PersId": "197650"
+            },
+            {
+              "#text": "Schaldemose",
+              "@_MepId": "5713",
+              "@_PersId": "37312"
+            },
+            {
+              "#text": "Schieder",
+              "@_MepId": "7059",
+              "@_PersId": "197670"
+            },
+            {
+              "#text": "Silva Pereira",
+              "@_MepId": "6381",
+              "@_PersId": "124747"
+            },
+            {
+              "#text": "Sippel",
+              "@_MepId": "6093",
+              "@_PersId": "96932"
+            },
+            {
+              "#text": "Stanishev",
+              "@_MepId": "6490",
+              "@_PersId": "124852"
+            },
+            {
+              "#text": "Tang",
+              "@_MepId": "6623",
+              "@_PersId": "125020"
+            },
+            {
+              "#text": "Tarabella",
+              "@_MepId": "5624",
+              "@_PersId": "29579"
+            },
+            {
+              "#text": "Tax",
+              "@_MepId": "7140",
+              "@_PersId": "197756"
+            },
+            {
+              "#text": "Tinagli",
+              "@_MepId": "6983",
+              "@_PersId": "197591"
+            },
+            {
+              "#text": "Toia",
+              "@_MepId": "5459",
+              "@_PersId": "28340"
+            },
+            {
+              "#text": "Tudose",
+              "@_MepId": "7247",
+              "@_PersId": "198183"
+            },
+            {
+              "#text": "Ušakovs",
+              "@_MepId": "7195",
+              "@_PersId": "197810"
+            },
+            {
+              "#text": "Van Brempt",
+              "@_MepId": "4990",
+              "@_PersId": "5729"
+            },
+            {
+              "#text": "Vind",
+              "@_MepId": "7251",
+              "@_PersId": "199941"
+            },
+            {
+              "#text": "Vitanov",
+              "@_MepId": "7227",
+              "@_PersId": "197844"
+            },
+            {
+              "#text": "Vollath",
+              "@_MepId": "7066",
+              "@_PersId": "197678"
+            },
+            {
+              "#text": "Wölken",
+              "@_MepId": "6735",
+              "@_PersId": "185619"
+            },
+            {
+              "#text": "Wolters",
+              "@_MepId": "7249",
+              "@_PersId": "5392"
+            },
+            {
+              "#text": "Zorrinho",
+              "@_MepId": "6373",
+              "@_PersId": "124739"
+            }
+          ],
+          "@_Identifier": "S&D"
+        },
+        {
+          "PoliticalGroup.Member.Name": [
+            {
+              "#text": "Aubry",
+              "@_MepId": "6926",
+              "@_PersId": "197533"
+            },
+            {
+              "#text": "Barrena Arza",
+              "@_MepId": "7072",
+              "@_PersId": "197684"
+            },
+            {
+              "#text": "Björk",
+              "@_MepId": "6604",
+              "@_PersId": "124992"
+            },
+            {
+              "#text": "Botenga",
+              "@_MepId": "6873",
+              "@_PersId": "187917"
+            },
+            {
+              "#text": "Chaibi",
+              "@_MepId": "6922",
+              "@_PersId": "197529"
+            },
+            {
+              "#text": "Demirel",
+              "@_MepId": "6865",
+              "@_PersId": "197468"
+            },
+            {
+              "#text": "Ernst",
+              "@_MepId": "6024",
+              "@_PersId": "96852"
+            },
+            {
+              "#text": "Flanagan",
+              "@_MepId": "6597",
+              "@_PersId": "124985"
+            },
+            {
+              "#text": "Gusmão",
+              "@_MepId": "7133",
+              "@_PersId": "88715"
+            },
+            {
+              "#text": "Hazekamp",
+              "@_MepId": "6628",
+              "@_PersId": "125023"
+            },
+            {
+              "#text": "Kokkalis",
+              "@_MepId": "7126",
+              "@_PersId": "197743"
+            },
+            {
+              "#text": "Konečná",
+              "@_MepId": "5039",
+              "@_PersId": "23699"
+            },
+            {
+              "#text": "Kountoura",
+              "@_MepId": "7087",
+              "@_PersId": "197699"
+            },
+            {
+              "#text": "MacManus",
+              "@_MepId": "7279",
+              "@_PersId": "205452"
+            },
+            {
+              "#text": "Matias",
+              "@_MepId": "5992",
+              "@_PersId": "96820"
+            },
+            {
+              "#text": "Maurel",
+              "@_MepId": "6354",
+              "@_PersId": "24505"
+            },
+            {
+              "#text": "Michels",
+              "@_MepId": "6310",
+              "@_PersId": "120478"
+            },
+            {
+              "#text": "Modig",
+              "@_MepId": "7190",
+              "@_PersId": "197805"
+            },
+            {
+              "#text": "Pelletier",
+              "@_MepId": "6920",
+              "@_PersId": "197527"
+            },
+            {
+              "#text": "Pereira Sandra",
+              "@_MepId": "7138",
+              "@_PersId": "197754"
+            },
+            {
+              "#text": "Pimenta Lopes",
+              "@_MepId": "6727",
+              "@_PersId": "136236"
+            },
+            {
+              "#text": "Pineda",
+              "@_MepId": "7213",
+              "@_PersId": "197828"
+            },
+            {
+              "#text": "Rego",
+              "@_MepId": "7069",
+              "@_PersId": "197681"
+            },
+            {
+              "#text": "Rodríguez Palop",
+              "@_MepId": "7169",
+              "@_PersId": "197785"
+            },
+            {
+              "#text": "Schirdewan",
+              "@_MepId": "6758",
+              "@_PersId": "190517"
+            },
+            {
+              "#text": "Scholz",
+              "@_MepId": "5837",
+              "@_PersId": "96646"
+            },
+            {
+              "#text": "Urbán Crespo",
+              "@_MepId": "6715",
+              "@_PersId": "131507"
+            },
+            {
+              "#text": "Villanueva Ruiz",
+              "@_MepId": "7212",
+              "@_PersId": "197827"
+            },
+            {
+              "#text": "Villumsen",
+              "@_MepId": "6961",
+              "@_PersId": "197571"
+            },
+            {
+              "#text": "Wallace",
+              "@_MepId": "7202",
+              "@_PersId": "197817"
+            }
+          ],
+          "@_Identifier": "The Left"
+        },
+        {
+          "PoliticalGroup.Member.Name": [
+            {
+              "#text": "Alfonsi",
+              "@_MepId": "5924",
+              "@_PersId": "96750"
+            },
+            {
+              "#text": "Andresen",
+              "@_MepId": "6845",
+              "@_PersId": "197448"
+            },
+            {
+              "#text": "Auken",
+              "@_MepId": "5291",
+              "@_PersId": "28161"
+            },
+            {
+              "#text": "Biteau",
+              "@_MepId": "6905",
+              "@_PersId": "197512"
+            },
+            {
+              "#text": "Bloss",
+              "@_MepId": "6846",
+              "@_PersId": "197449"
+            },
+            {
+              "#text": "Boeselager",
+              "@_MepId": "6837",
+              "@_PersId": "197439"
+            },
+            {
+              "#text": "Breyer",
+              "@_MepId": "6829",
+              "@_PersId": "197431"
+            },
+            {
+              "#text": "Bricmont",
+              "@_MepId": "6867",
+              "@_PersId": "197470"
+            },
+            {
+              "#text": "Bütikofer",
+              "@_MepId": "5913",
+              "@_PersId": "96739"
+            },
+            {
+              "#text": "Carême",
+              "@_MepId": "6964",
+              "@_PersId": "197574"
+            },
+            {
+              "#text": "Cavazzini",
+              "@_MepId": "6847",
+              "@_PersId": "86793"
+            },
+            {
+              "#text": "Cormand",
+              "@_MepId": "6897",
+              "@_PersId": "197503"
+            },
+            {
+              "#text": "Corrao",
+              "@_MepId": "6494",
+              "@_PersId": "124856"
+            },
+            {
+              "#text": "Cuffe",
+              "@_MepId": "7043",
+              "@_PersId": "197654"
+            },
+            {
+              "#text": "Dalunde",
+              "@_MepId": "6730",
+              "@_PersId": "183338"
+            },
+            {
+              "#text": "D'Amato",
+              "@_MepId": "6472",
+              "@_PersId": "124835"
+            },
+            {
+              "#text": "Delbos-Corfield",
+              "@_MepId": "6924",
+              "@_PersId": "197531"
+            },
+            {
+              "#text": "Delli",
+              "@_MepId": "6040",
+              "@_PersId": "96868"
+            },
+            {
+              "#text": "Eickhout",
+              "@_MepId": "5899",
+              "@_PersId": "96725"
+            },
+            {
+              "#text": "Evi",
+              "@_MepId": "6413",
+              "@_PersId": "124779"
+            },
+            {
+              "#text": "Franz",
+              "@_MepId": "6775",
+              "@_PersId": "193273"
+            },
+            {
+              "#text": "Freund",
+              "@_MepId": "6851",
+              "@_PersId": "106936"
+            },
+            {
+              "#text": "Gallée",
+              "@_MepId": "7294",
+              "@_PersId": "229352"
+            },
+            {
+              "#text": "Geese",
+              "@_MepId": "6853",
+              "@_PersId": "183916"
+            },
+            {
+              "#text": "Gregorová",
+              "@_MepId": "6942",
+              "@_PersId": "197549"
+            },
+            {
+              "#text": "Gruffat",
+              "@_MepId": "7274",
+              "@_PersId": "204420"
+            },
+            {
+              "#text": "Guerreiro",
+              "@_MepId": "7034",
+              "@_PersId": "197645"
+            },
+            {
+              "#text": "Hahn Henrike",
+              "@_MepId": "6854",
+              "@_PersId": "197457"
+            },
+            {
+              "#text": "Häusling",
+              "@_MepId": "5926",
+              "@_PersId": "96752"
+            },
+            {
+              "#text": "Hautala",
+              "@_MepId": "4535",
+              "@_PersId": "2054"
+            },
+            {
+              "#text": "Herzberger-Fofana",
+              "@_MepId": "6856",
+              "@_PersId": "197459"
+            },
+            {
+              "#text": "Holmgren",
+              "@_MepId": "6797",
+              "@_PersId": "197398"
+            },
+            {
+              "#text": "Keller Ska",
+              "@_MepId": "5908",
+              "@_PersId": "96734"
+            },
+            {
+              "#text": "Kolaja",
+              "@_MepId": "6939",
+              "@_PersId": "197546"
+            },
+            {
+              "#text": "Kuhnke",
+              "@_MepId": "6795",
+              "@_PersId": "197395"
+            },
+            {
+              "#text": "Lagodinsky",
+              "@_MepId": "6857",
+              "@_PersId": "197460"
+            },
+            {
+              "#text": "Lamberts",
+              "@_MepId": "5838",
+              "@_PersId": "96648"
+            },
+            {
+              "#text": "Langensiepen",
+              "@_MepId": "6858",
+              "@_PersId": "197461"
+            },
+            {
+              "#text": "Marquardt",
+              "@_MepId": "6859",
+              "@_PersId": "197462"
+            },
+            {
+              "#text": "Matthieu",
+              "@_MepId": "7281",
+              "@_PersId": "208722"
+            },
+            {
+              "#text": "Metz",
+              "@_MepId": "6776",
+              "@_PersId": "193292"
+            },
+            {
+              "#text": "Neumann",
+              "@_MepId": "6861",
+              "@_PersId": "197464"
+            },
+            {
+              "#text": "Nienaß",
+              "@_MepId": "6862",
+              "@_PersId": "197465"
+            },
+            {
+              "#text": "Niinistö",
+              "@_MepId": "7187",
+              "@_PersId": "197802"
+            },
+            {
+              "#text": "O'Sullivan",
+              "@_MepId": "7240",
+              "@_PersId": "197889"
+            },
+            {
+              "#text": "Paulus",
+              "@_MepId": "6863",
+              "@_PersId": "197466"
+            },
+            {
+              "#text": "Pedicini",
+              "@_MepId": "6482",
+              "@_PersId": "124844"
+            },
+            {
+              "#text": "Peksa",
+              "@_MepId": "6932",
+              "@_PersId": "197539"
+            },
+            {
+              "#text": "Peter-Hansen",
+              "@_MepId": "6963",
+              "@_PersId": "197573"
+            },
+            {
+              "#text": "Riba i Giner",
+              "@_MepId": "7217",
+              "@_PersId": "197832"
+            },
+            {
+              "#text": "Ripa",
+              "@_MepId": "7280",
+              "@_PersId": "206158"
+            },
+            {
+              "#text": "Rivasi",
+              "@_MepId": "5917",
+              "@_PersId": "96743"
+            },
+            {
+              "#text": "Roose",
+              "@_MepId": "6900",
+              "@_PersId": "197506"
+            },
+            {
+              "#text": "Ropė",
+              "@_MepId": "6694",
+              "@_PersId": "125214"
+            },
+            {
+              "#text": "Semsrott",
+              "@_MepId": "6822",
+              "@_PersId": "197423"
+            },
+            {
+              "#text": "Solé",
+              "@_MepId": "6738",
+              "@_PersId": "185974"
+            },
+            {
+              "#text": "Spurek",
+              "@_MepId": "6943",
+              "@_PersId": "197550"
+            },
+            {
+              "#text": "Strik",
+              "@_MepId": "7156",
+              "@_PersId": "197772"
+            },
+            {
+              "#text": "Toussaint",
+              "@_MepId": "6894",
+              "@_PersId": "97236"
+            },
+            {
+              "#text": "Urtasun",
+              "@_MepId": "6591",
+              "@_PersId": "124972"
+            },
+            {
+              "#text": "Vana",
+              "@_MepId": "6551",
+              "@_PersId": "124934"
+            },
+            {
+              "#text": "Van Sparrentak",
+              "@_MepId": "7237",
+              "@_PersId": "197870"
+            },
+            {
+              "#text": "Waitz",
+              "@_MepId": "6757",
+              "@_PersId": "190464"
+            }
+          ],
+          "@_Identifier": "Verts/ALE"
+        }
+      ],
+      "@_Number": "555"
+    },
+    "Result.Against": {
+      "@_Number": "0"
+    },
+    "Result.Abstention": {
+      "Result.PoliticalGroup.List": {
+        "PoliticalGroup.Member.Name": [
+          {
+            "#text": "Donato",
+            "@_MepId": "7207",
+            "@_PersId": "197822"
+          },
+          {
+            "#text": "Nikolaou-Alavanos",
+            "@_MepId": "7116",
+            "@_PersId": "197734"
+          },
+          {
+            "#text": "Papadakis Kostas",
+            "@_MepId": "6676",
+            "@_PersId": "125093"
+          }
+        ],
+        "@_Identifier": "NI"
+      },
+      "@_Number": "3"
+    },
+    "@_Identifier": "141899",
+    "@_Date": "2022-04-07 12:04:24"
+  },
+  "attendanceRegister": {
+    "?xml": {
+      "@_version": "1.0",
+      "@_encoding": "utf-8"
+    },
+    "PV.AttendanceRegister": {
+      "AttendanceRegister.Title.Text": "LISTA OBECNOŚCI",
+      "AttendanceRegister.Introduction.Text": "Obecni:",
+      "Attendance.Participant.Name": [
+        {
+          "#text": "Magdalena Adamowicz",
+          "@_MEP.Identifier": "197490"
+        },
+        {
+          "#text": "Asim Ademov",
+          "@_MEP.Identifier": "189525"
+        },
+        {
+          "#text": "Isabella Adinolfi",
+          "@_MEP.Identifier": "124831"
+        },
+        {
+          "#text": "Matteo Adinolfi",
+          "@_MEP.Identifier": "197826"
+        },
+        {
+          "#text": "Alex Agius Saliba",
+          "@_MEP.Identifier": "197403"
+        },
+        {
+          "#text": "Mazaly Aguilar",
+          "@_MEP.Identifier": "198096"
+        },
+        {
+          "#text": "Clara Aguilera",
+          "@_MEP.Identifier": "125045"
+        },
+        {
+          "#text": "Alviina Alametsä",
+          "@_MEP.Identifier": "204335"
+        },
+        {
+          "#text": "Alexander Alexandrov Yordanov",
+          "@_MEP.Identifier": "197836"
+        },
+        {
+          "#text": "François Alfonsi",
+          "@_MEP.Identifier": "96750"
+        },
+        {
+          "#text": "Atidzhe Alieva-Veli",
+          "@_MEP.Identifier": "197848"
+        },
+        {
+          "#text": "Abir Al-Sahlani",
+          "@_MEP.Identifier": "197400"
+        },
+        {
+          "#text": "Álvaro Amaro",
+          "@_MEP.Identifier": "197746"
+        },
+        {
+          "#text": "Christine Anderson",
+          "@_MEP.Identifier": "197475"
+        },
+        {
+          "#text": "Rasmus Andresen",
+          "@_MEP.Identifier": "197448"
+        },
+        {
+          "#text": "Barry Andrews",
+          "@_MEP.Identifier": "204332"
+        },
+        {
+          "#text": "Eric Andrieu",
+          "@_MEP.Identifier": "113892"
+        },
+        {
+          "#text": "Marc Angel",
+          "@_MEP.Identifier": "202073"
+        },
+        {
+          "#text": "Gerolf Annemans",
+          "@_MEP.Identifier": "124973"
+        },
+        {
+          "#text": "Andrus Ansip",
+          "@_MEP.Identifier": "124696"
+        },
+        {
+          "#text": "Attila Ara-Kovács",
+          "@_MEP.Identifier": "197587"
+        },
+        {
+          "#text": "Maria Arena",
+          "@_MEP.Identifier": "124936"
+        },
+        {
+          "#text": "Pablo Arias Echeverría",
+          "@_MEP.Identifier": "96808"
+        },
+        {
+          "#text": "Pascal Arimont",
+          "@_MEP.Identifier": "24922"
+        },
+        {
+          "#text": "Bartosz Arłukowicz",
+          "@_MEP.Identifier": "197492"
+        },
+        {
+          "#text": "Konstantinos Arvanitis",
+          "@_MEP.Identifier": "197701"
+        },
+        {
+          "#text": "Anna-Michelle Asimakopoulou",
+          "@_MEP.Identifier": "197695"
+        },
+        {
+          "#text": "Manon Aubry",
+          "@_MEP.Identifier": "197533"
+        },
+        {
+          "#text": "Margrete Auken",
+          "@_MEP.Identifier": "28161"
+        },
+        {
+          "#text": "Petras Auštrevičius",
+          "@_MEP.Identifier": "124766"
+        },
+        {
+          "#text": "Carmen Avram",
+          "@_MEP.Identifier": "197651"
+        },
+        {
+          "#text": "Malik Azmani",
+          "@_MEP.Identifier": "197781"
+        },
+        {
+          "#text": "Simona Baldassarre",
+          "@_MEP.Identifier": "197789"
+        },
+        {
+          "#text": "Marek Paweł Balt",
+          "@_MEP.Identifier": "197495"
+        },
+        {
+          "#text": "Katarina Barley",
+          "@_MEP.Identifier": "197433"
+        },
+        {
+          "#text": "Pernando Barrena Arza",
+          "@_MEP.Identifier": "197684"
+        },
+        {
+          "#text": "Pietro Bartolo",
+          "@_MEP.Identifier": "197808"
+        },
+        {
+          "#text": "Alessandra Basso",
+          "@_MEP.Identifier": "197610"
+        },
+        {
+          "#text": "José Ramón Bauzá Díaz",
+          "@_MEP.Identifier": "197779"
+        },
+        {
+          "#text": "Nicolas Bay",
+          "@_MEP.Identifier": "124760"
+        },
+        {
+          "#text": "Gunnar Beck",
+          "@_MEP.Identifier": "132191"
+        },
+        {
+          "#text": "Nicola Beer",
+          "@_MEP.Identifier": "197437"
+        },
+        {
+          "#text": "Tiziana Beghin",
+          "@_MEP.Identifier": "124777"
+        },
+        {
+          "#text": "Marek Belka",
+          "@_MEP.Identifier": "197496"
+        },
+        {
+          "#text": "François-Xavier Bellamy",
+          "@_MEP.Identifier": "197534"
+        },
+        {
+          "#text": "Brando Benifei",
+          "@_MEP.Identifier": "124867"
+        },
+        {
+          "#text": "Hildegard Bentele",
+          "@_MEP.Identifier": "197408"
+        },
+        {
+          "#text": "Tom Berendsen",
+          "@_MEP.Identifier": "197778"
+        },
+        {
+          "#text": "Lars Patrick Berg",
+          "@_MEP.Identifier": "197478"
+        },
+        {
+          "#text": "Stefan Berger",
+          "@_MEP.Identifier": "197410"
+        },
+        {
+          "#text": "Erik Bergkvist",
+          "@_MEP.Identifier": "197396"
+        },
+        {
+          "#text": "Sergio Berlato",
+          "@_MEP.Identifier": "4746"
+        },
+        {
+          "#text": "Alexander Bernhuber",
+          "@_MEP.Identifier": "197648"
+        },
+        {
+          "#text": "Robert Biedroń",
+          "@_MEP.Identifier": "197498"
+        },
+        {
+          "#text": "Adam Bielan",
+          "@_MEP.Identifier": "23788"
+        },
+        {
+          "#text": "Stéphane Bijoux",
+          "@_MEP.Identifier": "197551"
+        },
+        {
+          "#text": "Izaskun Bilbao Barandica",
+          "@_MEP.Identifier": "96922"
+        },
+        {
+          "#text": "Vladimír Bilčík",
+          "@_MEP.Identifier": "197771"
+        },
+        {
+          "#text": "Dominique Bilde",
+          "@_MEP.Identifier": "124771"
+        },
+        {
+          "#text": "Gabriele Bischoff",
+          "@_MEP.Identifier": "197435"
+        },
+        {
+          "#text": "Benoît Biteau",
+          "@_MEP.Identifier": "197512"
+        },
+        {
+          "#text": "Mara Bizzotto",
+          "@_MEP.Identifier": "97198"
+        },
+        {
+          "#text": "Malin Björk",
+          "@_MEP.Identifier": "124992"
+        },
+        {
+          "#text": "Vasile Blaga",
+          "@_MEP.Identifier": "197637"
+        },
+        {
+          "#text": "Hynek Blaško",
+          "@_MEP.Identifier": "197564"
+        },
+        {
+          "#text": "Vilija Blinkevičiūtė",
+          "@_MEP.Identifier": "96681"
+        },
+        {
+          "#text": "Michael Bloss",
+          "@_MEP.Identifier": "197449"
+        },
+        {
+          "#text": "Andrea Bocskor",
+          "@_MEP.Identifier": "124712"
+        },
+        {
+          "#text": "Damian Boeselager",
+          "@_MEP.Identifier": "197439"
+        },
+        {
+          "#text": "Ioan-Rareş Bogdan",
+          "@_MEP.Identifier": "197636"
+        },
+        {
+          "#text": "Franc Bogovič",
+          "@_MEP.Identifier": "125004"
+        },
+        {
+          "#text": "Simona Bonafè",
+          "@_MEP.Identifier": "124814"
+        },
+        {
+          "#text": "Anna Bonfrisco",
+          "@_MEP.Identifier": "197788"
+        },
+        {
+          "#text": "Paolo Borchia",
+          "@_MEP.Identifier": "101039"
+        },
+        {
+          "#text": "Biljana Borzan",
+          "@_MEP.Identifier": "112748"
+        },
+        {
+          "#text": "Marc Botenga",
+          "@_MEP.Identifier": "187917"
+        },
+        {
+          "#text": "Vlad-Marius Botoş",
+          "@_MEP.Identifier": "197668"
+        },
+        {
+          "#text": "Geert Bourgeois",
+          "@_MEP.Identifier": "197467"
+        },
+        {
+          "#text": "Gilles Boyer",
+          "@_MEP.Identifier": "197577"
+        },
+        {
+          "#text": "Karolin Braunsberger-Reinhold",
+          "@_MEP.Identifier": "226260"
+        },
+        {
+          "#text": "Patrick Breyer",
+          "@_MEP.Identifier": "197431"
+        },
+        {
+          "#text": "Saskia Bricmont",
+          "@_MEP.Identifier": "197470"
+        },
+        {
+          "#text": "Annika Bruna",
+          "@_MEP.Identifier": "182995"
+        },
+        {
+          "#text": "Markus Buchheit",
+          "@_MEP.Identifier": "128483"
+        },
+        {
+          "#text": "Daniel Buda",
+          "@_MEP.Identifier": "125012"
+        },
+        {
+          "#text": "Udo Bullmann",
+          "@_MEP.Identifier": "4267"
+        },
+        {
+          "#text": "Delara Burkhardt",
+          "@_MEP.Identifier": "197440"
+        },
+        {
+          "#text": "Martin Buschmann",
+          "@_MEP.Identifier": "197434"
+        },
+        {
+          "#text": "Reinhard Bütikofer",
+          "@_MEP.Identifier": "96739"
+        },
+        {
+          "#text": "Jerzy Buzek",
+          "@_MEP.Identifier": "28269"
+        },
+        {
+          "#text": "Carlo Calenda",
+          "@_MEP.Identifier": "197617"
+        },
+        {
+          "#text": "Marco Campomenosi",
+          "@_MEP.Identifier": "35016"
+        },
+        {
+          "#text": "Jordi Cañas",
+          "@_MEP.Identifier": "126644"
+        },
+        {
+          "#text": "Pascal Canfin",
+          "@_MEP.Identifier": "96711"
+        },
+        {
+          "#text": "Damien Carême",
+          "@_MEP.Identifier": "197574"
+        },
+        {
+          "#text": "Andrea Caroppo",
+          "@_MEP.Identifier": "197797"
+        },
+        {
+          "#text": "Isabel Carvalhais",
+          "@_MEP.Identifier": "199996"
+        },
+        {
+          "#text": "Maria da Graça Carvalho",
+          "@_MEP.Identifier": "96867"
+        },
+        {
+          "#text": "David Casa",
+          "@_MEP.Identifier": "28122"
+        },
+        {
+          "#text": "Daniel Caspary",
+          "@_MEP.Identifier": "28219"
+        },
+        {
+          "#text": "Fabio Massimo Castaldo",
+          "@_MEP.Identifier": "124812"
+        },
+        {
+          "#text": "Pilar del Castillo Vera",
+          "@_MEP.Identifier": "28390"
+        },
+        {
+          "#text": "Anna Cavazzini",
+          "@_MEP.Identifier": "86793"
+        },
+        {
+          "#text": "Susanna Ceccardi",
+          "@_MEP.Identifier": "197786"
+        },
+        {
+          "#text": "Sara Cerdas",
+          "@_MEP.Identifier": "197641"
+        },
+        {
+          "#text": "Catherine Chabaud",
+          "@_MEP.Identifier": "197505"
+        },
+        {
+          "#text": "Mohammed Chahim",
+          "@_MEP.Identifier": "197782"
+        },
+        {
+          "#text": "Leila Chaibi",
+          "@_MEP.Identifier": "197529"
+        },
+        {
+          "#text": "Dita Charanzová",
+          "@_MEP.Identifier": "124708"
+        },
+        {
+          "#text": "Olivier Chastel",
+          "@_MEP.Identifier": "197463"
+        },
+        {
+          "#text": "Caterina Chinnici",
+          "@_MEP.Identifier": "124861"
+        },
+        {
+          "#text": "Asger Christensen",
+          "@_MEP.Identifier": "197558"
+        },
+        {
+          "#text": "Lefteris Christoforou",
+          "@_MEP.Identifier": "26837"
+        },
+        {
+          "#text": "Ilana Cicurel",
+          "@_MEP.Identifier": "204416"
+        },
+        {
+          "#text": "Włodzimierz Cimoszewicz",
+          "@_MEP.Identifier": "197507"
+        },
+        {
+          "#text": "Angelo Ciocca",
+          "@_MEP.Identifier": "183793"
+        },
+        {
+          "#text": "Dacian Cioloş",
+          "@_MEP.Identifier": "197631"
+        },
+        {
+          "#text": "Tudor Ciuhodaru",
+          "@_MEP.Identifier": "197657"
+        },
+        {
+          "#text": "Deirdre Clune",
+          "@_MEP.Identifier": "124988"
+        },
+        {
+          "#text": "Nathalie Colin-Oesterlé",
+          "@_MEP.Identifier": "197536"
+        },
+        {
+          "#text": "Antoni Comín i Oliveres",
+          "@_MEP.Identifier": "202352"
+        },
+        {
+          "#text": "Rosanna Conte",
+          "@_MEP.Identifier": "197616"
+        },
+        {
+          "#text": "David Cormand",
+          "@_MEP.Identifier": "197503"
+        },
+        {
+          "#text": "Ignazio Corrao",
+          "@_MEP.Identifier": "124856"
+        },
+        {
+          "#text": "Andrea Cozzolino",
+          "@_MEP.Identifier": "96880"
+        },
+        {
+          "#text": "Corina Crețu",
+          "@_MEP.Identifier": "33997"
+        },
+        {
+          "#text": "Katalin Cseh",
+          "@_MEP.Identifier": "197588"
+        },
+        {
+          "#text": "Ciarán Cuffe",
+          "@_MEP.Identifier": "197654"
+        },
+        {
+          "#text": "Josianne Cutajar",
+          "@_MEP.Identifier": "197394"
+        },
+        {
+          "#text": "Ryszard Czarnecki",
+          "@_MEP.Identifier": "28372"
+        },
+        {
+          "#text": "Jakop G. Dalunde",
+          "@_MEP.Identifier": "183338"
+        },
+        {
+          "#text": "Rosa D'Amato",
+          "@_MEP.Identifier": "124835"
+        },
+        {
+          "#text": "Arnaud Danjean",
+          "@_MEP.Identifier": "96747"
+        },
+        {
+          "#text": "Nicola Danti",
+          "@_MEP.Identifier": "124821"
+        },
+        {
+          "#text": "Gianantonio Da Re",
+          "@_MEP.Identifier": "197608"
+        },
+        {
+          "#text": "Ivan David",
+          "@_MEP.Identifier": "197556"
+        },
+        {
+          "#text": "Ilan De Basso",
+          "@_MEP.Identifier": "228604"
+        },
+        {
+          "#text": "Paolo De Castro",
+          "@_MEP.Identifier": "96891"
+        },
+        {
+          "#text": "Jérémy Decerle",
+          "@_MEP.Identifier": "197504"
+        },
+        {
+          "#text": "Gwendoline Delbos-Corfield",
+          "@_MEP.Identifier": "197531"
+        },
+        {
+          "#text": "Andor Deli",
+          "@_MEP.Identifier": "124714"
+        },
+        {
+          "#text": "Karima Delli",
+          "@_MEP.Identifier": "96868"
+        },
+        {
+          "#text": "Filip De Man",
+          "@_MEP.Identifier": "197472"
+        },
+        {
+          "#text": "Salvatore De Meo",
+          "@_MEP.Identifier": "204333"
+        },
+        {
+          "#text": "Özlem Demirel",
+          "@_MEP.Identifier": "197468"
+        },
+        {
+          "#text": "Anna Deparnay-Grunenberg",
+          "@_MEP.Identifier": "197453"
+        },
+        {
+          "#text": "Martina Dlabajová",
+          "@_MEP.Identifier": "124709"
+        },
+        {
+          "#text": "Christian Doleschal",
+          "@_MEP.Identifier": "197473"
+        },
+        {
+          "#text": "Francesca Donato",
+          "@_MEP.Identifier": "197822"
+        },
+        {
+          "#text": "Herbert Dorfmann",
+          "@_MEP.Identifier": "96787"
+        },
+        {
+          "#text": "Marco Dreosto",
+          "@_MEP.Identifier": "197614"
+        },
+        {
+          "#text": "Jarosław Duda",
+          "@_MEP.Identifier": "197510"
+        },
+        {
+          "#text": "Lena Düpont",
+          "@_MEP.Identifier": "99945"
+        },
+        {
+          "#text": "Estrella Durá Ferrandis",
+          "@_MEP.Identifier": "198329"
+        },
+        {
+          "#text": "Pascal Durand",
+          "@_MEP.Identifier": "124693"
+        },
+        {
+          "#text": "Lucia Ďuriš Nicholsonová",
+          "@_MEP.Identifier": "197766"
+        },
+        {
+          "#text": "Angel Dzhambazki",
+          "@_MEP.Identifier": "124873"
+        },
+        {
+          "#text": "Christian Ehler",
+          "@_MEP.Identifier": "28226"
+        },
+        {
+          "#text": "Bas Eickhout",
+          "@_MEP.Identifier": "96725"
+        },
+        {
+          "#text": "Cyrus Engerer",
+          "@_MEP.Identifier": "209091"
+        },
+        {
+          "#text": "Cornelia Ernst",
+          "@_MEP.Identifier": "96852"
+        },
+        {
+          "#text": "Engin Eroglu",
+          "@_MEP.Identifier": "197430"
+        },
+        {
+          "#text": "Ismail Ertug",
+          "@_MEP.Identifier": "96842"
+        },
+        {
+          "#text": "Rosa Estaràs Ferragut",
+          "@_MEP.Identifier": "96811"
+        },
+        {
+          "#text": "Eleonora Evi",
+          "@_MEP.Identifier": "124779"
+        },
+        {
+          "#text": "Agnès Evren",
+          "@_MEP.Identifier": "197535"
+        },
+        {
+          "#text": "Gheorghe Falcă",
+          "@_MEP.Identifier": "197649"
+        },
+        {
+          "#text": "Laurence Farreng",
+          "@_MEP.Identifier": "197589"
+        },
+        {
+          "#text": "Markus Ferber",
+          "@_MEP.Identifier": "1917"
+        },
+        {
+          "#text": "José Manuel Fernandes",
+          "@_MEP.Identifier": "96899"
+        },
+        {
+          "#text": "Giuseppe Ferrandino",
+          "@_MEP.Identifier": "192634"
+        },
+        {
+          "#text": "Laura Ferrara",
+          "@_MEP.Identifier": "124833"
+        },
+        {
+          "#text": "Nicolaus Fest",
+          "@_MEP.Identifier": "197480"
+        },
+        {
+          "#text": "Carlo Fidanza",
+          "@_MEP.Identifier": "96810"
+        },
+        {
+          "#text": "Pietro Fiocchi",
+          "@_MEP.Identifier": "197607"
+        },
+        {
+          "#text": "Raffaele Fitto",
+          "@_MEP.Identifier": "4465"
+        },
+        {
+          "#text": "Frances Fitzgerald",
+          "@_MEP.Identifier": "197720"
+        },
+        {
+          "#text": "Luke Ming Flanagan",
+          "@_MEP.Identifier": "124985"
+        },
+        {
+          "#text": "Valter Flego",
+          "@_MEP.Identifier": "197419"
+        },
+        {
+          "#text": "Anna Fotyga",
+          "@_MEP.Identifier": "28353"
+        },
+        {
+          "#text": "Loucas Fourlas",
+          "@_MEP.Identifier": "197414"
+        },
+        {
+          "#text": "Tomasz Frankowski",
+          "@_MEP.Identifier": "197513"
+        },
+        {
+          "#text": "Cindy Franssen",
+          "@_MEP.Identifier": "197455"
+        },
+        {
+          "#text": "Romeo Franz",
+          "@_MEP.Identifier": "193273"
+        },
+        {
+          "#text": "Daniel Freund",
+          "@_MEP.Identifier": "106936"
+        },
+        {
+          "#text": "Heléne Fritzon",
+          "@_MEP.Identifier": "197391"
+        },
+        {
+          "#text": "Niels Fuglsang",
+          "@_MEP.Identifier": "101585"
+        },
+        {
+          "#text": "Mario Furore",
+          "@_MEP.Identifier": "197795"
+        },
+        {
+          "#text": "Søren Gade",
+          "@_MEP.Identifier": "197555"
+        },
+        {
+          "#text": "Michael Gahler",
+          "@_MEP.Identifier": "2341"
+        },
+        {
+          "#text": "Kinga Gál",
+          "@_MEP.Identifier": "28150"
+        },
+        {
+          "#text": "Malte Gallée",
+          "@_MEP.Identifier": "229352"
+        },
+        {
+          "#text": "Lina Gálvez Muñoz",
+          "@_MEP.Identifier": "197702"
+        },
+        {
+          "#text": "Claudia Gamon",
+          "@_MEP.Identifier": "197632"
+        },
+        {
+          "#text": "Gianna Gancia",
+          "@_MEP.Identifier": "197582"
+        },
+        {
+          "#text": "Ibán García Del Blanco",
+          "@_MEP.Identifier": "197717"
+        },
+        {
+          "#text": "José Manuel García-Margallo y Marfil",
+          "@_MEP.Identifier": "1992"
+        },
+        {
+          "#text": "Isabel García Muñoz",
+          "@_MEP.Identifier": "197742"
+        },
+        {
+          "#text": "Eider Gardiazabal Rubial",
+          "@_MEP.Identifier": "96991"
+        },
+        {
+          "#text": "Luis Garicano",
+          "@_MEP.Identifier": "197554"
+        },
+        {
+          "#text": "Alexandra Geese",
+          "@_MEP.Identifier": "183916"
+        },
+        {
+          "#text": "Jens Geier",
+          "@_MEP.Identifier": "96833"
+        },
+        {
+          "#text": "Chiara Gemma",
+          "@_MEP.Identifier": "197794"
+        },
+        {
+          "#text": "Giorgos Georgiou",
+          "@_MEP.Identifier": "197416"
+        },
+        {
+          "#text": "Alexis Georgoulis",
+          "@_MEP.Identifier": "197819"
+        },
+        {
+          "#text": "Dino Giarrusso",
+          "@_MEP.Identifier": "197804"
+        },
+        {
+          "#text": "Jens Gieseke",
+          "@_MEP.Identifier": "124807"
+        },
+        {
+          "#text": "Sunčana Glavak",
+          "@_MEP.Identifier": "202036"
+        },
+        {
+          "#text": "Andreas Glück",
+          "@_MEP.Identifier": "197443"
+        },
+        {
+          "#text": "Charles Goerens",
+          "@_MEP.Identifier": "840"
+        },
+        {
+          "#text": "Mónica Silvana González",
+          "@_MEP.Identifier": "197728"
+        },
+        {
+          "#text": "Nicolás González Casares",
+          "@_MEP.Identifier": "197718"
+        },
+        {
+          "#text": "Sandro Gozi",
+          "@_MEP.Identifier": "204419"
+        },
+        {
+          "#text": "Valentino Grant",
+          "@_MEP.Identifier": "197799"
+        },
+        {
+          "#text": "Maria Grapini",
+          "@_MEP.Identifier": "124785"
+        },
+        {
+          "#text": "Markéta Gregorová",
+          "@_MEP.Identifier": "197549"
+        },
+        {
+          "#text": "Bart Groothuis",
+          "@_MEP.Identifier": "197780"
+        },
+        {
+          "#text": "Klemen Grošelj",
+          "@_MEP.Identifier": "197452"
+        },
+        {
+          "#text": "Christophe Grudler",
+          "@_MEP.Identifier": "197557"
+        },
+        {
+          "#text": "Claude Gruffat",
+          "@_MEP.Identifier": "204420"
+        },
+        {
+          "#text": "Elisabetta Gualmini",
+          "@_MEP.Identifier": "197618"
+        },
+        {
+          "#text": "Francisco Guerreiro",
+          "@_MEP.Identifier": "197645"
+        },
+        {
+          "#text": "Bernard Guetta",
+          "@_MEP.Identifier": "197543"
+        },
+        {
+          "#text": "Sylvie Guillaume",
+          "@_MEP.Identifier": "96952"
+        },
+        {
+          "#text": "José Gusmão",
+          "@_MEP.Identifier": "88715"
+        },
+        {
+          "#text": "Jytte Guteland",
+          "@_MEP.Identifier": "124991"
+        },
+        {
+          "#text": "Márton Gyöngyösi",
+          "@_MEP.Identifier": "198063"
+        },
+        {
+          "#text": "Svenja Hahn",
+          "@_MEP.Identifier": "197444"
+        },
+        {
+          "#text": "Henrike Hahn",
+          "@_MEP.Identifier": "197457"
+        },
+        {
+          "#text": "Roman Haider",
+          "@_MEP.Identifier": "198176"
+        },
+        {
+          "#text": "Robert Hajšel",
+          "@_MEP.Identifier": "34578"
+        },
+        {
+          "#text": "Teuvo Hakkarainen",
+          "@_MEP.Identifier": "197596"
+        },
+        {
+          "#text": "Andrzej Halicki",
+          "@_MEP.Identifier": "197514"
+        },
+        {
+          "#text": "Martin Häusling",
+          "@_MEP.Identifier": "96752"
+        },
+        {
+          "#text": "Heidi Hautala",
+          "@_MEP.Identifier": "2054"
+        },
+        {
+          "#text": "Mircea-Gheorghe Hava",
+          "@_MEP.Identifier": "197646"
+        },
+        {
+          "#text": "Valérie Hayer",
+          "@_MEP.Identifier": "135511"
+        },
+        {
+          "#text": "Anja Hazekamp",
+          "@_MEP.Identifier": "125023"
+        },
+        {
+          "#text": "Hannes Heide",
+          "@_MEP.Identifier": "197682"
+        },
+        {
+          "#text": "Eero Heinäluoma",
+          "@_MEP.Identifier": "197800"
+        },
+        {
+          "#text": "Niclas Herbst",
+          "@_MEP.Identifier": "197412"
+        },
+        {
+          "#text": "Pierrette Herzberger-Fofana",
+          "@_MEP.Identifier": "197459"
+        },
+        {
+          "#text": "Krzysztof Hetman",
+          "@_MEP.Identifier": "124895"
+        },
+        {
+          "#text": "Balázs Hidvéghi",
+          "@_MEP.Identifier": "124586"
+        },
+        {
+          "#text": "Martin Hlaváček",
+          "@_MEP.Identifier": "197526"
+        },
+        {
+          "#text": "Martin Hojsík",
+          "@_MEP.Identifier": "197770"
+        },
+        {
+          "#text": "Pär Holmgren",
+          "@_MEP.Identifier": "197398"
+        },
+        {
+          "#text": "Michiel Hoogeveen",
+          "@_MEP.Identifier": "218349"
+        },
+        {
+          "#text": "Brice Hortefeux",
+          "@_MEP.Identifier": "5565"
+        },
+        {
+          "#text": "Danuta Maria Hübner",
+          "@_MEP.Identifier": "96779"
+        },
+        {
+          "#text": "Laura Huhtasaari",
+          "@_MEP.Identifier": "197594"
+        },
+        {
+          "#text": "Jan Huitema",
+          "@_MEP.Identifier": "58789"
+        },
+        {
+          "#text": "Ivars Ijabs",
+          "@_MEP.Identifier": "197624"
+        },
+        {
+          "#text": "Ladislav Ilčić",
+          "@_MEP.Identifier": "221463"
+        },
+        {
+          "#text": "Evin Incir",
+          "@_MEP.Identifier": "197392"
+        },
+        {
+          "#text": "Sophia in 't Veld",
+          "@_MEP.Identifier": "28266"
+        },
+        {
+          "#text": "Peter Jahr",
+          "@_MEP.Identifier": "96772"
+        },
+        {
+          "#text": "Patryk Jaki",
+          "@_MEP.Identifier": "197516"
+        },
+        {
+          "#text": "Adam Jarubas",
+          "@_MEP.Identifier": "197517"
+        },
+        {
+          "#text": "Romana Jerković",
+          "@_MEP.Identifier": "112747"
+        },
+        {
+          "#text": "Agnes Jongerius",
+          "@_MEP.Identifier": "125021"
+        },
+        {
+          "#text": "Irena Joveva",
+          "@_MEP.Identifier": "197447"
+        },
+        {
+          "#text": "Krzysztof Jurgiel",
+          "@_MEP.Identifier": "197518"
+        },
+        {
+          "#text": "Eugen Jurzyca",
+          "@_MEP.Identifier": "197767"
+        },
+        {
+          "#text": "Eva Kaili",
+          "@_MEP.Identifier": "125109"
+        },
+        {
+          "#text": "Jarosław Kalinowski",
+          "@_MEP.Identifier": "96771"
+        },
+        {
+          "#text": "Petra Kammerevert",
+          "@_MEP.Identifier": "96837"
+        },
+        {
+          "#text": "Radan Kanev",
+          "@_MEP.Identifier": "197839"
+        },
+        {
+          "#text": "Assita Kanko",
+          "@_MEP.Identifier": "197469"
+        },
+        {
+          "#text": "Othmar Karas",
+          "@_MEP.Identifier": "4246"
+        },
+        {
+          "#text": "Pierre Karleskind",
+          "@_MEP.Identifier": "197585"
+        },
+        {
+          "#text": "Karol Karski",
+          "@_MEP.Identifier": "124887"
+        },
+        {
+          "#text": "Elsi Katainen",
+          "@_MEP.Identifier": "191693"
+        },
+        {
+          "#text": "Manolis Kefalogiannis",
+          "@_MEP.Identifier": "125068"
+        },
+        {
+          "#text": "Billy Kelleher",
+          "@_MEP.Identifier": "197818"
+        },
+        {
+          "#text": "Fabienne Keller",
+          "@_MEP.Identifier": "22858"
+        },
+        {
+          "#text": "Ska Keller",
+          "@_MEP.Identifier": "96734"
+        },
+        {
+          "#text": "Seán Kelly",
+          "@_MEP.Identifier": "96668"
+        },
+        {
+          "#text": "Beata Kempa",
+          "@_MEP.Identifier": "197519"
+        },
+        {
+          "#text": "Niyazi Kizilyürek",
+          "@_MEP.Identifier": "197415"
+        },
+        {
+          "#text": "Izabela-Helena Kloc",
+          "@_MEP.Identifier": "197520"
+        },
+        {
+          "#text": "Ondřej Knotek",
+          "@_MEP.Identifier": "197528"
+        },
+        {
+          "#text": "Peter Kofod",
+          "@_MEP.Identifier": "197570"
+        },
+        {
+          "#text": "Łukasz Kohut",
+          "@_MEP.Identifier": "197523"
+        },
+        {
+          "#text": "Arba Kokalari",
+          "@_MEP.Identifier": "197406"
+        },
+        {
+          "#text": "Petros Kokkalis",
+          "@_MEP.Identifier": "197743"
+        },
+        {
+          "#text": "Marcel Kolaja",
+          "@_MEP.Identifier": "197546"
+        },
+        {
+          "#text": "Mislav Kolakušić",
+          "@_MEP.Identifier": "197438"
+        },
+        {
+          "#text": "Kateřina Konečná",
+          "@_MEP.Identifier": "23699"
+        },
+        {
+          "#text": "Athanasios Konstantinou",
+          "@_MEP.Identifier": "197740"
+        },
+        {
+          "#text": "Ewa Kopacz",
+          "@_MEP.Identifier": "197525"
+        },
+        {
+          "#text": "Joanna Kopcińska",
+          "@_MEP.Identifier": "197530"
+        },
+        {
+          "#text": "Moritz Körner",
+          "@_MEP.Identifier": "197445"
+        },
+        {
+          "#text": "Ádám Kósa",
+          "@_MEP.Identifier": "96829"
+        },
+        {
+          "#text": "Dietmar Köster",
+          "@_MEP.Identifier": "124822"
+        },
+        {
+          "#text": "Elena Kountoura",
+          "@_MEP.Identifier": "197699"
+        },
+        {
+          "#text": "Ondřej Kovařík",
+          "@_MEP.Identifier": "118949"
+        },
+        {
+          "#text": "Andrey Kovatchev",
+          "@_MEP.Identifier": "97968"
+        },
+        {
+          "#text": "Maximilian Krah",
+          "@_MEP.Identifier": "197481"
+        },
+        {
+          "#text": "Zdzisław Krasnodębski",
+          "@_MEP.Identifier": "124891"
+        },
+        {
+          "#text": "Constanze Krehl",
+          "@_MEP.Identifier": "1854"
+        },
+        {
+          "#text": "Elżbieta Kruk",
+          "@_MEP.Identifier": "197532"
+        },
+        {
+          "#text": "Alice Kuhnke",
+          "@_MEP.Identifier": "197395"
+        },
+        {
+          "#text": "Joachim Kuhs",
+          "@_MEP.Identifier": "197482"
+        },
+        {
+          "#text": "Miapetra Kumpula-Natri",
+          "@_MEP.Identifier": "124735"
+        },
+        {
+          "#text": "Zbigniew Kuźmiuk",
+          "@_MEP.Identifier": "28389"
+        },
+        {
+          "#text": "Stelios Kympouropoulos",
+          "@_MEP.Identifier": "197692"
+        },
+        {
+          "#text": "Georgios Kyrtsos",
+          "@_MEP.Identifier": "125063"
+        },
+        {
+          "#text": "Ilhan Kyuchyuk",
+          "@_MEP.Identifier": "124866"
+        },
+        {
+          "#text": "Sergey Lagodinsky",
+          "@_MEP.Identifier": "197460"
+        },
+        {
+          "#text": "Aurore Lalucq",
+          "@_MEP.Identifier": "197697"
+        },
+        {
+          "#text": "Danilo Oscar Lancini",
+          "@_MEP.Identifier": "192635"
+        },
+        {
+          "#text": "Bernd Lange",
+          "@_MEP.Identifier": "1909"
+        },
+        {
+          "#text": "Esther de Lange",
+          "@_MEP.Identifier": "38398"
+        },
+        {
+          "#text": "Katrin Langensiepen",
+          "@_MEP.Identifier": "197461"
+        },
+        {
+          "#text": "Pierre Larrouturou",
+          "@_MEP.Identifier": "197698"
+        },
+        {
+          "#text": "Camilla Laureti",
+          "@_MEP.Identifier": "230085"
+        },
+        {
+          "#text": "Gilles Lebreton",
+          "@_MEP.Identifier": "124738"
+        },
+        {
+          "#text": "David Lega",
+          "@_MEP.Identifier": "197393"
+        },
+        {
+          "#text": "Maria-Manuel Leitão-Marques",
+          "@_MEP.Identifier": "197635"
+        },
+        {
+          "#text": "Jeroen Lenaers",
+          "@_MEP.Identifier": "95074"
+        },
+        {
+          "#text": "Janusz Lewandowski",
+          "@_MEP.Identifier": "23781"
+        },
+        {
+          "#text": "Miriam Lexmann",
+          "@_MEP.Identifier": "204336"
+        },
+        {
+          "#text": "Bogusław Liberadzki",
+          "@_MEP.Identifier": "23768"
+        },
+        {
+          "#text": "Peter Liese",
+          "@_MEP.Identifier": "1927"
+        },
+        {
+          "#text": "Norbert Lins",
+          "@_MEP.Identifier": "124808"
+        },
+        {
+          "#text": "Morten Løkkegaard",
+          "@_MEP.Identifier": "96709"
+        },
+        {
+          "#text": "Javi López",
+          "@_MEP.Identifier": "125042"
+        },
+        {
+          "#text": "Leopoldo López Gil",
+          "@_MEP.Identifier": "197777"
+        },
+        {
+          "#text": "Antonio López-Istúriz White",
+          "@_MEP.Identifier": "28399"
+        },
+        {
+          "#text": "Karsten Lucke",
+          "@_MEP.Identifier": "228286"
+        },
+        {
+          "#text": "César Luena",
+          "@_MEP.Identifier": "197721"
+        },
+        {
+          "#text": "Elżbieta Katarzyna Łukacijewska",
+          "@_MEP.Identifier": "96791"
+        },
+        {
+          "#text": "Peter Lundgren",
+          "@_MEP.Identifier": "124996"
+        },
+        {
+          "#text": "Chris MacManus",
+          "@_MEP.Identifier": "205452"
+        },
+        {
+          "#text": "Jaak Madison",
+          "@_MEP.Identifier": "197493"
+        },
+        {
+          "#text": "Cristina Maestre Martín De Almagro",
+          "@_MEP.Identifier": "197719"
+        },
+        {
+          "#text": "Pierfrancesco Majorino",
+          "@_MEP.Identifier": "197592"
+        },
+        {
+          "#text": "Aušra Maldeikienė",
+          "@_MEP.Identifier": "197835"
+        },
+        {
+          "#text": "Adriana Maldonado López",
+          "@_MEP.Identifier": "197735"
+        },
+        {
+          "#text": "Antonius Manders",
+          "@_MEP.Identifier": "4560"
+        },
+        {
+          "#text": "Lukas Mandl",
+          "@_MEP.Identifier": "190713"
+        },
+        {
+          "#text": "Marian-Jean Marinescu",
+          "@_MEP.Identifier": "33982"
+        },
+        {
+          "#text": "Colm Markey",
+          "@_MEP.Identifier": "209896"
+        },
+        {
+          "#text": "Erik Marquardt",
+          "@_MEP.Identifier": "197462"
+        },
+        {
+          "#text": "Margarida Marques",
+          "@_MEP.Identifier": "197638"
+        },
+        {
+          "#text": "Fulvio Martusciello",
+          "@_MEP.Identifier": "124828"
+        },
+        {
+          "#text": "Marisa Matias",
+          "@_MEP.Identifier": "96820"
+        },
+        {
+          "#text": "Predrag Fred Matić",
+          "@_MEP.Identifier": "197441"
+        },
+        {
+          "#text": "Gabriel Mato",
+          "@_MEP.Identifier": "96936"
+        },
+        {
+          "#text": "Sara Matthieu",
+          "@_MEP.Identifier": "208722"
+        },
+        {
+          "#text": "Emmanuel Maurel",
+          "@_MEP.Identifier": "24505"
+        },
+        {
+          "#text": "Costas Mavrides",
+          "@_MEP.Identifier": "124691"
+        },
+        {
+          "#text": "Radka Maxová",
+          "@_MEP.Identifier": "197522"
+        },
+        {
+          "#text": "Eva Maydell",
+          "@_MEP.Identifier": "98341"
+        },
+        {
+          "#text": "Georg Mayer",
+          "@_MEP.Identifier": "38511"
+        },
+        {
+          "#text": "Beata Mazurek",
+          "@_MEP.Identifier": "197538"
+        },
+        {
+          "#text": "Liudas Mažylis",
+          "@_MEP.Identifier": "197841"
+        },
+        {
+          "#text": "Nora Mebarek",
+          "@_MEP.Identifier": "204418"
+        },
+        {
+          "#text": "Vangelis Meimarakis",
+          "@_MEP.Identifier": "197662"
+        },
+        {
+          "#text": "Dace Melbārde",
+          "@_MEP.Identifier": "130256"
+        },
+        {
+          "#text": "Roberta Metsola",
+          "@_MEP.Identifier": "118859"
+        },
+        {
+          "#text": "Tilly Metz",
+          "@_MEP.Identifier": "193292"
+        },
+        {
+          "#text": "Jörg Meuthen",
+          "@_MEP.Identifier": "190518"
+        },
+        {
+          "#text": "Martina Michels",
+          "@_MEP.Identifier": "120478"
+        },
+        {
+          "#text": "Iskra Mihaylova",
+          "@_MEP.Identifier": "125128"
+        },
+        {
+          "#text": "Sven Mikser",
+          "@_MEP.Identifier": "197497"
+        },
+        {
+          "#text": "Francisco José Millán Mon",
+          "@_MEP.Identifier": "28400"
+        },
+        {
+          "#text": "Leszek Miller",
+          "@_MEP.Identifier": "197540"
+        },
+        {
+          "#text": "Alin Mituța",
+          "@_MEP.Identifier": "212855"
+        },
+        {
+          "#text": "Silvia Modig",
+          "@_MEP.Identifier": "197805"
+        },
+        {
+          "#text": "Csaba Molnár",
+          "@_MEP.Identifier": "124722"
+        },
+        {
+          "#text": "Cláudia Monteiro de Aguiar",
+          "@_MEP.Identifier": "124734"
+        },
+        {
+          "#text": "Dolors Montserrat",
+          "@_MEP.Identifier": "197711"
+        },
+        {
+          "#text": "Nadine Morano",
+          "@_MEP.Identifier": "72779"
+        },
+        {
+          "#text": "Javier Moreno Sánchez",
+          "@_MEP.Identifier": "28347"
+        },
+        {
+          "#text": "Marlene Mortler",
+          "@_MEP.Identifier": "197427"
+        },
+        {
+          "#text": "Dan-Ştefan Motreanu",
+          "@_MEP.Identifier": "197647"
+        },
+        {
+          "#text": "Andżelika Anna Możdżanowska",
+          "@_MEP.Identifier": "197541"
+        },
+        {
+          "#text": "Ulrike Müller",
+          "@_MEP.Identifier": "124862"
+        },
+        {
+          "#text": "Siegfried Mureşan",
+          "@_MEP.Identifier": "124802"
+        },
+        {
+          "#text": "Caroline Nagtegaal",
+          "@_MEP.Identifier": "190519"
+        },
+        {
+          "#text": "Victor Negrescu",
+          "@_MEP.Identifier": "88882"
+        },
+        {
+          "#text": "Hannah Neumann",
+          "@_MEP.Identifier": "197464"
+        },
+        {
+          "#text": "Angelika Niebler",
+          "@_MEP.Identifier": "4289"
+        },
+        {
+          "#text": "Luděk Niedermayer",
+          "@_MEP.Identifier": "124701"
+        },
+        {
+          "#text": "Niklas Nienaß",
+          "@_MEP.Identifier": "197465"
+        },
+        {
+          "#text": "Ville Niinistö",
+          "@_MEP.Identifier": "197802"
+        },
+        {
+          "#text": "Lefteris Nikolaou-Alavanos",
+          "@_MEP.Identifier": "197734"
+        },
+        {
+          "#text": "Gheorghe-Vlad Nistor",
+          "@_MEP.Identifier": "202112"
+        },
+        {
+          "#text": "Maria Noichl",
+          "@_MEP.Identifier": "124836"
+        },
+        {
+          "#text": "Ljudmila Novak",
+          "@_MEP.Identifier": "28294"
+        },
+        {
+          "#text": "Andrey Novakov",
+          "@_MEP.Identifier": "107212"
+        },
+        {
+          "#text": "Janina Ochojska",
+          "@_MEP.Identifier": "197542"
+        },
+        {
+          "#text": "Jan-Christoph Oetjen",
+          "@_MEP.Identifier": "197432"
+        },
+        {
+          "#text": "Jan Olbrycht",
+          "@_MEP.Identifier": "28288"
+        },
+        {
+          "#text": "Grace O'Sullivan",
+          "@_MEP.Identifier": "197889"
+        },
+        {
+          "#text": "Urmas Paet",
+          "@_MEP.Identifier": "129073"
+        },
+        {
+          "#text": "Maite Pagazaurtundúa",
+          "@_MEP.Identifier": "125038"
+        },
+        {
+          "#text": "Alessandro Panza",
+          "@_MEP.Identifier": "99283"
+        },
+        {
+          "#text": "Kostas Papadakis",
+          "@_MEP.Identifier": "125093"
+        },
+        {
+          "#text": "Dimitrios Papadimoulis",
+          "@_MEP.Identifier": "28586"
+        },
+        {
+          "#text": "Jutta Paulus",
+          "@_MEP.Identifier": "197466"
+        },
+        {
+          "#text": "Piernicola Pedicini",
+          "@_MEP.Identifier": "124844"
+        },
+        {
+          "#text": "Mauri Pekkarinen",
+          "@_MEP.Identifier": "197563"
+        },
+        {
+          "#text": "Mikuláš Peksa",
+          "@_MEP.Identifier": "197539"
+        },
+        {
+          "#text": "Anne-Sophie Pelletier",
+          "@_MEP.Identifier": "197527"
+        },
+        {
+          "#text": "Tsvetelina Penkova",
+          "@_MEP.Identifier": "197845"
+        },
+        {
+          "#text": "Sandra Pereira",
+          "@_MEP.Identifier": "197754"
+        },
+        {
+          "#text": "Lídia Pereira",
+          "@_MEP.Identifier": "197738"
+        },
+        {
+          "#text": "Kira Marie Peter-Hansen",
+          "@_MEP.Identifier": "197573"
+        },
+        {
+          "#text": "Morten Petersen",
+          "@_MEP.Identifier": "124872"
+        },
+        {
+          "#text": "Pina Picierno",
+          "@_MEP.Identifier": "124846"
+        },
+        {
+          "#text": "Tonino Picula",
+          "@_MEP.Identifier": "112744"
+        },
+        {
+          "#text": "Markus Pieper",
+          "@_MEP.Identifier": "28224"
+        },
+        {
+          "#text": "Sabrina Pignedoli",
+          "@_MEP.Identifier": "197619"
+        },
+        {
+          "#text": "João Pimenta Lopes",
+          "@_MEP.Identifier": "136236"
+        },
+        {
+          "#text": "Manu Pineda",
+          "@_MEP.Identifier": "197828"
+        },
+        {
+          "#text": "Margarita de la Pisa Carrión",
+          "@_MEP.Identifier": "204414"
+        },
+        {
+          "#text": "Giuliano Pisapia",
+          "@_MEP.Identifier": "197590"
+        },
+        {
+          "#text": "Dragoş Pîslaru",
+          "@_MEP.Identifier": "197663"
+        },
+        {
+          "#text": "Manuel Pizarro",
+          "@_MEP.Identifier": "197732"
+        },
+        {
+          "#text": "Rovana Plumb",
+          "@_MEP.Identifier": "38595"
+        },
+        {
+          "#text": "Stanislav Polčák",
+          "@_MEP.Identifier": "124704"
+        },
+        {
+          "#text": "Jessica Polfjärd",
+          "@_MEP.Identifier": "197404"
+        },
+        {
+          "#text": "Peter Pollák",
+          "@_MEP.Identifier": "197765"
+        },
+        {
+          "#text": "Clara Ponsatí Obiols",
+          "@_MEP.Identifier": "204443"
+        },
+        {
+          "#text": "Jiří Pospíšil",
+          "@_MEP.Identifier": "125706"
+        },
+        {
+          "#text": "Nicola Procaccini",
+          "@_MEP.Identifier": "197820"
+        },
+        {
+          "#text": "Carles Puigdemont i Casamajó",
+          "@_MEP.Identifier": "202351"
+        },
+        {
+          "#text": "Miroslav Radačovský",
+          "@_MEP.Identifier": "197764"
+        },
+        {
+          "#text": "Emil Radev",
+          "@_MEP.Identifier": "124850"
+        },
+        {
+          "#text": "Dennis Radtke",
+          "@_MEP.Identifier": "188945"
+        },
+        {
+          "#text": "Elżbieta Rafalska",
+          "@_MEP.Identifier": "197544"
+        },
+        {
+          "#text": "Paulo Rangel",
+          "@_MEP.Identifier": "96903"
+        },
+        {
+          "#text": "Luisa Regimenti",
+          "@_MEP.Identifier": "197790"
+        },
+        {
+          "#text": "Evelyn Regner",
+          "@_MEP.Identifier": "96998"
+        },
+        {
+          "#text": "Sira Rego",
+          "@_MEP.Identifier": "197681"
+        },
+        {
+          "#text": "Guido Reil",
+          "@_MEP.Identifier": "197488"
+        },
+        {
+          "#text": "Karlo Ressler",
+          "@_MEP.Identifier": "197413"
+        },
+        {
+          "#text": "Thijs Reuten",
+          "@_MEP.Identifier": "218347"
+        },
+        {
+          "#text": "Diana Riba i Giner",
+          "@_MEP.Identifier": "197832"
+        },
+        {
+          "#text": "Antonio Maria Rinaldi",
+          "@_MEP.Identifier": "197787"
+        },
+        {
+          "#text": "Manuela Ripa",
+          "@_MEP.Identifier": "206158"
+        },
+        {
+          "#text": "Dominique Riquet",
+          "@_MEP.Identifier": "96885"
+        },
+        {
+          "#text": "Michèle Rivasi",
+          "@_MEP.Identifier": "96743"
+        },
+        {
+          "#text": "Jérôme Rivière",
+          "@_MEP.Identifier": "197615"
+        },
+        {
+          "#text": "Franco Roberti",
+          "@_MEP.Identifier": "197801"
+        },
+        {
+          "#text": "Inma Rodríguez-Piñero",
+          "@_MEP.Identifier": "125043"
+        },
+        {
+          "#text": "Eugenia Rodríguez Palop",
+          "@_MEP.Identifier": "197785"
+        },
+        {
+          "#text": "María Soraya Rodríguez Ramos",
+          "@_MEP.Identifier": "4344"
+        },
+        {
+          "#text": "Sándor Rónai",
+          "@_MEP.Identifier": "197584"
+        },
+        {
+          "#text": "Daniela Rondinelli",
+          "@_MEP.Identifier": "197792"
+        },
+        {
+          "#text": "Rob Rooken",
+          "@_MEP.Identifier": "197776"
+        },
+        {
+          "#text": "Dorien Rookmaker",
+          "@_MEP.Identifier": "204733"
+        },
+        {
+          "#text": "Robert Roos",
+          "@_MEP.Identifier": "197709"
+        },
+        {
+          "#text": "Caroline Roose",
+          "@_MEP.Identifier": "197506"
+        },
+        {
+          "#text": "Bronis Ropė",
+          "@_MEP.Identifier": "125214"
+        },
+        {
+          "#text": "Marcos Ros Sempere",
+          "@_MEP.Identifier": "204413"
+        },
+        {
+          "#text": "Bert-Jan Ruissen",
+          "@_MEP.Identifier": "197773"
+        },
+        {
+          "#text": "Domènec Ruiz Devesa",
+          "@_MEP.Identifier": "127096"
+        },
+        {
+          "#text": "Bogdan Rzońca",
+          "@_MEP.Identifier": "197545"
+        },
+        {
+          "#text": "Christian Sagartz",
+          "@_MEP.Identifier": "204368"
+        },
+        {
+          "#text": "Massimiliano Salini",
+          "@_MEP.Identifier": "125670"
+        },
+        {
+          "#text": "Nacho Sánchez Amor",
+          "@_MEP.Identifier": "197722"
+        },
+        {
+          "#text": "Anne Sander",
+          "@_MEP.Identifier": "24594"
+        },
+        {
+          "#text": "Alfred Sant",
+          "@_MEP.Identifier": "124781"
+        },
+        {
+          "#text": "Isabel Santos",
+          "@_MEP.Identifier": "197650"
+        },
+        {
+          "#text": "Silvia Sardone",
+          "@_MEP.Identifier": "197578"
+        },
+        {
+          "#text": "Petri Sarvamaa",
+          "@_MEP.Identifier": "112611"
+        },
+        {
+          "#text": "Christel Schaldemose",
+          "@_MEP.Identifier": "37312"
+        },
+        {
+          "#text": "Ernő Schaller-Baross",
+          "@_MEP.Identifier": "213330"
+        },
+        {
+          "#text": "Andreas Schieder",
+          "@_MEP.Identifier": "197670"
+        },
+        {
+          "#text": "Simone Schmiedtbauer",
+          "@_MEP.Identifier": "197656"
+        },
+        {
+          "#text": "Christine Schneider",
+          "@_MEP.Identifier": "197422"
+        },
+        {
+          "#text": "Helmut Scholz",
+          "@_MEP.Identifier": "96646"
+        },
+        {
+          "#text": "Joachim Schuster",
+          "@_MEP.Identifier": "124837"
+        },
+        {
+          "#text": "Andreas Schwab",
+          "@_MEP.Identifier": "28223"
+        },
+        {
+          "#text": "Ralf Seekatz",
+          "@_MEP.Identifier": "197425"
+        },
+        {
+          "#text": "Monica Semedo",
+          "@_MEP.Identifier": "197418"
+        },
+        {
+          "#text": "Nico Semsrott",
+          "@_MEP.Identifier": "197423"
+        },
+        {
+          "#text": "Radosław Sikorski",
+          "@_MEP.Identifier": "197548"
+        },
+        {
+          "#text": "Pedro Silva Pereira",
+          "@_MEP.Identifier": "124747"
+        },
+        {
+          "#text": "Michal Šimečka",
+          "@_MEP.Identifier": "103746"
+        },
+        {
+          "#text": "Sven Simon",
+          "@_MEP.Identifier": "197426"
+        },
+        {
+          "#text": "Ivan Vilibor Sinčić",
+          "@_MEP.Identifier": "197935"
+        },
+        {
+          "#text": "Birgit Sippel",
+          "@_MEP.Identifier": "96932"
+        },
+        {
+          "#text": "Sara Skyttedal",
+          "@_MEP.Identifier": "197390"
+        },
+        {
+          "#text": "Vincenzo Sofo",
+          "@_MEP.Identifier": "204334"
+        },
+        {
+          "#text": "Michaela Šojdrová",
+          "@_MEP.Identifier": "124710"
+        },
+        {
+          "#text": "Tomislav Sokol",
+          "@_MEP.Identifier": "197417"
+        },
+        {
+          "#text": "Jordi Solé",
+          "@_MEP.Identifier": "185974"
+        },
+        {
+          "#text": "Susana Solís Pérez",
+          "@_MEP.Identifier": "197784"
+        },
+        {
+          "#text": "Martin Sonneborn",
+          "@_MEP.Identifier": "124834"
+        },
+        {
+          "#text": "Sylwia Spurek",
+          "@_MEP.Identifier": "197550"
+        },
+        {
+          "#text": "Raffaele Stancanelli",
+          "@_MEP.Identifier": "197825"
+        },
+        {
+          "#text": "Sergei Stanishev",
+          "@_MEP.Identifier": "124852"
+        },
+        {
+          "#text": "Nicolae Ştefănuță",
+          "@_MEP.Identifier": "58766"
+        },
+        {
+          "#text": "Jessica Stegrud",
+          "@_MEP.Identifier": "197399"
+        },
+        {
+          "#text": "Tineke Strik",
+          "@_MEP.Identifier": "197772"
+        },
+        {
+          "#text": "Ramona Strugariu",
+          "@_MEP.Identifier": "134605"
+        },
+        {
+          "#text": "Beata Szydło",
+          "@_MEP.Identifier": "197553"
+        },
+        {
+          "#text": "Linea Søgaard-Lidell",
+          "@_MEP.Identifier": "204331"
+        },
+        {
+          "#text": "Paul Tang",
+          "@_MEP.Identifier": "125020"
+        },
+        {
+          "#text": "Marc Tarabella",
+          "@_MEP.Identifier": "29579"
+        },
+        {
+          "#text": "Dominik Tarczyński",
+          "@_MEP.Identifier": "204346"
+        },
+        {
+          "#text": "Annalisa Tardino",
+          "@_MEP.Identifier": "197806"
+        },
+        {
+          "#text": "Vera Tax",
+          "@_MEP.Identifier": "197756"
+        },
+        {
+          "#text": "Cristian Terheş",
+          "@_MEP.Identifier": "197655"
+        },
+        {
+          "#text": "Riho Terras",
+          "@_MEP.Identifier": "204449"
+        },
+        {
+          "#text": "Hermann Tertsch",
+          "@_MEP.Identifier": "197831"
+        },
+        {
+          "#text": "Barbara Thaler",
+          "@_MEP.Identifier": "197667"
+        },
+        {
+          "#text": "Róża Thun und Hohenstein",
+          "@_MEP.Identifier": "96776"
+        },
+        {
+          "#text": "Irene Tinagli",
+          "@_MEP.Identifier": "197591"
+        },
+        {
+          "#text": "Tomas Tobé",
+          "@_MEP.Identifier": "197402"
+        },
+        {
+          "#text": "Grzegorz Tobiszowski",
+          "@_MEP.Identifier": "197559"
+        },
+        {
+          "#text": "Patrizia Toia",
+          "@_MEP.Identifier": "28340"
+        },
+        {
+          "#text": "Irène Tolleret",
+          "@_MEP.Identifier": "197547"
+        },
+        {
+          "#text": "Eugen Tomac",
+          "@_MEP.Identifier": "197672"
+        },
+        {
+          "#text": "Valdemar Tomaševski",
+          "@_MEP.Identifier": "96697"
+        },
+        {
+          "#text": "Romana Tomc",
+          "@_MEP.Identifier": "125104"
+        },
+        {
+          "#text": "Yana Toom",
+          "@_MEP.Identifier": "124700"
+        },
+        {
+          "#text": "Nils Torvalds",
+          "@_MEP.Identifier": "114268"
+        },
+        {
+          "#text": "Evžen Tošenovský",
+          "@_MEP.Identifier": "96713"
+        },
+        {
+          "#text": "Edina Tóth",
+          "@_MEP.Identifier": "27714"
+        },
+        {
+          "#text": "Marie Toussaint",
+          "@_MEP.Identifier": "97236"
+        },
+        {
+          "#text": "Véronique Trillet-Lenoir",
+          "@_MEP.Identifier": "197593"
+        },
+        {
+          "#text": "Dragoş Tudorache",
+          "@_MEP.Identifier": "197665"
+        },
+        {
+          "#text": "Mihai Tudose",
+          "@_MEP.Identifier": "198183"
+        },
+        {
+          "#text": "Milan Uhrík",
+          "@_MEP.Identifier": "197763"
+        },
+        {
+          "#text": "Miguel Urbán Crespo",
+          "@_MEP.Identifier": "131507"
+        },
+        {
+          "#text": "Ernest Urtasun",
+          "@_MEP.Identifier": "124972"
+        },
+        {
+          "#text": "Nils Ušakovs",
+          "@_MEP.Identifier": "197810"
+        },
+        {
+          "#text": "Viktor Uspaskich",
+          "@_MEP.Identifier": "96698"
+        },
+        {
+          "#text": "Inese Vaidere",
+          "@_MEP.Identifier": "28617"
+        },
+        {
+          "#text": "Monika Vana",
+          "@_MEP.Identifier": "124934"
+        },
+        {
+          "#text": "Kathleen Van Brempt",
+          "@_MEP.Identifier": "5729"
+        },
+        {
+          "#text": "Tom Vandendriessche",
+          "@_MEP.Identifier": "185771"
+        },
+        {
+          "#text": "Tom Vandenkendelaere",
+          "@_MEP.Identifier": "129164"
+        },
+        {
+          "#text": "Kim Van Sparrentak",
+          "@_MEP.Identifier": "197870"
+        },
+        {
+          "#text": "Hilde Vautmans",
+          "@_MEP.Identifier": "130100"
+        },
+        {
+          "#text": "Sabine Verheyen",
+          "@_MEP.Identifier": "96756"
+        },
+        {
+          "#text": "Guy Verhofstadt",
+          "@_MEP.Identifier": "97058"
+        },
+        {
+          "#text": "Harald Vilimsky",
+          "@_MEP.Identifier": "125001"
+        },
+        {
+          "#text": "Idoia Villanueva Ruiz",
+          "@_MEP.Identifier": "197827"
+        },
+        {
+          "#text": "Nikolaj Villumsen",
+          "@_MEP.Identifier": "197571"
+        },
+        {
+          "#text": "Loránt Vincze",
+          "@_MEP.Identifier": "98582"
+        },
+        {
+          "#text": "Marianne Vind",
+          "@_MEP.Identifier": "199941"
+        },
+        {
+          "#text": "Petar Vitanov",
+          "@_MEP.Identifier": "197844"
+        },
+        {
+          "#text": "Bettina Vollath",
+          "@_MEP.Identifier": "197678"
+        },
+        {
+          "#text": "Alexandr Vondra",
+          "@_MEP.Identifier": "197537"
+        },
+        {
+          "#text": "Axel Voss",
+          "@_MEP.Identifier": "96761"
+        },
+        {
+          "#text": "Elissavet Vozemberg-Vrionidi",
+          "@_MEP.Identifier": "125065"
+        },
+        {
+          "#text": "Veronika Vrecionová",
+          "@_MEP.Identifier": "197552"
+        },
+        {
+          "#text": "Lucia Vuolo",
+          "@_MEP.Identifier": "197798"
+        },
+        {
+          "#text": "Adrián Vázquez Lázara",
+          "@_MEP.Identifier": "204400"
+        },
+        {
+          "#text": "Thomas Waitz",
+          "@_MEP.Identifier": "190464"
+        },
+        {
+          "#text": "Mick Wallace",
+          "@_MEP.Identifier": "197817"
+        },
+        {
+          "#text": "Maria Walsh",
+          "@_MEP.Identifier": "197863"
+        },
+        {
+          "#text": "Marion Walsmann",
+          "@_MEP.Identifier": "197429"
+        },
+        {
+          "#text": "Jörgen Warborn",
+          "@_MEP.Identifier": "197405"
+        },
+        {
+          "#text": "Witold Jan Waszczykowski",
+          "@_MEP.Identifier": "197566"
+        },
+        {
+          "#text": "Charlie Weimers",
+          "@_MEP.Identifier": "123562"
+        },
+        {
+          "#text": "Pernille Weiss",
+          "@_MEP.Identifier": "197515"
+        },
+        {
+          "#text": "Rainer Wieland",
+          "@_MEP.Identifier": "2323"
+        },
+        {
+          "#text": "Michal Wiezik",
+          "@_MEP.Identifier": "197769"
+        },
+        {
+          "#text": "Iuliu Winkler",
+          "@_MEP.Identifier": "39725"
+        },
+        {
+          "#text": "Angelika Winzig",
+          "@_MEP.Identifier": "197652"
+        },
+        {
+          "#text": "Isabel Wiseler-Lima",
+          "@_MEP.Identifier": "197421"
+        },
+        {
+          "#text": "Jadwiga Wiśniewska",
+          "@_MEP.Identifier": "124877"
+        },
+        {
+          "#text": "Tiemo Wölken",
+          "@_MEP.Identifier": "185619"
+        },
+        {
+          "#text": "Lara Wolters",
+          "@_MEP.Identifier": "5392"
+        },
+        {
+          "#text": "Salima Yenbou",
+          "@_MEP.Identifier": "197511"
+        },
+        {
+          "#text": "Stéphanie Yon-Courtin",
+          "@_MEP.Identifier": "197581"
+        },
+        {
+          "#text": "Chrysoula Zacharopoulou",
+          "@_MEP.Identifier": "197499"
+        },
+        {
+          "#text": "Theodoros Zagorakis",
+          "@_MEP.Identifier": "125067"
+        },
+        {
+          "#text": "Jan Zahradil",
+          "@_MEP.Identifier": "23712"
+        },
+        {
+          "#text": "Anna Zalewska",
+          "@_MEP.Identifier": "197572"
+        },
+        {
+          "#text": "Stefania Zambelli",
+          "@_MEP.Identifier": "197586"
+        },
+        {
+          "#text": "Javier Zarzalejos",
+          "@_MEP.Identifier": "197606"
+        },
+        {
+          "#text": "Tatjana Ždanoka",
+          "@_MEP.Identifier": "28619"
+        },
+        {
+          "#text": "Tomáš Zdechovský",
+          "@_MEP.Identifier": "124713"
+        },
+        {
+          "#text": "Bernhard Zimniok",
+          "@_MEP.Identifier": "197489"
+        },
+        {
+          "#text": "Juan Ignacio Zoido Álvarez",
+          "@_MEP.Identifier": "197621"
+        },
+        {
+          "#text": "Carlos Zorrinho",
+          "@_MEP.Identifier": "124739"
+        },
+        {
+          "#text": "Željana Zovko",
+          "@_MEP.Identifier": "185341"
+        },
+        {
+          "#text": "Milan Zver",
+          "@_MEP.Identifier": "96933"
+        }
+      ],
+      "AttendanceRegister.Excused.Introduction.Text": "Nieobecność usprawiedliwiona:",
+      "Attendance.Excused.Name": [
+        {
+          "#text": "Traian Băsescu",
+          "@_MEP.Identifier": "197671"
+        },
+        {
+          "#text": "Milan Brglez",
+          "@_MEP.Identifier": "197446"
+        },
+        {
+          "#text": "Sylvie Brunet",
+          "@_MEP.Identifier": "197576"
+        },
+        {
+          "#text": "Jorge Buxadé Villalba",
+          "@_MEP.Identifier": "197829"
+        },
+        {
+          "#text": "Miroslav Číž",
+          "@_MEP.Identifier": "197761"
+        },
+        {
+          "#text": "Enikő Győri",
+          "@_MEP.Identifier": "96830"
+        },
+        {
+          "#text": "Christophe Hansen",
+          "@_MEP.Identifier": "193419"
+        },
+        {
+          "#text": "Monika Hohlmeier",
+          "@_MEP.Identifier": "96780"
+        },
+        {
+          "#text": "György Hölvényi",
+          "@_MEP.Identifier": "124715"
+        },
+        {
+          "#text": "Karen Melchior",
+          "@_MEP.Identifier": "197567"
+        },
+        {
+          "#text": "Giuseppe Milazzo",
+          "@_MEP.Identifier": "197824"
+        },
+        {
+          "#text": "Aldo Patriciello",
+          "@_MEP.Identifier": "36392"
+        },
+        {
+          "#text": "Samira Rafaela",
+          "@_MEP.Identifier": "197868"
+        },
+        {
+          "#text": "Jacek Saryusz-Wolski",
+          "@_MEP.Identifier": "28297"
+        },
+        {
+          "#text": "Günther Sidl",
+          "@_MEP.Identifier": "197677"
+        },
+        {
+          "#text": "Andrey Slabakov",
+          "@_MEP.Identifier": "197849"
+        }
+      ],
+      "@_Document.Language": "PL",
+      "@_EP.Number": "PE 730.835",
+      "@_EP.Reference": "P9_PV(2022)04-07",
+      "@_Sitting.Date": "2022-04-07",
+      "@_Sitting.Identifier": "3145810",
+      "@_xmlns:chart": "http://openoffice.org/2000/chart",
+      "@_xmlns:dr3d": "http://openoffice.org/2000/dr3d",
+      "@_xmlns:draw": "http://openoffice.org/2000/drawing",
+      "@_xmlns:fo": "http://www.w3.org/1999/XSL/Format",
+      "@_xmlns:form": "http://openoffice.org/2000/form",
+      "@_xmlns:ino": "http://namespaces.softwareag.com/tamino/response2",
+      "@_xmlns:math": "http://www.w3.org/1998/Math/MathML",
+      "@_xmlns:number": "http://openoffice.org/2000/datastyle",
+      "@_xmlns:office": "http://openoffice.org/2000/office",
+      "@_xmlns:script": "http://openoffice.org/2000/script",
+      "@_xmlns:style": "http://openoffice.org/2000/style",
+      "@_xmlns:svg": "http://www.w3.org/2000/svg",
+      "@_xmlns:table": "http://openoffice.org/2000/table",
+      "@_xmlns:text": "http://openoffice.org/2000/text",
+      "@_xmlns:xlink": "http://www.w3.org/1999/xlink",
+      "@_xmlns:xql": "http://metalab.unc.edu/xql/"
+    }
+  }
+}

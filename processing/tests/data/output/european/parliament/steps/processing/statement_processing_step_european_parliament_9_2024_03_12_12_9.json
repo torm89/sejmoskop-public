@@ -1,0 +1,58 @@
+{
+    "statement_data": {
+        "timeline": [
+            {
+                "text": "\u2013 Mr President, Commissioner, 87 % of the respondents to the Eurobarometer Survey on Digital Rights and Principles say that Europeans should be protected against risky or unethical application of digital technologies including artificial intelligence. We are answering the demand of the people by introducing this legislation \u2013 the first comprehensive set of rules about AI systems.",
+                "comments": [],
+                "text_type": "NORMAL",
+                "timeline_id": 0
+            },
+            {
+                "text": "We have already said many things about the aspects of this agreement. The co-rapporteurs and the shadows, we all have briefed this room, our groups, our committees many times.",
+                "comments": [],
+                "text_type": "NORMAL",
+                "timeline_id": 1
+            },
+            {
+                "text": "This was one of the most publicly documented pieces of EU legislation \u2013 the amount of articles and posts on social media was extraordinary, and everyone seems to have a strong opinion of the outcome \u2013 and also one of the most lobbied legislation as well. The corporate interests were huge, and I\u2019m proud to say that faced with this enormous pressure, the European Parliament held its ground and fought for its citizens. The EU legislative procedures are too opaque, too confusing, but we are the ones who speak directly, openly to citizens, industry, NGOs. Our meetings are public and well documented. Our positions are clear regardless of which group I\u2019m talking about. It\u2019s the Council who is in debt with its citizens.",
+                "comments": [],
+                "text_type": "NORMAL",
+                "timeline_id": 2
+            },
+            {
+                "text": "If there are any shortcomings of this legislation, and there probably are, it\u2019s not because the European Parliament didn\u2019t fight. We secured the ban of certain malicious AI systems. We introduced stricter safeguards on the use of RBI systems. We included foundation models in the scope of the regulation. We fought for more power to individuals when interacting with AI systems.",
+                "comments": [],
+                "text_type": "NORMAL",
+                "timeline_id": 3
+            },
+            {
+                "text": "So, thank you to all of you, colleagues, all the usual suspects here, and thank you to your teams. It\u2019s been an incredible journey. And I would like to give the remainder of my time to Svenja.",
+                "comments": [],
+                "text_type": "NORMAL",
+                "timeline_id": 4
+            }
+        ],
+        "tag": {
+            "chamberName": "european-parliament",
+            "termId": "9",
+            "sessionId": "1",
+            "dateId": "2024-03-12",
+            "statementId": "12-9",
+            "statementIdNew": 12000009
+        },
+        "language": "EN",
+        "speaker": {
+            "name": "Petar Vitanov",
+            "member_tag": {
+                "chamberName": "european-parliament",
+                "termId": "9",
+                "memberId": "197844"
+            }
+        },
+        "chairman": {
+            "name": ""
+        },
+        "is_written": false,
+        "details": {}
+    }
+}

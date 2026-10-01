@@ -1,0 +1,4 @@
+tests/
+secret*.json
+.venv/
+publish_on_ecr.bat

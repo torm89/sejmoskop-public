@@ -1,0 +1,4959 @@
+{
+    "voting_data_dict": [
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "datetime": "2024-03-12T00:00:00",
+            "description_01": "",
+            "description_02": "- Isabel Garc\u00eda Mu\u00f1oz - Art. 1 akapit 1 pkt 4; dyrektywa 96/53/WE; art. 4b - Popr. 58s= 65s=",
+            "description_03": ""
+        }
+    ],
+    "voting_outcome_data_dict": [
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "124760",
+            "group_name_short": "ECR",
+            "call": "yea"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "197501",
+            "group_name_short": "ECR",
+            "call": "yea"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "28372",
+            "group_name_short": "ECR",
+            "call": "yea"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "28353",
+            "group_name_short": "ECR",
+            "call": "yea"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "197516",
+            "group_name_short": "ECR",
+            "call": "yea"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "197518",
+            "group_name_short": "ECR",
+            "call": "yea"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "197519",
+            "group_name_short": "ECR",
+            "call": "abstain"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "197520",
+            "group_name_short": "ECR",
+            "call": "yea"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "197530",
+            "group_name_short": "ECR",
+            "call": "yea"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "124891",
+            "group_name_short": "ECR",
+            "call": "yea"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "96796",
+            "group_name_short": "ECR",
+            "call": "yea"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "197538",
+            "group_name_short": "ECR",
+            "call": "yea"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "197541",
+            "group_name_short": "ECR",
+            "call": "yea"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "96801",
+            "group_name_short": "ECR",
+            "call": "yea"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "197544",
+            "group_name_short": "ECR",
+            "call": "yea"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "250538",
+            "group_name_short": "ECR",
+            "call": "yea"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "204733",
+            "group_name_short": "ECR",
+            "call": "yea"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "197545",
+            "group_name_short": "ECR",
+            "call": "yea"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "28297",
+            "group_name_short": "ECR",
+            "call": "yea"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "197553",
+            "group_name_short": "ECR",
+            "call": "nay"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "204346",
+            "group_name_short": "ECR",
+            "call": "yea"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "197559",
+            "group_name_short": "ECR",
+            "call": "yea"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "197566",
+            "group_name_short": "ECR",
+            "call": "yea"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "124877",
+            "group_name_short": "ECR",
+            "call": "yea"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "197572",
+            "group_name_short": "ECR",
+            "call": "yea"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "124884",
+            "group_name_short": "ECR",
+            "call": "yea"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "197475",
+            "group_name_short": "ID",
+            "call": "yea"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "197691",
+            "group_name_short": "ID",
+            "call": "yea"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "124973",
+            "group_name_short": "ID",
+            "call": "yea"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "131580",
+            "group_name_short": "ID",
+            "call": "yea"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "132191",
+            "group_name_short": "ID",
+            "call": "yea"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "197680",
+            "group_name_short": "ID",
+            "call": "yea"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "124771",
+            "group_name_short": "ID",
+            "call": "yea"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "182995",
+            "group_name_short": "ID",
+            "call": "yea"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "128483",
+            "group_name_short": "ID",
+            "call": "yea"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "236052",
+            "group_name_short": "ID",
+            "call": "yea"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "197556",
+            "group_name_short": "ID",
+            "call": "yea"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "197472",
+            "group_name_short": "ID",
+            "call": "yea"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "197480",
+            "group_name_short": "ID",
+            "call": "yea"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "197628",
+            "group_name_short": "ID",
+            "call": "yea"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "94649",
+            "group_name_short": "ID",
+            "call": "yea"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "198176",
+            "group_name_short": "ID",
+            "call": "yea"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "189065",
+            "group_name_short": "ID",
+            "call": "yea"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "197627",
+            "group_name_short": "ID",
+            "call": "yea"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "197481",
+            "group_name_short": "ID",
+            "call": "yea"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "197482",
+            "group_name_short": "ID",
+            "call": "yea"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "204421",
+            "group_name_short": "ID",
+            "call": "yea"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "124738",
+            "group_name_short": "ID",
+            "call": "yea"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "197483",
+            "group_name_short": "ID",
+            "call": "yea"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "197623",
+            "group_name_short": "ID",
+            "call": "yea"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "38511",
+            "group_name_short": "ID",
+            "call": "yea"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "236051",
+            "group_name_short": "ID",
+            "call": "yea"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "197687",
+            "group_name_short": "ID",
+            "call": "yea"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "197488",
+            "group_name_short": "ID",
+            "call": "yea"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "197690",
+            "group_name_short": "ID",
+            "call": "yea"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "185771",
+            "group_name_short": "ID",
+            "call": "yea"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "125001",
+            "group_name_short": "ID",
+            "call": "yea"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "124875",
+            "group_name_short": "ID",
+            "call": "yea"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "197489",
+            "group_name_short": "ID",
+            "call": "yea"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "124777",
+            "group_name_short": "NI",
+            "call": "yea"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "96880",
+            "group_name_short": "NI",
+            "call": "yea"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "239258",
+            "group_name_short": "NI",
+            "call": "yea"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "124833",
+            "group_name_short": "NI",
+            "call": "yea"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "197795",
+            "group_name_short": "NI",
+            "call": "yea"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "197804",
+            "group_name_short": "NI",
+            "call": "yea"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "125025",
+            "group_name_short": "NI",
+            "call": "yea"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "197619",
+            "group_name_short": "NI",
+            "call": "yea"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "197629",
+            "group_name_short": "NI",
+            "call": "yea"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "204443",
+            "group_name_short": "NI",
+            "call": "yea"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "202351",
+            "group_name_short": "NI",
+            "call": "yea"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "124834",
+            "group_name_short": "NI",
+            "call": "yea"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "28619",
+            "group_name_short": "NI",
+            "call": "yea"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "197534",
+            "group_name_short": "PPE",
+            "call": "yea"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "197536",
+            "group_name_short": "PPE",
+            "call": "yea"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "96747",
+            "group_name_short": "PPE",
+            "call": "yea"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "190774",
+            "group_name_short": "PPE",
+            "call": "yea"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "96787",
+            "group_name_short": "PPE",
+            "call": "yea"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "5565",
+            "group_name_short": "PPE",
+            "call": "yea"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "4246",
+            "group_name_short": "PPE",
+            "call": "yea"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "197458",
+            "group_name_short": "PPE",
+            "call": "yea"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "190713",
+            "group_name_short": "PPE",
+            "call": "yea"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "72779",
+            "group_name_short": "PPE",
+            "call": "yea"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "40599",
+            "group_name_short": "PPE",
+            "call": "yea"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "249443",
+            "group_name_short": "PPE",
+            "call": "yea"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "204368",
+            "group_name_short": "PPE",
+            "call": "yea"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "249284",
+            "group_name_short": "PPE",
+            "call": "yea"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "24594",
+            "group_name_short": "PPE",
+            "call": "yea"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "197652",
+            "group_name_short": "PPE",
+            "call": "yea"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "247122",
+            "group_name_short": "Renew",
+            "call": "yea"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "124766",
+            "group_name_short": "Renew",
+            "call": "yea"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "197551",
+            "group_name_short": "Renew",
+            "call": "yea"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "197577",
+            "group_name_short": "Renew",
+            "call": "yea"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "197576",
+            "group_name_short": "Renew",
+            "call": "yea"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "96711",
+            "group_name_short": "Renew",
+            "call": "yea"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "124812",
+            "group_name_short": "Renew",
+            "call": "yea"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "197505",
+            "group_name_short": "Renew",
+            "call": "yea"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "204416",
+            "group_name_short": "Renew",
+            "call": "yea"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "197588",
+            "group_name_short": "Renew",
+            "call": "yea"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "197504",
+            "group_name_short": "Renew",
+            "call": "yea"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "197595",
+            "group_name_short": "Renew",
+            "call": "yea"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "197766",
+            "group_name_short": "Renew",
+            "call": "yea"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "197589",
+            "group_name_short": "Renew",
+            "call": "yea"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "197632",
+            "group_name_short": "Renew",
+            "call": "yea"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "840",
+            "group_name_short": "Renew",
+            "call": "yea"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "204419",
+            "group_name_short": "Renew",
+            "call": "yea"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "197452",
+            "group_name_short": "Renew",
+            "call": "yea"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "197557",
+            "group_name_short": "Renew",
+            "call": "yea"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "197543",
+            "group_name_short": "Renew",
+            "call": "yea"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "135511",
+            "group_name_short": "Renew",
+            "call": "yea"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "197770",
+            "group_name_short": "Renew",
+            "call": "yea"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "28266",
+            "group_name_short": "Renew",
+            "call": "yea"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "197447",
+            "group_name_short": "Renew",
+            "call": "yea"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "197585",
+            "group_name_short": "Renew",
+            "call": "yea"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "22858",
+            "group_name_short": "Renew",
+            "call": "yea"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "251859",
+            "group_name_short": "Renew",
+            "call": "yea"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "197494",
+            "group_name_short": "Renew",
+            "call": "yea"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "197567",
+            "group_name_short": "Renew",
+            "call": "yea"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "249826",
+            "group_name_short": "Renew",
+            "call": "yea"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "234344",
+            "group_name_short": "Renew",
+            "call": "yea"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "96885",
+            "group_name_short": "Renew",
+            "call": "yea"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "96776",
+            "group_name_short": "Renew",
+            "call": "yea"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "197547",
+            "group_name_short": "Renew",
+            "call": "yea"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "197502",
+            "group_name_short": "Renew",
+            "call": "yea"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "197769",
+            "group_name_short": "Renew",
+            "call": "yea"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "197511",
+            "group_name_short": "Renew",
+            "call": "yea"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "197581",
+            "group_name_short": "Renew",
+            "call": "yea"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "202073",
+            "group_name_short": "S&D",
+            "call": "yea"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "124936",
+            "group_name_short": "S&D",
+            "call": "yea"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "197495",
+            "group_name_short": "S&D",
+            "call": "yea"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "197433",
+            "group_name_short": "S&D",
+            "call": "yea"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "197808",
+            "group_name_short": "S&D",
+            "call": "yea"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "197498",
+            "group_name_short": "S&D",
+            "call": "yea"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "28346",
+            "group_name_short": "S&D",
+            "call": "yea"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "197440",
+            "group_name_short": "S&D",
+            "call": "yea"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "245018",
+            "group_name_short": "S&D",
+            "call": "yea"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "240478",
+            "group_name_short": "S&D",
+            "call": "yea"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "197579",
+            "group_name_short": "S&D",
+            "call": "yea"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "124693",
+            "group_name_short": "S&D",
+            "call": "yea"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "237465",
+            "group_name_short": "S&D",
+            "call": "yea"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "96952",
+            "group_name_short": "S&D",
+            "call": "yea"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "197682",
+            "group_name_short": "S&D",
+            "call": "yea"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "96837",
+            "group_name_short": "S&D",
+            "call": "yea"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "124822",
+            "group_name_short": "S&D",
+            "call": "yea"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "197697",
+            "group_name_short": "S&D",
+            "call": "yea"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "197698",
+            "group_name_short": "S&D",
+            "call": "yea"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "230085",
+            "group_name_short": "S&D",
+            "call": "yea"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "204418",
+            "group_name_short": "S&D",
+            "call": "yea"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "124722",
+            "group_name_short": "S&D",
+            "call": "yea"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "124799",
+            "group_name_short": "S&D",
+            "call": "yea"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "238674",
+            "group_name_short": "S&D",
+            "call": "yea"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "124836",
+            "group_name_short": "S&D",
+            "call": "yea"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "96998",
+            "group_name_short": "S&D",
+            "call": "yea"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "229839",
+            "group_name_short": "S&D",
+            "call": "yea"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "197801",
+            "group_name_short": "S&D",
+            "call": "yea"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "197584",
+            "group_name_short": "S&D",
+            "call": "yea"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "197792",
+            "group_name_short": "S&D",
+            "call": "yea"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "245858",
+            "group_name_short": "S&D",
+            "call": "yea"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "197670",
+            "group_name_short": "S&D",
+            "call": "yea"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "124837",
+            "group_name_short": "S&D",
+            "call": "yea"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "96932",
+            "group_name_short": "S&D",
+            "call": "yea"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "197791",
+            "group_name_short": "S&D",
+            "call": "yea"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "197591",
+            "group_name_short": "S&D",
+            "call": "yea"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "28340",
+            "group_name_short": "S&D",
+            "call": "yea"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "239257",
+            "group_name_short": "S&D",
+            "call": "yea"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "197701",
+            "group_name_short": "The Left",
+            "call": "yea"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "197533",
+            "group_name_short": "The Left",
+            "call": "yea"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "124992",
+            "group_name_short": "The Left",
+            "call": "yea"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "187917",
+            "group_name_short": "The Left",
+            "call": "yea"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "250572",
+            "group_name_short": "The Left",
+            "call": "yea"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "197529",
+            "group_name_short": "The Left",
+            "call": "yea"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "197731",
+            "group_name_short": "The Left",
+            "call": "yea"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "197468",
+            "group_name_short": "The Left",
+            "call": "yea"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "96852",
+            "group_name_short": "The Left",
+            "call": "yea"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "124985",
+            "group_name_short": "The Left",
+            "call": "yea"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "88715",
+            "group_name_short": "The Left",
+            "call": "yea"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "125023",
+            "group_name_short": "The Left",
+            "call": "yea"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "23699",
+            "group_name_short": "The Left",
+            "call": "yea"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "130833",
+            "group_name_short": "The Left",
+            "call": "yea"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "205452",
+            "group_name_short": "The Left",
+            "call": "yea"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "96820",
+            "group_name_short": "The Left",
+            "call": "yea"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "24505",
+            "group_name_short": "The Left",
+            "call": "yea"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "236053",
+            "group_name_short": "The Left",
+            "call": "yea"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "120478",
+            "group_name_short": "The Left",
+            "call": "yea"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "30482",
+            "group_name_short": "The Left",
+            "call": "yea"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "28586",
+            "group_name_short": "The Left",
+            "call": "yea"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "197527",
+            "group_name_short": "The Left",
+            "call": "yea"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "197754",
+            "group_name_short": "The Left",
+            "call": "yea"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "136236",
+            "group_name_short": "The Left",
+            "call": "yea"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "197785",
+            "group_name_short": "The Left",
+            "call": "yea"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "251249",
+            "group_name_short": "The Left",
+            "call": "yea"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "190517",
+            "group_name_short": "The Left",
+            "call": "yea"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "96646",
+            "group_name_short": "The Left",
+            "call": "yea"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "131507",
+            "group_name_short": "The Left",
+            "call": "yea"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "197827",
+            "group_name_short": "The Left",
+            "call": "yea"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "197571",
+            "group_name_short": "The Left",
+            "call": "yea"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "197817",
+            "group_name_short": "The Left",
+            "call": "yea"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "204335",
+            "group_name_short": "Verts/ALE",
+            "call": "yea"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "96750",
+            "group_name_short": "Verts/ALE",
+            "call": "yea"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "197448",
+            "group_name_short": "Verts/ALE",
+            "call": "yea"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "28161",
+            "group_name_short": "Verts/ALE",
+            "call": "yea"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "197512",
+            "group_name_short": "Verts/ALE",
+            "call": "yea"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "197449",
+            "group_name_short": "Verts/ALE",
+            "call": "yea"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "197439",
+            "group_name_short": "Verts/ALE",
+            "call": "yea"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "197431",
+            "group_name_short": "Verts/ALE",
+            "call": "yea"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "197470",
+            "group_name_short": "Verts/ALE",
+            "call": "yea"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "96739",
+            "group_name_short": "Verts/ALE",
+            "call": "yea"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "197574",
+            "group_name_short": "Verts/ALE",
+            "call": "yea"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "86793",
+            "group_name_short": "Verts/ALE",
+            "call": "yea"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "197503",
+            "group_name_short": "Verts/ALE",
+            "call": "yea"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "124856",
+            "group_name_short": "Verts/ALE",
+            "call": "yea"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "197654",
+            "group_name_short": "Verts/ALE",
+            "call": "yea"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "124835",
+            "group_name_short": "Verts/ALE",
+            "call": "yea"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "197531",
+            "group_name_short": "Verts/ALE",
+            "call": "yea"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "96868",
+            "group_name_short": "Verts/ALE",
+            "call": "yea"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "197453",
+            "group_name_short": "Verts/ALE",
+            "call": "yea"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "96725",
+            "group_name_short": "Verts/ALE",
+            "call": "yea"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "193273",
+            "group_name_short": "Verts/ALE",
+            "call": "yea"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "106936",
+            "group_name_short": "Verts/ALE",
+            "call": "yea"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "183916",
+            "group_name_short": "Verts/ALE",
+            "call": "yea"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "197549",
+            "group_name_short": "Verts/ALE",
+            "call": "yea"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "204420",
+            "group_name_short": "Verts/ALE",
+            "call": "yea"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "197645",
+            "group_name_short": "Verts/ALE",
+            "call": "yea"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "96752",
+            "group_name_short": "Verts/ALE",
+            "call": "yea"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "197459",
+            "group_name_short": "Verts/ALE",
+            "call": "yea"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "197398",
+            "group_name_short": "Verts/ALE",
+            "call": "yea"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "197837",
+            "group_name_short": "Verts/ALE",
+            "call": "yea"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "96734",
+            "group_name_short": "Verts/ALE",
+            "call": "yea"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "197743",
+            "group_name_short": "Verts/ALE",
+            "call": "yea"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "197546",
+            "group_name_short": "Verts/ALE",
+            "call": "yea"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "197395",
+            "group_name_short": "Verts/ALE",
+            "call": "yea"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "197460",
+            "group_name_short": "Verts/ALE",
+            "call": "yea"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "96648",
+            "group_name_short": "Verts/ALE",
+            "call": "yea"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "197461",
+            "group_name_short": "Verts/ALE",
+            "call": "yea"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "197462",
+            "group_name_short": "Verts/ALE",
+            "call": "yea"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "249285",
+            "group_name_short": "Verts/ALE",
+            "call": "yea"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "208722",
+            "group_name_short": "Verts/ALE",
+            "call": "yea"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "193292",
+            "group_name_short": "Verts/ALE",
+            "call": "yea"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "24942",
+            "group_name_short": "Verts/ALE",
+            "call": "yea"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "197464",
+            "group_name_short": "Verts/ALE",
+            "call": "yea"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "197465",
+            "group_name_short": "Verts/ALE",
+            "call": "yea"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "197802",
+            "group_name_short": "Verts/ALE",
+            "call": "yea"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "197889",
+            "group_name_short": "Verts/ALE",
+            "call": "yea"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "197466",
+            "group_name_short": "Verts/ALE",
+            "call": "yea"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "124844",
+            "group_name_short": "Verts/ALE",
+            "call": "yea"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "197539",
+            "group_name_short": "Verts/ALE",
+            "call": "yea"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "103381",
+            "group_name_short": "Verts/ALE",
+            "call": "yea"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "197832",
+            "group_name_short": "Verts/ALE",
+            "call": "yea"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "206158",
+            "group_name_short": "Verts/ALE",
+            "call": "yea"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "197506",
+            "group_name_short": "Verts/ALE",
+            "call": "yea"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "125214",
+            "group_name_short": "Verts/ALE",
+            "call": "yea"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "197500",
+            "group_name_short": "Verts/ALE",
+            "call": "yea"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "197423",
+            "group_name_short": "Verts/ALE",
+            "call": "yea"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "185974",
+            "group_name_short": "Verts/ALE",
+            "call": "yea"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "197550",
+            "group_name_short": "Verts/ALE",
+            "call": "yea"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "197772",
+            "group_name_short": "Verts/ALE",
+            "call": "yea"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "250918",
+            "group_name_short": "Verts/ALE",
+            "call": "yea"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "97236",
+            "group_name_short": "Verts/ALE",
+            "call": "yea"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "124934",
+            "group_name_short": "Verts/ALE",
+            "call": "yea"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "197870",
+            "group_name_short": "Verts/ALE",
+            "call": "yea"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "197451",
+            "group_name_short": "Verts/ALE",
+            "call": "yea"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "190464",
+            "group_name_short": "Verts/ALE",
+            "call": "yea"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "198096",
+            "group_name_short": "ECR",
+            "call": "nay"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "197478",
+            "group_name_short": "ECR",
+            "call": "nay"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "4746",
+            "group_name_short": "ECR",
+            "call": "nay"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "197467",
+            "group_name_short": "ECR",
+            "call": "nay"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "197829",
+            "group_name_short": "ECR",
+            "call": "nay"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "239262",
+            "group_name_short": "ECR",
+            "call": "nay"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "124873",
+            "group_name_short": "ECR",
+            "call": "nay"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "96810",
+            "group_name_short": "ECR",
+            "call": "nay"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "197607",
+            "group_name_short": "ECR",
+            "call": "nay"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "198490",
+            "group_name_short": "ECR",
+            "call": "nay"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "197794",
+            "group_name_short": "ECR",
+            "call": "nay"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "197596",
+            "group_name_short": "ECR",
+            "call": "nay"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "218349",
+            "group_name_short": "ECR",
+            "call": "nay"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "221463",
+            "group_name_short": "ECR",
+            "call": "nay"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "197767",
+            "group_name_short": "ECR",
+            "call": "nay"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "197469",
+            "group_name_short": "ECR",
+            "call": "nay"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "124996",
+            "group_name_short": "ECR",
+            "call": "nay"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "197824",
+            "group_name_short": "ECR",
+            "call": "nay"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "239260",
+            "group_name_short": "ECR",
+            "call": "nay"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "238639",
+            "group_name_short": "ECR",
+            "call": "nay"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "204414",
+            "group_name_short": "ECR",
+            "call": "nay"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "197820",
+            "group_name_short": "ECR",
+            "call": "nay"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "197776",
+            "group_name_short": "ECR",
+            "call": "nay"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "197709",
+            "group_name_short": "ECR",
+            "call": "nay"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "197773",
+            "group_name_short": "ECR",
+            "call": "nay"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "132366",
+            "group_name_short": "ECR",
+            "call": "nay"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "197849",
+            "group_name_short": "ECR",
+            "call": "nay"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "204334",
+            "group_name_short": "ECR",
+            "call": "nay"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "197825",
+            "group_name_short": "ECR",
+            "call": "nay"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "197655",
+            "group_name_short": "ECR",
+            "call": "nay"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "96713",
+            "group_name_short": "ECR",
+            "call": "nay"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "125106",
+            "group_name_short": "ECR",
+            "call": "nay"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "123562",
+            "group_name_short": "ECR",
+            "call": "nay"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "23712",
+            "group_name_short": "ECR",
+            "call": "nay"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "197826",
+            "group_name_short": "ID",
+            "call": "nay"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "197610",
+            "group_name_short": "ID",
+            "call": "nay"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "197788",
+            "group_name_short": "ID",
+            "call": "nay"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "35016",
+            "group_name_short": "ID",
+            "call": "nay"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "197786",
+            "group_name_short": "ID",
+            "call": "nay"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "183793",
+            "group_name_short": "ID",
+            "call": "nay"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "197608",
+            "group_name_short": "ID",
+            "call": "nay"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "197582",
+            "group_name_short": "ID",
+            "call": "nay"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "239256",
+            "group_name_short": "ID",
+            "call": "nay"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "197611",
+            "group_name_short": "ID",
+            "call": "nay"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "197493",
+            "group_name_short": "ID",
+            "call": "nay"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "99283",
+            "group_name_short": "ID",
+            "call": "nay"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "197787",
+            "group_name_short": "ID",
+            "call": "nay"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "243912",
+            "group_name_short": "ID",
+            "call": "nay"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "197578",
+            "group_name_short": "ID",
+            "call": "nay"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "197806",
+            "group_name_short": "ID",
+            "call": "nay"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "197580",
+            "group_name_short": "ID",
+            "call": "nay"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "124780",
+            "group_name_short": "ID",
+            "call": "nay"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "23868",
+            "group_name_short": "NI",
+            "call": "nay"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "197564",
+            "group_name_short": "NI",
+            "call": "nay"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "197657",
+            "group_name_short": "NI",
+            "call": "nay"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "198063",
+            "group_name_short": "NI",
+            "call": "nay"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "125109",
+            "group_name_short": "NI",
+            "call": "nay"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "197438",
+            "group_name_short": "NI",
+            "call": "nay"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "190518",
+            "group_name_short": "NI",
+            "call": "nay"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "197764",
+            "group_name_short": "NI",
+            "call": "nay"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "96653",
+            "group_name_short": "NI",
+            "call": "nay"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "29579",
+            "group_name_short": "NI",
+            "call": "nay"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "197763",
+            "group_name_short": "NI",
+            "call": "nay"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "197490",
+            "group_name_short": "PPE",
+            "call": "nay"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "189525",
+            "group_name_short": "PPE",
+            "call": "nay"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "124831",
+            "group_name_short": "PPE",
+            "call": "nay"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "197836",
+            "group_name_short": "PPE",
+            "call": "nay"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "96808",
+            "group_name_short": "PPE",
+            "call": "nay"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "24922",
+            "group_name_short": "PPE",
+            "call": "nay"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "197695",
+            "group_name_short": "PPE",
+            "call": "nay"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "197671",
+            "group_name_short": "PPE",
+            "call": "nay"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "197679",
+            "group_name_short": "PPE",
+            "call": "nay"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "197778",
+            "group_name_short": "PPE",
+            "call": "nay"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "197648",
+            "group_name_short": "PPE",
+            "call": "nay"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "197771",
+            "group_name_short": "PPE",
+            "call": "nay"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "197637",
+            "group_name_short": "PPE",
+            "call": "nay"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "125004",
+            "group_name_short": "PPE",
+            "call": "nay"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "226260",
+            "group_name_short": "PPE",
+            "call": "nay"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "125012",
+            "group_name_short": "PPE",
+            "call": "nay"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "38420",
+            "group_name_short": "PPE",
+            "call": "nay"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "96867",
+            "group_name_short": "PPE",
+            "call": "nay"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "28122",
+            "group_name_short": "PPE",
+            "call": "nay"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "28219",
+            "group_name_short": "PPE",
+            "call": "nay"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "28390",
+            "group_name_short": "PPE",
+            "call": "nay"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "124861",
+            "group_name_short": "PPE",
+            "call": "nay"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "124988",
+            "group_name_short": "PPE",
+            "call": "nay"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "1892",
+            "group_name_short": "PPE",
+            "call": "nay"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "247737",
+            "group_name_short": "PPE",
+            "call": "nay"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "204333",
+            "group_name_short": "PPE",
+            "call": "nay"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "197473",
+            "group_name_short": "PPE",
+            "call": "nay"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "197510",
+            "group_name_short": "PPE",
+            "call": "nay"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "99945",
+            "group_name_short": "PPE",
+            "call": "nay"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "28226",
+            "group_name_short": "PPE",
+            "call": "nay"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "96811",
+            "group_name_short": "PPE",
+            "call": "nay"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "1917",
+            "group_name_short": "PPE",
+            "call": "nay"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "96899",
+            "group_name_short": "PPE",
+            "call": "nay"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "197720",
+            "group_name_short": "PPE",
+            "call": "nay"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "197513",
+            "group_name_short": "PPE",
+            "call": "nay"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "197455",
+            "group_name_short": "PPE",
+            "call": "nay"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "2341",
+            "group_name_short": "PPE",
+            "call": "nay"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "1992",
+            "group_name_short": "PPE",
+            "call": "nay"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "239255",
+            "group_name_short": "PPE",
+            "call": "nay"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "251874",
+            "group_name_short": "PPE",
+            "call": "nay"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "124807",
+            "group_name_short": "PPE",
+            "call": "nay"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "202036",
+            "group_name_short": "PPE",
+            "call": "nay"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "247709",
+            "group_name_short": "PPE",
+            "call": "nay"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "197514",
+            "group_name_short": "PPE",
+            "call": "nay"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "197646",
+            "group_name_short": "PPE",
+            "call": "nay"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "197412",
+            "group_name_short": "PPE",
+            "call": "nay"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "96780",
+            "group_name_short": "PPE",
+            "call": "nay"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "124715",
+            "group_name_short": "PPE",
+            "call": "nay"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "96779",
+            "group_name_short": "PPE",
+            "call": "nay"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "96772",
+            "group_name_short": "PPE",
+            "call": "nay"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "197517",
+            "group_name_short": "PPE",
+            "call": "nay"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "96771",
+            "group_name_short": "PPE",
+            "call": "nay"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "96934",
+            "group_name_short": "PPE",
+            "call": "nay"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "197839",
+            "group_name_short": "PPE",
+            "call": "nay"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "250237",
+            "group_name_short": "PPE",
+            "call": "nay"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "125068",
+            "group_name_short": "PPE",
+            "call": "nay"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "96668",
+            "group_name_short": "PPE",
+            "call": "nay"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "197406",
+            "group_name_short": "PPE",
+            "call": "nay"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "197525",
+            "group_name_short": "PPE",
+            "call": "nay"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "97968",
+            "group_name_short": "PPE",
+            "call": "nay"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "197843",
+            "group_name_short": "PPE",
+            "call": "nay"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "95074",
+            "group_name_short": "PPE",
+            "call": "nay"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "23781",
+            "group_name_short": "PPE",
+            "call": "nay"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "204336",
+            "group_name_short": "PPE",
+            "call": "nay"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "1927",
+            "group_name_short": "PPE",
+            "call": "nay"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "124808",
+            "group_name_short": "PPE",
+            "call": "nay"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "197777",
+            "group_name_short": "PPE",
+            "call": "nay"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "28399",
+            "group_name_short": "PPE",
+            "call": "nay"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "96791",
+            "group_name_short": "PPE",
+            "call": "nay"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "124806",
+            "group_name_short": "PPE",
+            "call": "nay"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "4560",
+            "group_name_short": "PPE",
+            "call": "nay"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "33982",
+            "group_name_short": "PPE",
+            "call": "nay"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "209896",
+            "group_name_short": "PPE",
+            "call": "nay"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "96936",
+            "group_name_short": "PPE",
+            "call": "nay"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "98341",
+            "group_name_short": "PPE",
+            "call": "nay"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "197841",
+            "group_name_short": "PPE",
+            "call": "nay"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "197662",
+            "group_name_short": "PPE",
+            "call": "nay"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "130256",
+            "group_name_short": "PPE",
+            "call": "nay"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "28400",
+            "group_name_short": "PPE",
+            "call": "nay"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "124734",
+            "group_name_short": "PPE",
+            "call": "nay"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "197711",
+            "group_name_short": "PPE",
+            "call": "nay"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "197427",
+            "group_name_short": "PPE",
+            "call": "nay"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "124802",
+            "group_name_short": "PPE",
+            "call": "nay"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "28429",
+            "group_name_short": "PPE",
+            "call": "nay"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "4289",
+            "group_name_short": "PPE",
+            "call": "nay"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "124701",
+            "group_name_short": "PPE",
+            "call": "nay"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "28294",
+            "group_name_short": "PPE",
+            "call": "nay"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "107212",
+            "group_name_short": "PPE",
+            "call": "nay"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "28288",
+            "group_name_short": "PPE",
+            "call": "nay"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "253043",
+            "group_name_short": "PPE",
+            "call": "nay"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "250235",
+            "group_name_short": "PPE",
+            "call": "nay"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "243979",
+            "group_name_short": "PPE",
+            "call": "nay"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "197738",
+            "group_name_short": "PPE",
+            "call": "nay"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "124704",
+            "group_name_short": "PPE",
+            "call": "nay"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "197404",
+            "group_name_short": "PPE",
+            "call": "nay"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "197765",
+            "group_name_short": "PPE",
+            "call": "nay"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "125706",
+            "group_name_short": "PPE",
+            "call": "nay"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "124850",
+            "group_name_short": "PPE",
+            "call": "nay"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "188945",
+            "group_name_short": "PPE",
+            "call": "nay"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "197413",
+            "group_name_short": "PPE",
+            "call": "nay"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "125670",
+            "group_name_short": "PPE",
+            "call": "nay"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "197422",
+            "group_name_short": "PPE",
+            "call": "nay"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "125030",
+            "group_name_short": "PPE",
+            "call": "nay"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "28223",
+            "group_name_short": "PPE",
+            "call": "nay"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "197425",
+            "group_name_short": "PPE",
+            "call": "nay"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "197835",
+            "group_name_short": "PPE",
+            "call": "nay"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "197426",
+            "group_name_short": "PPE",
+            "call": "nay"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "197390",
+            "group_name_short": "PPE",
+            "call": "nay"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "124710",
+            "group_name_short": "PPE",
+            "call": "nay"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "197417",
+            "group_name_short": "PPE",
+            "call": "nay"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "124929",
+            "group_name_short": "PPE",
+            "call": "nay"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "204449",
+            "group_name_short": "PPE",
+            "call": "nay"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "197402",
+            "group_name_short": "PPE",
+            "call": "nay"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "125104",
+            "group_name_short": "PPE",
+            "call": "nay"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "28617",
+            "group_name_short": "PPE",
+            "call": "nay"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "129164",
+            "group_name_short": "PPE",
+            "call": "nay"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "96756",
+            "group_name_short": "PPE",
+            "call": "nay"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "98582",
+            "group_name_short": "PPE",
+            "call": "nay"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "124726",
+            "group_name_short": "PPE",
+            "call": "nay"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "96761",
+            "group_name_short": "PPE",
+            "call": "nay"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "125065",
+            "group_name_short": "PPE",
+            "call": "nay"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "197798",
+            "group_name_short": "PPE",
+            "call": "nay"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "197863",
+            "group_name_short": "PPE",
+            "call": "nay"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "197429",
+            "group_name_short": "PPE",
+            "call": "nay"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "197405",
+            "group_name_short": "PPE",
+            "call": "nay"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "28229",
+            "group_name_short": "PPE",
+            "call": "nay"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "197515",
+            "group_name_short": "PPE",
+            "call": "nay"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "2323",
+            "group_name_short": "PPE",
+            "call": "nay"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "39725",
+            "group_name_short": "PPE",
+            "call": "nay"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "125067",
+            "group_name_short": "PPE",
+            "call": "nay"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "197586",
+            "group_name_short": "PPE",
+            "call": "nay"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "197606",
+            "group_name_short": "PPE",
+            "call": "nay"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "124713",
+            "group_name_short": "PPE",
+            "call": "nay"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "197621",
+            "group_name_short": "PPE",
+            "call": "nay"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "185341",
+            "group_name_short": "PPE",
+            "call": "nay"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "96933",
+            "group_name_short": "PPE",
+            "call": "nay"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "197848",
+            "group_name_short": "Renew",
+            "call": "nay"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "197400",
+            "group_name_short": "Renew",
+            "call": "nay"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "204332",
+            "group_name_short": "Renew",
+            "call": "nay"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "124696",
+            "group_name_short": "Renew",
+            "call": "nay"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "197781",
+            "group_name_short": "Renew",
+            "call": "nay"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "197668",
+            "group_name_short": "Renew",
+            "call": "nay"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "126644",
+            "group_name_short": "Renew",
+            "call": "nay"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "124708",
+            "group_name_short": "Renew",
+            "call": "nay"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "197463",
+            "group_name_short": "Renew",
+            "call": "nay"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "124821",
+            "group_name_short": "Renew",
+            "call": "nay"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "197430",
+            "group_name_short": "Renew",
+            "call": "nay"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "197419",
+            "group_name_short": "Renew",
+            "call": "nay"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "209140",
+            "group_name_short": "Renew",
+            "call": "nay"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "197443",
+            "group_name_short": "Renew",
+            "call": "nay"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "197780",
+            "group_name_short": "Renew",
+            "call": "nay"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "197444",
+            "group_name_short": "Renew",
+            "call": "nay"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "197526",
+            "group_name_short": "Renew",
+            "call": "nay"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "58789",
+            "group_name_short": "Renew",
+            "call": "nay"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "197624",
+            "group_name_short": "Renew",
+            "call": "nay"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "197401",
+            "group_name_short": "Renew",
+            "call": "nay"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "251268",
+            "group_name_short": "Renew",
+            "call": "nay"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "197818",
+            "group_name_short": "Renew",
+            "call": "nay"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "197528",
+            "group_name_short": "Renew",
+            "call": "nay"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "197445",
+            "group_name_short": "Renew",
+            "call": "nay"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "118949",
+            "group_name_short": "Renew",
+            "call": "nay"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "125063",
+            "group_name_short": "Renew",
+            "call": "nay"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "124866",
+            "group_name_short": "Renew",
+            "call": "nay"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "96709",
+            "group_name_short": "Renew",
+            "call": "nay"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "125128",
+            "group_name_short": "Renew",
+            "call": "nay"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "212855",
+            "group_name_short": "Renew",
+            "call": "nay"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "190519",
+            "group_name_short": "Renew",
+            "call": "nay"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "125005",
+            "group_name_short": "Renew",
+            "call": "nay"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "197432",
+            "group_name_short": "Renew",
+            "call": "nay"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "129073",
+            "group_name_short": "Renew",
+            "call": "nay"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "125038",
+            "group_name_short": "Renew",
+            "call": "nay"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "197563",
+            "group_name_short": "Renew",
+            "call": "nay"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "124872",
+            "group_name_short": "Renew",
+            "call": "nay"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "237320",
+            "group_name_short": "Renew",
+            "call": "nay"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "239972",
+            "group_name_short": "Renew",
+            "call": "nay"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "229519",
+            "group_name_short": "Renew",
+            "call": "nay"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "4344",
+            "group_name_short": "Renew",
+            "call": "nay"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "197418",
+            "group_name_short": "Renew",
+            "call": "nay"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "197784",
+            "group_name_short": "Renew",
+            "call": "nay"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "124700",
+            "group_name_short": "Renew",
+            "call": "nay"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "114268",
+            "group_name_short": "Renew",
+            "call": "nay"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "197665",
+            "group_name_short": "Renew",
+            "call": "nay"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "130100",
+            "group_name_short": "Renew",
+            "call": "nay"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "204400",
+            "group_name_short": "Renew",
+            "call": "nay"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "214839",
+            "group_name_short": "Renew",
+            "call": "nay"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "125237",
+            "group_name_short": "Renew",
+            "call": "nay"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "125045",
+            "group_name_short": "S&D",
+            "call": "nay"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "237224",
+            "group_name_short": "S&D",
+            "call": "nay"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "197783",
+            "group_name_short": "S&D",
+            "call": "nay"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "197587",
+            "group_name_short": "S&D",
+            "call": "nay"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "247735",
+            "group_name_short": "S&D",
+            "call": "nay"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "197658",
+            "group_name_short": "S&D",
+            "call": "nay"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "124867",
+            "group_name_short": "S&D",
+            "call": "nay"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "197435",
+            "group_name_short": "S&D",
+            "call": "nay"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "96681",
+            "group_name_short": "S&D",
+            "call": "nay"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "112748",
+            "group_name_short": "S&D",
+            "call": "nay"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "197446",
+            "group_name_short": "S&D",
+            "call": "nay"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "199996",
+            "group_name_short": "S&D",
+            "call": "nay"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "197641",
+            "group_name_short": "S&D",
+            "call": "nay"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "197782",
+            "group_name_short": "S&D",
+            "call": "nay"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "197507",
+            "group_name_short": "S&D",
+            "call": "nay"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "33997",
+            "group_name_short": "S&D",
+            "call": "nay"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "228604",
+            "group_name_short": "S&D",
+            "call": "nay"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "96891",
+            "group_name_short": "S&D",
+            "call": "nay"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "198329",
+            "group_name_short": "S&D",
+            "call": "nay"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "209091",
+            "group_name_short": "S&D",
+            "call": "nay"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "125046",
+            "group_name_short": "S&D",
+            "call": "nay"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "197391",
+            "group_name_short": "S&D",
+            "call": "nay"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "101585",
+            "group_name_short": "S&D",
+            "call": "nay"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "197702",
+            "group_name_short": "S&D",
+            "call": "nay"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "197717",
+            "group_name_short": "S&D",
+            "call": "nay"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "197742",
+            "group_name_short": "S&D",
+            "call": "nay"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "28298",
+            "group_name_short": "S&D",
+            "call": "nay"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "96991",
+            "group_name_short": "S&D",
+            "call": "nay"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "96833",
+            "group_name_short": "S&D",
+            "call": "nay"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "253008",
+            "group_name_short": "S&D",
+            "call": "nay"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "197728",
+            "group_name_short": "S&D",
+            "call": "nay"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "197718",
+            "group_name_short": "S&D",
+            "call": "nay"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "124785",
+            "group_name_short": "S&D",
+            "call": "nay"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "197618",
+            "group_name_short": "S&D",
+            "call": "nay"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "34578",
+            "group_name_short": "S&D",
+            "call": "nay"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "197800",
+            "group_name_short": "S&D",
+            "call": "nay"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "122978",
+            "group_name_short": "S&D",
+            "call": "nay"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "197846",
+            "group_name_short": "S&D",
+            "call": "nay"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "197392",
+            "group_name_short": "S&D",
+            "call": "nay"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "112747",
+            "group_name_short": "S&D",
+            "call": "nay"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "125021",
+            "group_name_short": "S&D",
+            "call": "nay"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "197491",
+            "group_name_short": "S&D",
+            "call": "nay"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "197523",
+            "group_name_short": "S&D",
+            "call": "nay"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "124735",
+            "group_name_short": "S&D",
+            "call": "nay"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "1909",
+            "group_name_short": "S&D",
+            "call": "nay"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "197635",
+            "group_name_short": "S&D",
+            "call": "nay"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "23768",
+            "group_name_short": "S&D",
+            "call": "nay"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "125042",
+            "group_name_short": "S&D",
+            "call": "nay"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "96812",
+            "group_name_short": "S&D",
+            "call": "nay"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "197721",
+            "group_name_short": "S&D",
+            "call": "nay"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "197719",
+            "group_name_short": "S&D",
+            "call": "nay"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "197638",
+            "group_name_short": "S&D",
+            "call": "nay"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "197634",
+            "group_name_short": "S&D",
+            "call": "nay"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "197441",
+            "group_name_short": "S&D",
+            "call": "nay"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "197522",
+            "group_name_short": "S&D",
+            "call": "nay"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "197497",
+            "group_name_short": "S&D",
+            "call": "nay"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "197540",
+            "group_name_short": "S&D",
+            "call": "nay"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "28347",
+            "group_name_short": "S&D",
+            "call": "nay"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "88882",
+            "group_name_short": "S&D",
+            "call": "nay"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "233862",
+            "group_name_short": "S&D",
+            "call": "nay"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "124784",
+            "group_name_short": "S&D",
+            "call": "nay"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "237779",
+            "group_name_short": "S&D",
+            "call": "nay"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "197838",
+            "group_name_short": "S&D",
+            "call": "nay"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "124692",
+            "group_name_short": "S&D",
+            "call": "nay"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "244571",
+            "group_name_short": "S&D",
+            "call": "nay"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "197845",
+            "group_name_short": "S&D",
+            "call": "nay"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "112744",
+            "group_name_short": "S&D",
+            "call": "nay"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "38595",
+            "group_name_short": "S&D",
+            "call": "nay"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "218347",
+            "group_name_short": "S&D",
+            "call": "nay"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "125043",
+            "group_name_short": "S&D",
+            "call": "nay"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "204413",
+            "group_name_short": "S&D",
+            "call": "nay"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "127096",
+            "group_name_short": "S&D",
+            "call": "nay"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "197722",
+            "group_name_short": "S&D",
+            "call": "nay"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "124781",
+            "group_name_short": "S&D",
+            "call": "nay"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "197650",
+            "group_name_short": "S&D",
+            "call": "nay"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "37312",
+            "group_name_short": "S&D",
+            "call": "nay"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "197677",
+            "group_name_short": "S&D",
+            "call": "nay"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "124747",
+            "group_name_short": "S&D",
+            "call": "nay"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "124852",
+            "group_name_short": "S&D",
+            "call": "nay"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "125020",
+            "group_name_short": "S&D",
+            "call": "nay"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "197756",
+            "group_name_short": "S&D",
+            "call": "nay"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "198183",
+            "group_name_short": "S&D",
+            "call": "nay"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "197810",
+            "group_name_short": "S&D",
+            "call": "nay"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "5729",
+            "group_name_short": "S&D",
+            "call": "nay"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "199941",
+            "group_name_short": "S&D",
+            "call": "nay"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "197844",
+            "group_name_short": "S&D",
+            "call": "nay"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "185619",
+            "group_name_short": "S&D",
+            "call": "nay"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "5392",
+            "group_name_short": "S&D",
+            "call": "nay"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "124739",
+            "group_name_short": "S&D",
+            "call": "nay"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "197532",
+            "group_name_short": "ECR",
+            "call": "abstain"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "124712",
+            "group_name_short": "NI",
+            "call": "abstain"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "124714",
+            "group_name_short": "NI",
+            "call": "abstain"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "28150",
+            "group_name_short": "NI",
+            "call": "abstain"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "96830",
+            "group_name_short": "NI",
+            "call": "abstain"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "23816",
+            "group_name_short": "NI",
+            "call": "abstain"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "124586",
+            "group_name_short": "NI",
+            "call": "abstain"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "28141",
+            "group_name_short": "NI",
+            "call": "abstain"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "197740",
+            "group_name_short": "NI",
+            "call": "abstain"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "197734",
+            "group_name_short": "NI",
+            "call": "abstain"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "125093",
+            "group_name_short": "NI",
+            "call": "abstain"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "213330",
+            "group_name_short": "NI",
+            "call": "abstain"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "197935",
+            "group_name_short": "NI",
+            "call": "abstain"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "27714",
+            "group_name_short": "NI",
+            "call": "abstain"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "197894",
+            "group_name_short": "NI",
+            "call": "abstain"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "249603",
+            "group_name_short": "PPE",
+            "call": "abstain"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "197615",
+            "group_name_short": "",
+            "call": "no_voted"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "197842",
+            "group_name_short": "",
+            "call": "no_voted"
+        },
+        {
+            "session_id": "1",
+            "voting_id": "166284",
+            "voting_type": "normal",
+            "member_name": "239973",
+            "group_name_short": "",
+            "call": "no_voted"
+        }
+    ]
+}

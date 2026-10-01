@@ -1,0 +1,38 @@
+[
+  {
+    "chamberName": "SEJM",
+    "termId": "9",
+    "memberId": "382",
+    "name": "Szymon Szynkowski vel S\u0119k",
+    "firstName": "Szymon",
+    "secondName": "Szynkowski",
+    "lastName": "vel S\u0119k",
+    "imageUrl": "https://orka.sejm.gov.pl/Poslowie9.nsf/0/99F9F388A4C1924DC125849C00313CBE/$File/382.jpg",
+    "status": "ACTIVE",
+    "data": "{\"Wybrany dnia\":\"13-10-2019\",\"Lista\":\"Prawo i Sprawiedliwo\u015b\u0107\",\"Okr\u0119g wyborczy\":\"39\u00a0\u00a0Pozna\u0144\",\"Liczba g\u0142os\u00f3w\":\"24233\",\"\u015alubowanie\":\"12-11-2019\",\"Sta\u017c parlamentarny\":\"pose\u0142 VIII kadencji\",\"Klub/ko\u0142o\":\"Klub Parlamentarny Prawo i Sprawiedliwo\u015b\u0107\",\"Data i miejsce urodzenia\":\"24-11-1982, Pozna\u0144\",\"Wykszta\u0142cenie\":\"wy\u017csze\",\"Uko\u0144czona szko\u0142a\":\"Uniwersytet im. Adama Mickiewicza w Poznaniu, Prawo i Administracja, Stosunki Mi\u0119dzynarodowe - magister (2006)\",\"Zaw\u00f3d\":\"sekretarz stanu\",\"Email\":\"poka\u017c adres email\"}"
+  },
+  {
+    "chamberName": "SEJM",
+    "termId": "9",
+    "memberId": "321",
+    "name": "Pawe\u0142 Rychlik",
+    "firstName": "Pawe\u0142",
+    "secondName": null,
+    "lastName": "Rychlik",
+    "imageUrl": "https://orka.sejm.gov.pl/Poslowie9.nsf/0/AEAA21FEF87E5B7FC125849C00313BA0/$File/321.jpg",
+    "status": "ACTIVE",
+    "data": "{\"Wybrany dnia\":\"13-10-2019\",\"Lista\":\"Prawo i Sprawiedliwo\u015b\u0107\",\"Okr\u0119g wyborczy\":\"11\u00a0\u00a0Sieradz\",\"Liczba g\u0142os\u00f3w\":\"25246\",\"\u015alubowanie\":\"12-11-2019\",\"Sta\u017c parlamentarny\":\"pose\u0142 VIII kadencji\",\"Klub/ko\u0142o\":\"Klub Parlamentarny Prawo i Sprawiedliwo\u015b\u0107\",\"Data i miejsce urodzenia\":\"16-12-1986, Wielu\u0144\",\"Wykszta\u0142cenie\":\"wy\u017csze\",\"Uko\u0144czona szko\u0142a\":\"Uniwersytet Medyczny w Poznaniu, Wydzia\u0142 Farmaceutyczny, Farmacja - magister (2013)\",\"Zaw\u00f3d\":\"farmaceuta\",\"Email\":\"poka\u017c adres email\"}"
+  },
+  {
+    "chamberName": "SEJM",
+    "termId": "9",
+    "memberId": "061",
+    "name": "W\u0142adys\u0142aw Dajczak",
+    "firstName": "W\u0142adys\u0142aw",
+    "secondName": "Piotr",
+    "lastName": "Dajczak",
+    "imageUrl": "https://orka.sejm.gov.pl/Poslowie9.nsf/0/0BCC1000219C1A54C125849C003136CE/$File/061.jpg",
+    "status": "ACTIVE",
+    "data": "{\"Wybrany dnia\":\"13-10-2019\",\"Lista\":\"Prawo i Sprawiedliwo\u015b\u0107\",\"Okr\u0119g wyborczy\":\"8\u00a0\u00a0Zielona G\u00f3ra\",\"Liczba g\u0142os\u00f3w\":\"27393\",\"\u015alubowanie\":\"12-11-2019\",\"Wyga\u015bni\u0119cie mandatu\":\"15-01-2020\",\"Powo\u0142any na stanowisko Wojewody Lubuskieg\":\"Sta\u017c parlamentarny:\",\"senator VII kadencj\":\"Klub/ko\u0142o:\",\"Klub Parlamentarny Prawo i Sprawiedliwo\u015b\":\"Data i miejsce urodzenia:\",\"10-07-1959, Mi\u0119dzyrze\":\"Wykszta\u0142cenie:\",\"wy\u017csz\":\"Uko\u0144czona szko\u0142a:\",\"Wy\u017csza Szko\u0142a In\u017cynierska w Zielonej G\u00f3rze, Instytut Budowy Maszyn, Mechanika-maszyny i urz\u0105dzenia przemys\u0142u spo\u017cywczego - magister in\u017cynier (1983)Uniwersytet Wroc\u0142awski, Pawo i administracja (1997) - studia podyplomow\":\"Zaw\u00f3d:\"}"
+  }
+]

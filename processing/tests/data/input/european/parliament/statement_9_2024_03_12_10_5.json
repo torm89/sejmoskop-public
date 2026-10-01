@@ -1,0 +1,573 @@
+{
+  "chamberName": "european-parliament",
+  "termId": "9",
+  "sessionId": "1",
+  "dateId": "2024-03-12",
+  "statementId": "10-5",
+  "statementIdNew": -1,
+  "data": {
+    "chapter": {
+      "TL-CHAP": [
+        {
+          "#text": "Европейски законодателен акт за свободата на медиите (разискване)",
+          "@_VL": "BG",
+          "@_TYPE": "OTHER",
+          "@_VOD-START": "2024-03-12T13:47:09.580",
+          "@_VOD-END": "2024-03-12T14:51:51.000"
+        },
+        {
+          "#text": "Ley Europea de Libertad de los Medios de Comunicación (debate)",
+          "@_VL": "ES",
+          "@_TYPE": "OTHER",
+          "@_VOD-START": "2024-03-12T13:47:09.580",
+          "@_VOD-END": "2024-03-12T14:51:51.000"
+        },
+        {
+          "#text": "Evropský akt o svobodě sdělovacích prostředků (rozprava)",
+          "@_VL": "CS",
+          "@_TYPE": "OTHER",
+          "@_VOD-START": "2024-03-12T13:47:09.580",
+          "@_VOD-END": "2024-03-12T14:51:51.000"
+        },
+        {
+          "#text": "Europæisk retsakt om mediefrihed (forhandling)",
+          "@_VL": "DA",
+          "@_TYPE": "OTHER",
+          "@_VOD-START": "2024-03-12T13:47:09.580",
+          "@_VOD-END": "2024-03-12T14:51:51.000"
+        },
+        {
+          "#text": "Europäisches Medienfreiheitsgesetz (Aussprache)",
+          "@_VL": "DE",
+          "@_TYPE": "OTHER",
+          "@_VOD-START": "2024-03-12T13:47:09.580",
+          "@_VOD-END": "2024-03-12T14:51:51.000"
+        },
+        {
+          "#text": "Euroopa meediavabaduse määrus (arutelu)",
+          "@_VL": "ET",
+          "@_TYPE": "OTHER",
+          "@_VOD-START": "2024-03-12T13:47:09.580",
+          "@_VOD-END": "2024-03-12T14:51:51.000"
+        },
+        {
+          "#text": "Ευρωπαϊκή πράξη για την ελευθερία των μέσων ενημέρωσης (συζήτηση)",
+          "@_VL": "EL",
+          "@_TYPE": "OTHER",
+          "@_VOD-START": "2024-03-12T13:47:09.580",
+          "@_VOD-END": "2024-03-12T14:51:51.000"
+        },
+        {
+          "#text": "European Media Freedom Act (debate)",
+          "@_VL": "EN",
+          "@_TYPE": "OTHER",
+          "@_VOD-START": "2024-03-12T13:47:09.580",
+          "@_VOD-END": "2024-03-12T14:51:51.000"
+        },
+        {
+          "#text": "Législation européenne sur la liberté des médias (débat)",
+          "@_VL": "FR",
+          "@_TYPE": "OTHER",
+          "@_VOD-START": "2024-03-12T13:47:09.580",
+          "@_VOD-END": "2024-03-12T14:51:51.000"
+        },
+        {
+          "#text": "Regolamento sulla libertà dei media (discussione)",
+          "@_VL": "IT",
+          "@_TYPE": "OTHER",
+          "@_VOD-START": "2024-03-12T13:47:09.580",
+          "@_VOD-END": "2024-03-12T14:51:51.000"
+        },
+        {
+          "#text": "Eiropas Mediju brīvības akts (debates)",
+          "@_VL": "LV",
+          "@_TYPE": "OTHER",
+          "@_VOD-START": "2024-03-12T13:47:09.580",
+          "@_VOD-END": "2024-03-12T14:51:51.000"
+        },
+        {
+          "#text": "Bendros žiniasklaidos paslaugų vidaus rinkoje sistemos nustatymas (Europos žiniasklaidos laisvės aktas) ir Direktyvos 2010/13/ES dalinis keitimas (diskusijos)",
+          "@_VL": "LT",
+          "@_TYPE": "OTHER",
+          "@_VOD-START": "2024-03-12T13:47:09.580",
+          "@_VOD-END": "2024-03-12T14:51:51.000"
+        },
+        {
+          "#text": "A tömegtájékoztatás szabadságáról szóló jogszabály (vita)",
+          "@_VL": "HU",
+          "@_TYPE": "OTHER",
+          "@_VOD-START": "2024-03-12T13:47:09.580",
+          "@_VOD-END": "2024-03-12T14:51:51.000"
+        },
+        {
+          "#text": "L-Att Ewropew dwar il-Libertà tal-Midja (dibattitu)",
+          "@_VL": "MT",
+          "@_TYPE": "OTHER",
+          "@_VOD-START": "2024-03-12T13:47:09.580",
+          "@_VOD-END": "2024-03-12T14:51:51.000"
+        },
+        {
+          "#text": "Verordening mediavrijheid (debat)",
+          "@_VL": "NL",
+          "@_TYPE": "OTHER",
+          "@_VOD-START": "2024-03-12T13:47:09.580",
+          "@_VOD-END": "2024-03-12T14:51:51.000"
+        },
+        {
+          "#text": "Europejski akt o wolności mediów (debata)",
+          "@_VL": "PL",
+          "@_TYPE": "OTHER",
+          "@_VOD-START": "2024-03-12T13:47:09.580",
+          "@_VOD-END": "2024-03-12T14:51:51.000"
+        },
+        {
+          "#text": "Regulamento Liberdade dos Meios de Comunicação Social (debate)",
+          "@_VL": "PT",
+          "@_TYPE": "OTHER",
+          "@_VOD-START": "2024-03-12T13:47:09.580",
+          "@_VOD-END": "2024-03-12T14:51:51.000"
+        },
+        {
+          "#text": "Legea europeană privind libertatea mass-mediei (dezbatere)",
+          "@_VL": "RO",
+          "@_TYPE": "OTHER",
+          "@_VOD-START": "2024-03-12T13:47:09.580",
+          "@_VOD-END": "2024-03-12T14:51:51.000"
+        },
+        {
+          "#text": "Európsky akt o slobode médií (rozprava)",
+          "@_VL": "SK",
+          "@_TYPE": "OTHER",
+          "@_VOD-START": "2024-03-12T13:47:09.580",
+          "@_VOD-END": "2024-03-12T14:51:51.000"
+        },
+        {
+          "#text": "Evropski akt o svobodi medijev (razprava)",
+          "@_VL": "SL",
+          "@_TYPE": "OTHER",
+          "@_VOD-START": "2024-03-12T13:47:09.580",
+          "@_VOD-END": "2024-03-12T14:51:51.000"
+        },
+        {
+          "#text": "Eurooppalainen medianvapaussäädös (keskustelu)",
+          "@_VL": "FI",
+          "@_TYPE": "OTHER",
+          "@_VOD-START": "2024-03-12T13:47:09.580",
+          "@_VOD-END": "2024-03-12T14:51:51.000"
+        },
+        {
+          "#text": "Europeisk mediefrihetsakt (debatt)",
+          "@_VL": "SV",
+          "@_TYPE": "OTHER",
+          "@_VOD-START": "2024-03-12T13:47:09.580",
+          "@_VOD-END": "2024-03-12T14:51:51.000"
+        },
+        {
+          "#text": "Europski akt o slobodi medija (rasprava)",
+          "@_VL": "HR",
+          "@_TYPE": "OTHER",
+          "@_VOD-START": "2024-03-12T13:47:09.580",
+          "@_VOD-END": "2024-03-12T14:51:51.000"
+        },
+        {
+          "#text": "An Gníomh Eorpach um Shaoirse na Meán (díospóireacht)",
+          "@_VL": "GA",
+          "@_TYPE": "OTHER",
+          "@_VOD-START": "2024-03-12T13:47:09.580",
+          "@_VOD-END": "2024-03-12T14:51:51.000"
+        }
+      ],
+      "NUMERO": [
+        {
+          "@_ACT": "2-157-0000",
+          "@_PRE": "2-155-0000",
+          "@_SUIV": "2-158-0000",
+          "@_VL": "EN",
+          "@_VOD-START": "2024-03-12T13:47:09.590",
+          "@_VOD-END": "2024-03-12T13:47:18.000"
+        },
+        {
+          "@_ACT": "2-158-0000",
+          "@_PRE": "2-157-0000",
+          "@_SUIV": "2-159-0000",
+          "@_VL": "DE",
+          "@_VOD-START": "2024-03-12T13:47:17.365",
+          "@_VOD-END": "2024-03-12T13:51:31.000",
+          "@_SPEAKER_TYPE": "RAPPORTEUR"
+        },
+        {
+          "@_ACT": "2-159-0000",
+          "@_PRE": "2-158-0000",
+          "@_SUIV": "2-160-0000",
+          "@_VL": "FR",
+          "@_VOD-START": "2024-03-12T13:51:39.261",
+          "@_VOD-END": "2024-03-12T13:53:05.000",
+          "@_SPEAKER_TYPE": "RAP AVIS IMCO"
+        },
+        {
+          "@_ACT": "2-160-0000",
+          "@_PRE": "2-159-0000",
+          "@_SUIV": "2-161-0000",
+          "@_VL": "EN",
+          "@_VOD-START": "2024-03-12T13:53:12.388",
+          "@_VOD-END": "2024-03-12T13:54:19.000",
+          "@_SPEAKER_TYPE": "RAP AVIS LIBE"
+        },
+        {
+          "@_ACT": "2-161-0000",
+          "@_PRE": "2-160-0000",
+          "@_SUIV": "2-162-0000",
+          "@_VL": "EN",
+          "@_VOD-START": "2024-03-12T13:54:25.308",
+          "@_VOD-END": "2024-03-12T13:58:29.000",
+          "@_SPEAKER_TYPE": "VICE-PRÉSIDENT DE LA COMMISSION"
+        },
+        {
+          "@_ACT": "2-162-0000",
+          "@_PRE": "2-161-0000",
+          "@_SUIV": "2-163-0000",
+          "@_VL": "PL",
+          "@_VOD-START": "2024-03-12T13:58:35.258",
+          "@_VOD-END": "2024-03-12T13:59:58.000",
+          "@_SPEAKER_TYPE": "AU NOM DU GROUPE"
+        },
+        {
+          "@_ACT": "2-163-0000",
+          "@_PRE": "2-162-0000",
+          "@_SUIV": "2-164-0000",
+          "@_VL": "DE",
+          "@_VOD-START": "2024-03-12T14:00:04.426",
+          "@_VOD-END": "2024-03-12T14:01:56.000",
+          "@_SPEAKER_TYPE": "AU NOM DU GROUPE"
+        },
+        {
+          "@_ACT": "2-164-0000",
+          "@_PRE": "2-163-0000",
+          "@_SUIV": "2-165-0000",
+          "@_VL": "SL",
+          "@_VOD-START": "2024-03-12T14:02:02.959",
+          "@_VOD-END": "2024-03-12T14:03:20.000",
+          "@_SPEAKER_TYPE": "AU NOM DU GROUPE"
+        },
+        {
+          "@_ACT": "2-165-0000",
+          "@_PRE": "2-164-0000",
+          "@_SUIV": "2-166-0000",
+          "@_VL": "ES",
+          "@_VOD-START": "2024-03-12T14:03:27.790",
+          "@_VOD-END": "2024-03-12T14:04:57.000",
+          "@_SPEAKER_TYPE": "AU NOM DU GROUPE"
+        },
+        {
+          "@_ACT": "2-166-0000",
+          "@_PRE": "2-165-0000",
+          "@_SUIV": "2-167-0000",
+          "@_VL": "BG",
+          "@_VOD-START": "2024-03-12T14:05:04.416",
+          "@_VOD-END": "2024-03-12T14:06:13.000",
+          "@_SPEAKER_TYPE": "AU NOM DU GROUPE"
+        },
+        {
+          "@_ACT": "2-167-0000",
+          "@_PRE": "2-166-0000",
+          "@_SUIV": "2-168-0000",
+          "@_VL": "FR",
+          "@_VOD-START": "2024-03-12T14:06:19.389",
+          "@_VOD-END": "2024-03-12T14:07:33.000",
+          "@_SPEAKER_TYPE": "AU NOM DU GROUPE"
+        },
+        {
+          "@_ACT": "2-168-0000",
+          "@_PRE": "2-167-0000",
+          "@_SUIV": "2-171-0000",
+          "@_VL": "EN",
+          "@_VOD-START": "2024-03-12T14:07:39.953",
+          "@_VOD-END": "2024-03-12T14:09:24.000",
+          "@_SPEAKER_TYPE": "AU NOM DU GROUPE"
+        },
+        {
+          "@_ACT": "2-171-0000",
+          "@_PRE": "2-168-0000",
+          "@_SUIV": "2-172-0000",
+          "@_VL": "HU",
+          "@_VOD-START": "2024-03-12T14:09:31.186",
+          "@_VOD-END": "2024-03-12T14:10:53.000"
+        },
+        {
+          "@_ACT": "2-172-0000",
+          "@_PRE": "2-171-0000",
+          "@_SUIV": "2-173-0000",
+          "@_VL": "MT",
+          "@_VOD-START": "2024-03-12T14:10:57.447",
+          "@_VOD-END": "2024-03-12T14:12:06.000"
+        },
+        {
+          "@_ACT": "2-173-0000",
+          "@_PRE": "2-172-0000",
+          "@_SUIV": "2-174-0000",
+          "@_VL": "MT",
+          "@_VOD-START": "2024-03-12T14:12:10.377",
+          "@_VOD-END": "2024-03-12T14:13:41.000"
+        },
+        {
+          "@_ACT": "2-174-0000",
+          "@_PRE": "2-173-0000",
+          "@_SUIV": "2-175-0000",
+          "@_VL": "FR",
+          "@_VOD-START": "2024-03-12T14:13:46.781",
+          "@_VOD-END": "2024-03-12T14:15:02.000"
+        },
+        {
+          "@_ACT": "2-175-0000",
+          "@_PRE": "2-174-0000",
+          "@_SUIV": "2-176-0000",
+          "@_VL": "DE",
+          "@_VOD-START": "2024-03-12T14:15:04.821",
+          "@_VOD-END": "2024-03-12T14:16:26.000"
+        },
+        {
+          "@_ACT": "2-176-0000",
+          "@_PRE": "2-175-0000",
+          "@_SUIV": "2-177-0000",
+          "@_VL": "PL",
+          "@_VOD-START": "2024-03-12T14:16:31.962",
+          "@_VOD-END": "2024-03-12T14:17:53.000"
+        },
+        {
+          "@_ACT": "2-177-0000",
+          "@_PRE": "2-176-0000",
+          "@_SUIV": "2-178-0000",
+          "@_VL": "CS",
+          "@_VOD-START": "2024-03-12T14:17:57.694",
+          "@_VOD-END": "2024-03-12T14:19:17.000"
+        },
+        {
+          "@_ACT": "2-178-0000",
+          "@_PRE": "2-177-0000",
+          "@_SUIV": "2-179-0000",
+          "@_VL": "FR",
+          "@_VOD-START": "2024-03-12T14:19:19.747",
+          "@_VOD-END": "2024-03-12T14:20:28.000"
+        },
+        {
+          "@_ACT": "2-179-0000",
+          "@_PRE": "2-178-0000",
+          "@_SUIV": "2-180-0000",
+          "@_VL": "PL",
+          "@_VOD-START": "2024-03-12T14:20:33.747",
+          "@_VOD-END": "2024-03-12T14:21:51.000"
+        },
+        {
+          "@_ACT": "2-180-0000",
+          "@_PRE": "2-179-0000",
+          "@_SUIV": "2-181-0000",
+          "@_VL": "FR",
+          "@_VOD-START": "2024-03-12T14:21:56.533",
+          "@_VOD-END": "2024-03-12T14:23:10.000"
+        },
+        {
+          "@_ACT": "2-181-0000",
+          "@_PRE": "2-180-0000",
+          "@_SUIV": "2-182-0000",
+          "@_VL": "HU",
+          "@_VOD-START": "2024-03-12T14:23:17.041",
+          "@_VOD-END": "2024-03-12T14:24:23.000"
+        },
+        {
+          "@_ACT": "2-182-0000",
+          "@_PRE": "2-181-0000",
+          "@_SUIV": "2-183-0000",
+          "@_VL": "EN",
+          "@_VOD-START": "2024-03-12T14:24:30.454",
+          "@_VOD-END": "2024-03-12T14:25:42.000"
+        },
+        {
+          "@_ACT": "2-183-0000",
+          "@_PRE": "2-182-0000",
+          "@_SUIV": "2-184-0000",
+          "@_VL": "FR",
+          "@_VOD-START": "2024-03-12T14:25:46.112",
+          "@_VOD-END": "2024-03-12T14:27:11.000"
+        },
+        {
+          "@_ACT": "2-184-0000",
+          "@_PRE": "2-183-0000",
+          "@_SUIV": "2-185-0000",
+          "@_VL": "HR",
+          "@_VOD-START": "2024-03-12T14:27:14.058",
+          "@_VOD-END": "2024-03-12T14:28:23.000"
+        },
+        {
+          "@_ACT": "2-185-0000",
+          "@_PRE": "2-184-0000",
+          "@_SUIV": "2-186-0000",
+          "@_VL": "SL",
+          "@_VOD-START": "2024-03-12T14:28:28.118",
+          "@_VOD-END": "2024-03-12T14:29:49.000"
+        },
+        {
+          "@_ACT": "2-186-0000",
+          "@_PRE": "2-185-0000",
+          "@_SUIV": "2-187-0000",
+          "@_VL": "SK",
+          "@_VOD-START": "2024-03-12T14:29:54.028",
+          "@_VOD-END": "2024-03-12T14:31:18.000"
+        },
+        {
+          "@_ACT": "2-187-0000",
+          "@_PRE": "2-186-0000",
+          "@_SUIV": "2-188-0000",
+          "@_VL": "EN",
+          "@_VOD-START": "2024-03-12T14:31:07.972",
+          "@_VOD-END": "2024-03-12T14:31:37.000"
+        },
+        {
+          "@_ACT": "2-188-0000",
+          "@_PRE": "2-187-0000",
+          "@_SUIV": "2-189-0000",
+          "@_VL": "HR",
+          "@_VOD-START": "2024-03-12T14:31:34.265",
+          "@_VOD-END": "2024-03-12T14:32:50.000"
+        },
+        {
+          "@_ACT": "2-189-0000",
+          "@_PRE": "2-188-0000",
+          "@_SUIV": "2-190-0000",
+          "@_VL": "ES",
+          "@_VOD-START": "2024-03-12T14:32:53.178",
+          "@_VOD-END": "2024-03-12T14:34:09.000"
+        },
+        {
+          "@_ACT": "2-190-0000",
+          "@_PRE": "2-189-0000",
+          "@_SUIV": "2-191-0000",
+          "@_VL": "SK",
+          "@_VOD-START": "2024-03-12T14:34:14.294",
+          "@_VOD-END": "2024-03-12T14:35:24.000"
+        },
+        {
+          "@_ACT": "2-191-0000",
+          "@_PRE": "2-190-0000",
+          "@_SUIV": "2-192-0000",
+          "@_VL": "PL",
+          "@_VOD-START": "2024-03-12T14:35:32.855",
+          "@_VOD-END": "2024-03-12T14:36:49.000"
+        },
+        {
+          "@_ACT": "2-192-0000",
+          "@_PRE": "2-191-0000",
+          "@_SUIV": "2-193-0000",
+          "@_VL": "EN",
+          "@_VOD-START": "2024-03-12T14:36:54.937",
+          "@_VOD-END": "2024-03-12T14:38:03.000"
+        },
+        {
+          "@_ACT": "2-193-0000",
+          "@_PRE": "2-192-0000",
+          "@_SUIV": "2-194-0000",
+          "@_VL": "PL",
+          "@_VOD-START": "2024-03-12T14:38:08.628",
+          "@_VOD-END": "2024-03-12T14:39:29.000"
+        },
+        {
+          "@_ACT": "2-194-0000",
+          "@_PRE": "2-193-0000",
+          "@_SUIV": "2-195-0000",
+          "@_VL": "SL",
+          "@_VOD-START": "2024-03-12T14:39:36.516",
+          "@_VOD-END": "2024-03-12T14:40:44.000"
+        },
+        {
+          "@_ACT": "2-195-0000",
+          "@_PRE": "2-194-0000",
+          "@_SUIV": "2-196-0000",
+          "@_VL": "EN",
+          "@_VOD-START": "2024-03-12T14:40:57.164",
+          "@_VOD-END": "2024-03-12T14:42:10.000"
+        },
+        {
+          "@_ACT": "2-196-0000",
+          "@_PRE": "2-195-0000",
+          "@_SUIV": "2-197-0000",
+          "@_VL": "EN",
+          "@_VOD-START": "2024-03-12T14:42:07.613",
+          "@_VOD-END": "2024-03-12T14:42:18.000"
+        },
+        {
+          "@_ACT": "2-197-0000",
+          "@_PRE": "2-196-0000",
+          "@_SUIV": "2-199-0000",
+          "@_VL": "EN",
+          "@_VOD-START": "2024-03-12T14:42:15.941",
+          "@_VOD-END": "2024-03-12T14:47:42.000",
+          "@_SPEAKER_TYPE": "VICE-PRÉSIDENT DE LA COMMISSION"
+        },
+        {
+          "@_ACT": "2-199-0000",
+          "@_PRE": "2-197-0000",
+          "@_SUIV": "2-200-0000",
+          "@_VL": "DE",
+          "@_VOD-START": "2024-03-12T14:47:49.526",
+          "@_VOD-END": "2024-03-12T14:51:46.000",
+          "@_SPEAKER_TYPE": "RAPPORTEUR"
+        },
+        {
+          "@_ACT": "2-200-0000",
+          "@_PRE": "2-199-0000",
+          "@_SUIV": "2-202-0000",
+          "@_VL": "EN",
+          "@_VOD-START": "2024-03-12T14:51:44.493",
+          "@_VOD-END": "2024-03-12T14:51:51.000"
+        }
+      ],
+      "PARA": [
+        {
+          "EMPHAS": {
+            "#text": "Catch-the-eye procedure",
+            "@_NAME": "I"
+          }
+        },
+        {
+          "EMPHAS": {
+            "#text": "(End of catch-the-eye procedure)",
+            "@_NAME": "I"
+          }
+        }
+      ],
+      "@_NUMBER": "10"
+    },
+    "intervention": {
+      "ORATEUR": {
+        "LG": "PL",
+        "EMPHAS": {
+          "#text": "Tomasz Frankowski,",
+          "@_NAME": "B"
+        },
+        "@_PP": "PPE",
+        "@_LG": "PL",
+        "@_MEPID": "197513",
+        "@_CODICT": "197513",
+        "@_LIB": "Tomasz | Frankowski",
+        "@_SPEAKER_TYPE": "au nom du groupe"
+      },
+      "PARA": [
+        {
+          "EMPHAS": [
+            {
+              "#text": "w imieniu grupy PPE",
+              "@_NAME": "I"
+            },
+            {
+              "#text": ".",
+              "@_NAME": "B"
+            }
+          ],
+          "#text": "– Pani Przewodnicząca! Niezależne media odgrywają wyjątkową rolę w demokracji. Przyczyniają się do kształtowania opinii publicznej, pomagają obywatelom formułować poglądy oraz dokonywać świadomych wyborów. Dlatego media nie mogą być traktowane tak samo jak inne przedsiębiorstwa, a ich niezależność musi być chroniona na szczeblu Unii Europejskiej. Dlatego w tym miejscu chciałbym pogratulować naszej sprawozdawczyni Sabine Verheugen oraz naszej Komisji Edukacji i Kultury za bardzo intensywne negocjacje, które przyniosły rezultaty, dzięki czemu możemy przyjąć ten akt wolności mediów jeszcze w tej kadencji."
+        },
+        "Ten akt jest niezmiernie ważną częścią wysiłków Unii Europejskiej na rzecz promowania demokratycznego uczestnictwa, ochrony dziennikarzy oraz wspierania wolności i pluralizmu mediów. Zapewni również transparentność w kwestii struktur właścicielskich i finansowych redakcji. Co więcej, ta regulacja zagwarantuje zabezpieczenia dla mediów przed nieuzasadnionymi działaniami z zakresu moderacji przez wielkie platformy online. Nakłada na nie obowiązek proaktywnej walki z niedozwolonymi treściami, takimi jak mowa nienawiści, dezinformacja czy zachęcanie do terroryzmu.",
+        "Przyjmując ten akt w przededniu wyborów europejskich, potwierdzamy, że wolność mediów jest jedną z podwalin europejskiej demokracji."
+      ]
+    },
+    "idx": 5
+  }
+}
